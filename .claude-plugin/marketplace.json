@@ -1,6 +1,6 @@
 {
   "$schema": "https://www.schemastore.org/claude-code-marketplace.json",
-  "name": "sheepduck-ai-setup",
+  "name": "agentkit",
   "owner": { "name": "SheepDuck" },
   "plugins": [
     {

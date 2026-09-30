@@ -1,39 +1,192 @@
 {
   "_comment": "스택/카테고리 태깅 키워드. 레포 name/description/topics에 매칭. 소문자.",
   "stacks": {
-    "java":       ["java", "jvm", "maven", "gradle"],
-    "spring":     ["spring", "spring-boot", "springboot"],
-    "kotlin":     ["kotlin", "ktor"],
-    "python":     ["python", "pip", "poetry", "uv"],
-    "django":     ["django"],
-    "fastapi":    ["fastapi"],
-    "typescript": ["typescript", "ts"],
-    "javascript": ["javascript", "node", "nodejs"],
-    "react":      ["react", "jsx"],
-    "nextjs":     ["nextjs", "next.js", "next-js"],
-    "nestjs":     ["nestjs"],
-    "vue":        ["vue", "nuxt"],
-    "go":         ["golang", "go-lang"],
-    "rust":       ["rust", "cargo"],
-    "unity":      ["unity", "unity3d", "csharp", "c#"],
-    "swift":      ["swift", "swiftui", "ios"],
-    "flutter":    ["flutter", "dart"],
-    "oracle":     ["oracle", "plsql", "pl/sql"],
-    "postgres":   ["postgres", "postgresql"],
-    "docker":     ["docker", "kubernetes", "k8s", "helm"],
-    "aws":        ["aws", "lambda", "cdk"]
+    "java": [
+      "java",
+      "jvm",
+      "maven",
+      "gradle"
+    ],
+    "spring": [
+      "spring",
+      "spring-boot",
+      "springboot"
+    ],
+    "kotlin": [
+      "kotlin",
+      "ktor"
+    ],
+    "python": [
+      "python",
+      "pip",
+      "poetry",
+      "uv"
+    ],
+    "django": [
+      "django"
+    ],
+    "fastapi": [
+      "fastapi"
+    ],
+    "typescript": [
+      "typescript",
+      "ts"
+    ],
+    "javascript": [
+      "javascript",
+      "node",
+      "nodejs"
+    ],
+    "react": [
+      "react",
+      "jsx"
+    ],
+    "nextjs": [
+      "nextjs",
+      "next.js",
+      "next-js"
+    ],
+    "nestjs": [
+      "nestjs"
+    ],
+    "vue": [
+      "vue",
+      "nuxt"
+    ],
+    "go": [
+      "golang",
+      "go-lang"
+    ],
+    "rust": [
+      "rust",
+      "cargo"
+    ],
+    "unity": [
+      "unity",
+      "unity3d"
+    ],
+    "swift": [
+      "swift",
+      "swiftui",
+      "ios"
+    ],
+    "flutter": [
+      "flutter",
+      "dart"
+    ],
+    "oracle": [
+      "oracle",
+      "plsql",
+      "pl/sql"
+    ],
+    "postgres": [
+      "postgres",
+      "postgresql"
+    ],
+    "docker": [
+      "docker",
+      "kubernetes",
+      "k8s",
+      "helm"
+    ],
+    "aws": [
+      "aws",
+      "lambda",
+      "cdk"
+    ],
+    "mysql": [
+      "mysql",
+      "mariadb"
+    ],
+    "prisma": [
+      "prisma"
+    ],
+    "tailwind": [
+      "tailwind",
+      "tailwindcss"
+    ],
+    "playwright": [
+      "playwright"
+    ],
+    "csharp": [
+      "csharp",
+      "c#",
+      ".net",
+      "dotnet"
+    ],
+    "flask": [
+      "flask"
+    ]
   },
   "categories": {
-    "workflow": ["tdd", "workflow", "planning", "brainstorm", "superpowers", "agile"],
-    "review":   ["review", "code-review", "lint", "quality"],
-    "testing":  ["test", "testing", "playwright", "e2e", "jest", "junit", "pytest"],
-    "frontend": ["frontend", "ui", "ux", "design", "tailwind", "css"],
-    "docs":     ["docs", "documentation", "readme", "changelog"],
-    "security": ["security", "secret", "vuln", "audit", "owasp"],
-    "db":       ["sql", "database", "db", "migration", "schema"],
-    "devops":   ["ci", "cd", "deploy", "devops", "github-actions", "infra"],
-    "mcp":      ["mcp", "model-context-protocol"],
-    "memory":   ["memory", "context", "session"]
+    "workflow": [
+      "tdd",
+      "workflow",
+      "planning",
+      "brainstorm",
+      "superpowers",
+      "agile"
+    ],
+    "review": [
+      "review",
+      "code-review",
+      "lint",
+      "quality"
+    ],
+    "testing": [
+      "test",
+      "testing",
+      "playwright",
+      "e2e",
+      "jest",
+      "junit",
+      "pytest"
+    ],
+    "frontend": [
+      "frontend",
+      "ui",
+      "ux",
+      "design",
+      "tailwind",
+      "css"
+    ],
+    "docs": [
+      "docs",
+      "documentation",
+      "readme",
+      "changelog"
+    ],
+    "security": [
+      "security",
+      "secret",
+      "vuln",
+      "audit",
+      "owasp"
+    ],
+    "db": [
+      "sql",
+      "database",
+      "db",
+      "migration",
+      "schema"
+    ],
+    "devops": [
+      "ci",
+      "cd",
+      "deploy",
+      "devops",
+      "github-actions",
+      "infra"
+    ],
+    "mcp": [
+      "mcp",
+      "model-context-protocol"
+    ],
+    "memory": [
+      "memory",
+      "context",
+      "session"
+    ]
   },
   "queries": [
     "topic:claude-skills",
@@ -45,5 +198,7 @@
     "topic:mcp-server claude",
     "\"SKILL.md\" in:readme claude"
   ],
-  "official_owners": ["anthropics"]
+  "official_owners": [
+    "anthropics"
+  ]
 }
