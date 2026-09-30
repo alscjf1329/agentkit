@@ -1,0 +1,12 @@
+{
+  "$schema": "https://www.schemastore.org/claude-code-marketplace.json",
+  "name": "sheepduck-ai-setup",
+  "owner": { "name": "SheepDuck" },
+  "plugins": [
+    {
+      "name": "stack-setup",
+      "source": "./plugins/stack-setup",
+      "description": "프로젝트 스택 기준으로 최신 트렌드 스킬/플러그인 추천 + 설치"
+    }
+  ]
+}

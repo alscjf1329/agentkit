@@ -1,0 +1,6 @@
+{
+  "name": "stack-setup",
+  "version": "0.1.0",
+  "description": "프로젝트 스택 감지 → 주간 트렌드 인덱스 기반 스킬/플러그인 추천 → 선택 설치",
+  "author": { "name": "SheepDuck" }
+}
