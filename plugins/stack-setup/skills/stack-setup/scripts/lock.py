@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """설치 기록 관리: <project>/.claude/stack-setup.lock.json
 사용:
-  lock.py add --repo owner/name --kind plugin|skill|mcp --scope project|user [--cmd "..."] [--project DIR]
+  lock.py add --repo owner/name --kind plugin|skill|mcp|prompt --scope project|user [--cmd "..."] [--project DIR]
   lock.py remove --repo owner/name [--project DIR]
   lock.py list [--project DIR]
 """

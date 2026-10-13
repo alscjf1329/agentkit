@@ -88,8 +88,8 @@ def inspect_tree(r):
     body, _ = api(f"/repos/{r['full_name']}/git/trees/{r['default_branch']}", {"recursive": "1"})
     paths = [t["path"] for t in body.get("tree", []) if t.get("type") == "blob"]
     low = [p.lower() for p in paths]
-    info = {"skills": [], "plugins": [], "marketplace": None, "has_hooks": False, "has_mcp": False,
-            "has_scripts": False}
+    info = {"skills": [], "plugins": [], "commands": [], "marketplace": None, "has_hooks": False,
+            "has_mcp": False, "has_scripts": False}
 
     # 플러그인 마켓플레이스
     if ".claude-plugin/marketplace.json" in low:
@@ -106,6 +106,8 @@ def inspect_tree(r):
         if p.endswith("/skill.md") or p == "skill.md":
             name = p.rsplit("/", 2)[-2] if "/" in p else r["name"]
             info["skills"].append(name)
+        if "/commands/" in p and p.endswith(".md"):
+            info["commands"].append(p.rsplit("/", 1)[-1][:-3])
         if p.endswith("hooks.json") or p.endswith("hooks/hooks.json") or "/hooks/" in p:
             info["has_hooks"] = True
         if p.endswith(".mcp.json") or "mcp-server" in p or p.endswith("mcp.json"):
@@ -113,6 +115,7 @@ def inspect_tree(r):
         if p.endswith((".sh", ".ps1", ".py", ".js", ".ts")) and ("scripts/" in p or "hooks/" in p):
             info["has_scripts"] = True
     info["skills"] = sorted(set(info["skills"]))[:50]
+    info["commands"] = sorted(set(info["commands"]))[:50]
     return info
 
 
@@ -151,6 +154,8 @@ def install_cmds(r, info):
             cmds.append(f"npx skills add {name} --skill <{'|'.join(info['skills'][:5])}>")
     elif info["has_mcp"]:
         cmds.append(f"# MCP 서버: README 설치법 확인 https://github.com/{name}")
+    elif info.get("commands"):
+        cmds.append(f"# 프롬프트: .claude/commands/*.md 를 프로젝트에 복사 https://github.com/{name}")
     return cmds
 
 
@@ -161,6 +166,8 @@ def kind_of(info):
         return "skill"
     if info["has_mcp"]:
         return "mcp"
+    if info.get("commands"):
+        return "prompt"
     return None
 
 
@@ -178,7 +185,7 @@ def tag(text, tokens, table):
 
 def tags_for(r, info):
     parts = [r["name"], r.get("description") or "", " ".join(r.get("topics", [])),
-             " ".join(info["skills"]), " ".join(info["plugins"])]
+             " ".join(info["skills"]), " ".join(info["plugins"]), " ".join(info.get("commands", []))]
     text = " ".join(parts).lower()
     tokens = set(text.replace("/", " ").replace("_", " ").replace("-", " ").split()) | set(text.split())
     # 레포 주 언어는 스킬의 '구현 언어'라 스택 판단에 안 씀 (오태깅 원인)
@@ -241,8 +248,8 @@ def build(repos, prev):
                 continue
         kind = kind_of(info) if "skills" in info else p.get("kind")
         if not kind:
-            continue  # 진짜 스킬/플러그인/MCP 아님 → 제외
-        stacks, cats = tags_for(r, {**{"skills": [], "plugins": []}, **info})
+            continue  # 진짜 스킬/플러그인/MCP/프롬프트 아님 → 제외
+        stacks, cats = tags_for(r, {**{"skills": [], "plugins": [], "commands": []}, **info})
         out.append({
             "repo": r["full_name"],
             "url": r["html_url"],
@@ -252,6 +259,7 @@ def build(repos, prev):
             "categories": cats,
             "skills": info.get("skills", [])[:10],
             "plugins": info.get("plugins", [])[:10],
+            "commands": info.get("commands", [])[:10],
             "stars": r["stargazers_count"],
             "weekly_stars": round(weekly, 1),
             "growth_method": method,          # stargazers(실측) | snapshot(주간 비교) | estimate(추정)

@@ -73,10 +73,11 @@ PY "SKILL_DIR/scripts/recommend.py" --stacks <콤마구분> --project . --top 3
 | plugin | `/plugin marketplace add <repo>` → `/plugin install <plugin>@<marketplace>` — 슬래시 명령은 사용자가 입력해야 하므로 복사할 명령을 제시. 프로젝트 범위면 `claude plugin install <plugin>@<marketplace> --scope project` 를 셸로 실행 가능 |
 | skill | `npx skills add <repo>` (여러 스킬 레포면 `--skill <이름>`, 전역이면 `--global`) |
 | mcp | README 설치법대로 `.mcp.json` 에 추가. 키는 `${ENV}` 참조로 쓰고 `.env` + `.gitignore` 확인 |
+| prompt | 공식 설치 명령 없음 — 레포의 `.claude/commands/*.md` 를 프로젝트 `.claude/commands/` (전역이면 `~/.claude/commands/`) 로 복사 |
 
 설치 성공한 것만 기록:
 ```bash
-PY "SKILL_DIR/scripts/lock.py" add --repo <owner/repo> --kind <plugin|skill|mcp> --scope <project|user> --cmd "<실행한 명령>"
+PY "SKILL_DIR/scripts/lock.py" add --repo <owner/repo> --kind <plugin|skill|mcp|prompt> --scope <project|user> --cmd "<실행한 명령>"
 ```
 
 ## 6. 마무리

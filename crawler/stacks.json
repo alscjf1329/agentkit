@@ -196,7 +196,10 @@
     "topic:claude-code-plugins",
     "topic:claude-code",
     "topic:mcp-server claude",
-    "\"SKILL.md\" in:readme claude"
+    "\"SKILL.md\" in:readme claude",
+    "topic:claude-commands",
+    "topic:claude-code-commands",
+    "\".claude/commands\" in:readme"
   ],
   "official_owners": [
     "anthropics"
