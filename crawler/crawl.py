@@ -189,10 +189,12 @@ def tags_for(r, info):
 
 # ---------------------------------------------------------------- 4. 점수
 def score(stars, weekly, pushed, official):
-    return round(math.log1p(max(weekly, 0)) * 3      # 성장 속도 (메인)
-                 + math.log1p(stars) * 0.5            # 규모 (보조)
-                 + math.exp(-pushed / 30) * 2         # 활발함
-                 + (3 if official else 0), 2)         # 공식 가산점
+    """설치 추천 기준. 규모·활발함·공식여부가 메인 — 주간 성장은 신규 후보 발견용 보조 신호일 뿐,
+    "이번 주 떴다"만으로 프로젝트에 설치할 걸 고르진 않음."""
+    return round(math.log1p(stars) * 3                # 규모·채택 정도 (메인)
+                 + math.log1p(max(weekly, 0)) * 1     # 성장 속도 (보조: 발견용)
+                 + math.exp(-pushed / 30) * 2          # 활발함
+                 + (3 if official else 0), 2)          # 공식 가산점
 
 
 def build(repos, prev):

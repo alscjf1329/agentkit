@@ -2,12 +2,12 @@
 
 > 새 프로젝트는 [agentkit-template](https://github.com/alscjf1329/agentkit-template) 로 시작하면 이 플러그인이 자동 등록됨.
 
-프로젝트 스택 정해지면 → **이번 주 GitHub 트렌드 기준**으로 스킬/플러그인/MCP 추천 → 검토 후 설치.
+프로젝트 스택 정해지면 → **GitHub 트렌드 기준**으로 스킬/플러그인/MCP 추천 → 검토 후 설치.
 
 ## 구조
 
 ```
-.github/workflows/update-index.yml   매주 월 09:00 KST 크롤링 (GitHub Actions)
+.github/workflows/update-index.yml   매일 09:00 KST 크롤링 (GitHub Actions)
 crawler/crawl.py                     GitHub 검색 → 태깅 → 트렌드 점수 → index/index.json
 crawler/stacks.json                  스택·카테고리 키워드, 검색 쿼리 (여기만 고치면 튜닝됨)
 index/index.json                     생성된 인덱스
@@ -23,11 +23,12 @@ plugins/stack-setup/skills/stack-setup/
 ## 트렌드 점수
 
 ```
-score = log(최근 7일 스타) * 3     ← 메인: 지금 뜨는 정도
-      + log(총 스타) * 0.5         ← 규모
+score = log(총 스타) * 3           ← 메인: 규모·채택 정도
+      + log(최근 7일 스타) * 1      ← 보조: 지금 성장세 (신규 후보 발견용, 단독 추천 기준 아님)
       + exp(-마지막커밋일/30) * 2   ← 활발함
       + 공식(anthropics) 3
 ```
+- 설치 추천의 메인 기준은 **규모(총 스타) + 활발함(최근 커밋) + 공식 여부**. "이번 주 떴다"만으로 프로젝트에 설치할 걸 고르진 않음 — 주간 성장은 신규 후보를 찾아내는 보조 신호일 뿐
 - 최근 7일 스타는 stargazers API 타임스탬프로 **첫 실행부터 실측** (`growth_method: stargazers`)
   - API 한도 걸리면 지난 인덱스 대비(`snapshot`) → 그것도 없으면 평균 속도 추정(`estimate`)
 - 레포 파일트리로 **실제 구성 확인**: `.claude-plugin/marketplace.json` / `SKILL.md` / MCP 설정
@@ -58,6 +59,28 @@ python3 plugins/stack-setup/skills/stack-setup/scripts/recommend.py --stacks spr
 
 윈도우: `python3` 대신 `python` 또는 `py -3`. 스킬은 셋 중 되는 걸 자동으로 고름.
 
+## stack-light 연동 (계획)
+
+agentkit은 "GitHub만, 가볍게" 유지한다. 멀티소스 수집(npm/PyPI 다운로드, HN/GeekNews 언급, 채용공고)과 LLM 채택판정(Adopt/Trial/Assess/Hold)은 [stack-light](../stack-light)가 책임지는 영역 — 거기서 다시 만들지 않는다.
+
+stack-light 로드맵 2단계에 "agentkit 연동 API"가 있고, 그게 나오면 `recommend.py`에서 **Hold 판정 항목을 걸러내는 신호로만** 가볍게 붙인다 (판정 로직 자체를 agentkit에 복제하지 않음). 지금은 stack-light가 0단계(검증) 중이라 비연동 상태.
+
+```mermaid
+flowchart LR
+  subgraph A["agentkit · 지금"]
+    GH["GitHub 검색 API"] --> CR["crawler/crawl.py<br/>매일 크롤링"]
+    CR --> IDX["index/index.json<br/>규모+활발함 메인<br/>주간성장은 보조"]
+    IDX --> REC["recommend.py<br/>스택 매칭 우선"]
+  end
+  subgraph S["stack-light · 로드맵 2단계"]
+    SRC["GitHub + npm/PyPI<br/>+ HN/GeekNews + 채용"] --> SC["채택 스코어"]
+    SC --> V["Adopt / Trial / Assess / Hold"]
+    V --> API["연동 API"]
+  end
+  API -. "향후: Hold 제외 신호만 추가" .-> REC
+```
+
 ## TODO
+- stack-light 연동 API 나오면 `recommend.py`에 `--verdict-api` 옵션 (Hold 제외만, 가볍게)
 - 설치 수 지표 반영 (claude-plugins.dev / skills.sh)
 - 카테고리 태깅 LLM 보정 (키워드 매칭 한계)

@@ -2,7 +2,7 @@ name: update-trend-index
 
 on:
   schedule:
-    - cron: "0 0 * * 1"   # 매주 월 09:00 KST
+    - cron: "0 0 * * *"   # 매일 09:00 KST
   workflow_dispatch:
 
 permissions:
