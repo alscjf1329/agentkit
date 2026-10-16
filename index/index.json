@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-15T03:59:36.947222Z",
- "count": 134,
+ "generated_at": "2026-10-16T03:56:47.258095Z",
+ "count": 135,
  "entries": [
   {
    "repo": "morluto/rea",
@@ -25,11 +25,11 @@
    ],
    "plugins": [],
    "commands": [],
-   "stars": 247398,
-   "weekly_stars": 9411.9,
+   "stars": 274548,
+   "weekly_stars": 10388.3,
    "growth_method": "estimate",
    "pushed_days_ago": 0,
-   "created_days_ago": 184,
+   "created_days_ago": 185,
    "license": "MIT",
    "official": false,
    "risk": {
@@ -41,7 +41,7 @@
    "install": [
     "npx skills add morluto/rea --skill <rea-changelog-update|rea-ci-tests-audit|rea-tool-design|reverse-engineer-anything>"
    ],
-   "score": 48.41,
+   "score": 48.82,
    "_info": {
     "skills": [
      "rea-changelog-update",
@@ -106,11 +106,11 @@
     "code-review",
     "context-budget"
    ],
-   "stars": 279565,
-   "weekly_stars": 7248.0,
+   "stars": 280532,
+   "weekly_stars": 7246.2,
    "growth_method": "estimate",
-   "pushed_days_ago": 2,
-   "created_days_ago": 270,
+   "pushed_days_ago": 0,
+   "created_days_ago": 271,
    "license": "MIT",
    "official": false,
    "risk": {
@@ -123,7 +123,7 @@
     "/plugin marketplace add affaan-m/ECC",
     "/plugin install ecc@ecc"
    ],
-   "score": 48.38,
+   "score": 48.52,
    "_info": {
     "skills": [
      "accessibility",
@@ -263,11 +263,11 @@
    ],
    "plugins": [],
    "commands": [],
-   "stars": 253852,
-   "weekly_stars": 3957.6,
+   "stars": 254169,
+   "weekly_stars": 3953.7,
    "growth_method": "estimate",
    "pushed_days_ago": 0,
-   "created_days_ago": 449,
+   "created_days_ago": 450,
    "license": "MIT",
    "official": false,
    "risk": {
@@ -363,11 +363,11 @@
     "ponytail"
    ],
    "commands": [],
-   "stars": 163727,
-   "weekly_stars": 9168.7,
+   "stars": 164530,
+   "weekly_stars": 9140.6,
    "growth_method": "estimate",
-   "pushed_days_ago": 0,
-   "created_days_ago": 125,
+   "pushed_days_ago": 1,
+   "created_days_ago": 126,
    "license": "MIT",
    "official": false,
    "risk": {
@@ -380,7 +380,7 @@
     "/plugin marketplace add DietrichGebert/ponytail",
     "/plugin install ponytail@ponytail"
    ],
-   "score": 47.14,
+   "score": 47.09,
    "_info": {
     "skills": [
      "ponytail",
@@ -428,11 +428,11 @@
    ],
    "plugins": [],
    "commands": [],
-   "stars": 136432,
-   "weekly_stars": 4401.0,
+   "stars": 136584,
+   "weekly_stars": 4385.7,
    "growth_method": "estimate",
    "pushed_days_ago": 0,
-   "created_days_ago": 217,
+   "created_days_ago": 218,
    "license": "MIT",
    "official": false,
    "risk": {
@@ -522,11 +522,11 @@
    ],
    "plugins": [],
    "commands": [],
-   "stars": 191623,
-   "weekly_stars": 1470.8,
+   "stars": 191946,
+   "weekly_stars": 1471.7,
    "growth_method": "estimate",
    "pushed_days_ago": 0,
-   "created_days_ago": 912,
+   "created_days_ago": 913,
    "license": "AGPL-3.0",
    "official": false,
    "risk": {
@@ -538,7 +538,7 @@
    "install": [
     "npx skills add firecrawl/firecrawl --skill <firecrawl-build|firecrawl-build-interact|firecrawl-build-onboarding|firecrawl-build-scrape|firecrawl-build-search>"
    ],
-   "score": 45.78,
+   "score": 45.79,
    "_info": {
     "skills": [
      "firecrawl-build",
@@ -552,76 +552,6 @@
     "marketplace": null,
     "has_hooks": false,
     "has_mcp": false,
-    "has_scripts": true
-   }
-  },
-  {
-   "repo": "nextlevelbuilder/ui-ux-pro-max-skill",
-   "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
-   "description": "An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.",
-   "kind": "plugin",
-   "stacks": [
-    "react",
-    "tailwind"
-   ],
-   "categories": [
-    "review",
-    "frontend"
-   ],
-   "skills": [
-    "banner-design",
-    "brand",
-    "design",
-    "design-system",
-    "slides",
-    "ui-styling",
-    "ui-ux-pro-max"
-   ],
-   "plugins": [
-    "ui-ux-pro-max"
-   ],
-   "commands": [
-    "design-plan",
-    "design-review"
-   ],
-   "stars": 135912,
-   "weekly_stars": 2991.8,
-   "growth_method": "estimate",
-   "pushed_days_ago": 0,
-   "created_days_ago": 318,
-   "license": "MIT",
-   "official": false,
-   "risk": {
-    "hooks": false,
-    "scripts": true,
-    "no_license": false,
-    "new_repo": false
-   },
-   "install": [
-    "/plugin marketplace add nextlevelbuilder/ui-ux-pro-max-skill",
-    "/plugin install ui-ux-pro-max@ui-ux-pro-max-skill"
-   ],
-   "score": 45.46,
-   "_info": {
-    "skills": [
-     "banner-design",
-     "brand",
-     "design",
-     "design-system",
-     "slides",
-     "ui-styling",
-     "ui-ux-pro-max"
-    ],
-    "plugins": [
-     "ui-ux-pro-max"
-    ],
-    "commands": [
-     "design-plan",
-     "design-review"
-    ],
-    "marketplace": "ui-ux-pro-max-skill",
-    "has_hooks": false,
-    "has_mcp": true,
     "has_scripts": true
    }
   },
@@ -655,11 +585,11 @@
    "commands": [
     "od-contribute"
    ],
-   "stars": 101193,
-   "weekly_stars": 4191.4,
+   "stars": 101385,
+   "weekly_stars": 4174.7,
    "growth_method": "estimate",
    "pushed_days_ago": 0,
-   "created_days_ago": 169,
+   "created_days_ago": 170,
    "license": "Apache-2.0",
    "official": false,
    "risk": {
@@ -739,6 +669,112 @@
    }
   },
   {
+   "repo": "paperclipai/paperclip",
+   "url": "https://github.com/paperclipai/paperclip",
+   "description": "The open-source app everyone uses to manage agents at work",
+   "kind": "skill",
+   "stacks": [],
+   "categories": [
+    "workflow",
+    "testing",
+    "frontend",
+    "security",
+    "mcp",
+    "memory"
+   ],
+   "skills": [
+    "add-product-e2e-eval",
+    "add-runner-eval",
+    "agent-browser",
+    "agentmail",
+    "check-pr",
+    "company-creator",
+    "complain",
+    "content-calendar",
+    "create-agent-adapter",
+    "create-external-bot-integration"
+   ],
+   "plugins": [],
+   "commands": [],
+   "stars": 102805,
+   "weekly_stars": 3170.2,
+   "growth_method": "estimate",
+   "pushed_days_ago": 0,
+   "created_days_ago": 227,
+   "license": "MIT",
+   "official": false,
+   "risk": {
+    "hooks": true,
+    "scripts": true,
+    "no_license": false,
+    "new_repo": false
+   },
+   "install": [
+    "npx skills add paperclipai/paperclip --skill <add-product-e2e-eval|add-runner-eval|agent-browser|agentmail|check-pr>"
+   ],
+   "score": 44.68,
+   "_info": {
+    "skills": [
+     "add-product-e2e-eval",
+     "add-runner-eval",
+     "agent-browser",
+     "agentmail",
+     "check-pr",
+     "company-creator",
+     "complain",
+     "content-calendar",
+     "create-agent-adapter",
+     "create-external-bot-integration",
+     "create-issue-interaction-ui",
+     "create-paperclip-bundled-skill",
+     "create-verification-skill",
+     "deal-with-security-advisory",
+     "delegate-work",
+     "design-critique",
+     "design-guide",
+     "diagnose-why-work-stopped",
+     "doc-maintenance",
+     "first-task",
+     "fix-slow-queries",
+     "follow-up-results",
+     "garden-inbox",
+     "github-pr-workflow",
+     "honeycomb-tracing",
+     "index-refresh",
+     "issue-triage",
+     "maintain-storybook",
+     "maintain-verification-skill",
+     "paperclip",
+     "paperclip-board",
+     "paperclip-capsules",
+     "paperclip-converting-plans-to-tasks",
+     "paperclip-create-agent",
+     "paperclip-create-plugin",
+     "paperclip-dev-workspace-run-verify-fix",
+     "paperclip-distill",
+     "paperclip-evals",
+     "paperclip-page",
+     "paperclip-task-bridge",
+     "para-memory-files",
+     "pr-gardening",
+     "pr-report",
+     "prcheckloop",
+     "prepare-mcp-integration",
+     "prepare-paperclip-pr",
+     "qa-acceptance",
+     "ramp",
+     "reflection-coach",
+     "release"
+    ],
+    "plugins": [],
+    "commands": [],
+    "marketplace": null,
+    "has_hooks": true,
+    "has_mcp": true,
+    "has_scripts": true
+   }
+  },
+  {
    "repo": "addyosmani/agent-skills",
    "url": "https://github.com/addyosmani/agent-skills",
    "description": "Production-grade engineering skills for AI coding agents.",
@@ -781,11 +817,11 @@
     "test",
     "webperf"
    ],
-   "stars": 106734,
-   "weekly_stars": 3100.2,
+   "stars": 107095,
+   "weekly_stars": 3097.8,
    "growth_method": "estimate",
-   "pushed_days_ago": 1,
-   "created_days_ago": 241,
+   "pushed_days_ago": 2,
+   "created_days_ago": 242,
    "license": "MIT",
    "official": false,
    "risk": {
@@ -798,7 +834,7 @@
     "/plugin marketplace add addyosmani/agent-skills",
     "/plugin install agent-skills@addy-agent-skills"
    ],
-   "score": 44.71,
+   "score": 44.65,
    "_info": {
     "skills": [
      "api-and-interface-design",
@@ -848,182 +884,6 @@
    }
   },
   {
-   "repo": "paperclipai/paperclip",
-   "url": "https://github.com/paperclipai/paperclip",
-   "description": "The open-source app everyone uses to manage agents at work",
-   "kind": "skill",
-   "stacks": [],
-   "categories": [
-    "workflow",
-    "testing",
-    "frontend",
-    "security",
-    "mcp",
-    "memory"
-   ],
-   "skills": [
-    "add-product-e2e-eval",
-    "add-runner-eval",
-    "agent-browser",
-    "agentmail",
-    "check-pr",
-    "company-creator",
-    "complain",
-    "content-calendar",
-    "create-agent-adapter",
-    "create-external-bot-integration"
-   ],
-   "plugins": [],
-   "commands": [],
-   "stars": 102236,
-   "weekly_stars": 3166.6,
-   "growth_method": "estimate",
-   "pushed_days_ago": 0,
-   "created_days_ago": 226,
-   "license": "MIT",
-   "official": false,
-   "risk": {
-    "hooks": true,
-    "scripts": true,
-    "no_license": false,
-    "new_repo": false
-   },
-   "install": [
-    "npx skills add paperclipai/paperclip --skill <add-product-e2e-eval|add-runner-eval|agent-browser|agentmail|check-pr>"
-   ],
-   "score": 44.67,
-   "_info": {
-    "skills": [
-     "add-product-e2e-eval",
-     "add-runner-eval",
-     "agent-browser",
-     "agentmail",
-     "check-pr",
-     "company-creator",
-     "complain",
-     "content-calendar",
-     "create-agent-adapter",
-     "create-external-bot-integration",
-     "create-issue-interaction-ui",
-     "create-paperclip-bundled-skill",
-     "create-verification-skill",
-     "deal-with-security-advisory",
-     "delegate-work",
-     "design-critique",
-     "design-guide",
-     "diagnose-why-work-stopped",
-     "doc-maintenance",
-     "first-task",
-     "fix-slow-queries",
-     "follow-up-results",
-     "garden-inbox",
-     "github-pr-workflow",
-     "index-refresh",
-     "issue-triage",
-     "maintain-storybook",
-     "maintain-verification-skill",
-     "paperclip",
-     "paperclip-board",
-     "paperclip-capsules",
-     "paperclip-converting-plans-to-tasks",
-     "paperclip-create-agent",
-     "paperclip-create-plugin",
-     "paperclip-dev-workspace-run-verify-fix",
-     "paperclip-distill",
-     "paperclip-evals",
-     "paperclip-page",
-     "paperclip-task-bridge",
-     "para-memory-files",
-     "pr-gardening",
-     "pr-report",
-     "prcheckloop",
-     "prepare-mcp-integration",
-     "prepare-paperclip-pr",
-     "qa-acceptance",
-     "ramp",
-     "reflection-coach",
-     "release",
-     "release-announcement"
-    ],
-    "plugins": [],
-    "commands": [],
-    "marketplace": null,
-    "has_hooks": true,
-    "has_mcp": true,
-    "has_scripts": true
-   }
-  },
-  {
-   "repo": "Leonxlnx/taste-skill",
-   "url": "https://github.com/Leonxlnx/taste-skill",
-   "description": "Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages",
-   "kind": "plugin",
-   "stacks": [],
-   "categories": [
-    "frontend"
-   ],
-   "skills": [
-    "brandkit",
-    "brutalist-skill",
-    "gpt-tasteskill",
-    "image-to-code-skill",
-    "imagegen-frontend-mobile",
-    "imagegen-frontend-web",
-    "minimalist-skill",
-    "output-skill",
-    "redesign-skill",
-    "soft-skill"
-   ],
-   "plugins": [
-    "taste-skill"
-   ],
-   "commands": [],
-   "stars": 96565,
-   "weekly_stars": 2852.1,
-   "growth_method": "estimate",
-   "pushed_days_ago": 0,
-   "created_days_ago": 237,
-   "license": "MIT",
-   "official": false,
-   "risk": {
-    "hooks": false,
-    "scripts": false,
-    "no_license": false,
-    "new_repo": false
-   },
-   "install": [
-    "/plugin marketplace add Leonxlnx/taste-skill",
-    "/plugin install taste-skill@taste-skill"
-   ],
-   "score": 44.39,
-   "_info": {
-    "skills": [
-     "brandkit",
-     "brutalist-skill",
-     "gpt-tasteskill",
-     "image-to-code-skill",
-     "imagegen-frontend-mobile",
-     "imagegen-frontend-web",
-     "minimalist-skill",
-     "output-skill",
-     "redesign-skill",
-     "soft-skill",
-     "stitch-skill",
-     "taste-skill",
-     "taste-skill-v1",
-     "taste-skill-v2-experimental"
-    ],
-    "plugins": [
-     "taste-skill"
-    ],
-    "commands": [],
-    "marketplace": "taste-skill",
-    "has_hooks": false,
-    "has_mcp": false,
-    "has_scripts": false
-   }
-  },
-  {
    "repo": "stablyai/orca",
    "url": "https://github.com/stablyai/orca",
    "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
@@ -1044,11 +904,11 @@
    ],
    "plugins": [],
    "commands": [],
-   "stars": 92654,
-   "weekly_stars": 3059.3,
+   "stars": 93641,
+   "weekly_stars": 3077.4,
    "growth_method": "estimate",
    "pushed_days_ago": 0,
-   "created_days_ago": 212,
+   "created_days_ago": 213,
    "license": "MIT",
    "official": false,
    "risk": {
@@ -1060,7 +920,7 @@
    "install": [
     "npx skills add stablyai/orca --skill <computer-use|jira-tickets|linear-tickets|orca-chat-visuals|orca-cli>"
    ],
-   "score": 44.34,
+   "score": 44.37,
    "_info": {
     "skills": [
      "computer-use",
@@ -1084,51 +944,6 @@
    }
   },
   {
-   "repo": "harry0703/MoneyPrinterTurbo",
-   "url": "https://github.com/harry0703/MoneyPrinterTurbo",
-   "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
-   "kind": "skill",
-   "stacks": [
-    "python"
-   ],
-   "categories": [
-    "workflow"
-   ],
-   "skills": [
-    "skill"
-   ],
-   "plugins": [],
-   "commands": [],
-   "stars": 130981,
-   "weekly_stars": 967.2,
-   "growth_method": "estimate",
-   "pushed_days_ago": 0,
-   "created_days_ago": 948,
-   "license": "MIT",
-   "official": false,
-   "risk": {
-    "hooks": false,
-    "scripts": false,
-    "no_license": false,
-    "new_repo": false
-   },
-   "install": [
-    "npx skills add harry0703/MoneyPrinterTurbo"
-   ],
-   "score": 44.22,
-   "_info": {
-    "skills": [
-     "skill"
-    ],
-    "plugins": [],
-    "commands": [],
-    "marketplace": null,
-    "has_hooks": false,
-    "has_mcp": false,
-    "has_scripts": false
-   }
-  },
-  {
    "repo": "tt-a1i/archify",
    "url": "https://github.com/tt-a1i/archify",
    "description": "Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.",
@@ -1148,11 +963,11 @@
    ],
    "plugins": [],
    "commands": [],
-   "stars": 83645,
-   "weekly_stars": 3217.1,
+   "stars": 84119,
+   "weekly_stars": 3217.7,
    "growth_method": "estimate",
    "pushed_days_ago": 0,
-   "created_days_ago": 182,
+   "created_days_ago": 183,
    "license": "MIT",
    "official": false,
    "risk": {
@@ -1164,7 +979,7 @@
    "install": [
     "npx skills add tt-a1i/archify --skill <archify|archify-review|archify-tuning|simplify-codebase|test-value>"
    ],
-   "score": 44.08,
+   "score": 44.1,
    "_info": {
     "skills": [
      "archify",
@@ -1210,11 +1025,11 @@
    "commands": [
     "anti-pattern-czar"
    ],
-   "stars": 100805,
-   "weekly_stars": 1725.3,
+   "stars": 101089,
+   "weekly_stars": 1725.9,
    "growth_method": "estimate",
-   "pushed_days_ago": 1,
-   "created_days_ago": 409,
+   "pushed_days_ago": 0,
+   "created_days_ago": 410,
    "license": "Apache-2.0",
    "official": false,
    "risk": {
@@ -1228,7 +1043,7 @@
     "/plugin install claude-mem@thedotmack",
     "/plugin install claude-mem-cowork@thedotmack"
    ],
-   "score": 43.95,
+   "score": 44.03,
    "_info": {
     "skills": [
      "agent-cost-report",
@@ -1296,11 +1111,11 @@
     "understand-anything"
    ],
    "commands": [],
-   "stars": 86321,
-   "weekly_stars": 2823.6,
+   "stars": 86513,
+   "weekly_stars": 2816.7,
    "growth_method": "estimate",
-   "pushed_days_ago": 2,
-   "created_days_ago": 214,
+   "pushed_days_ago": 3,
+   "created_days_ago": 215,
    "license": "MIT",
    "official": false,
    "risk": {
@@ -1313,7 +1128,7 @@
     "/plugin marketplace add Egonex-AI/Understand-Anything",
     "/plugin install understand-anything@understand-anything"
    ],
-   "score": 43.91,
+   "score": 43.86,
    "_info": {
     "skills": [
      "understand",
@@ -1359,11 +1174,11 @@
     "career-ops-interview-intel",
     "career-ops-interview-prep"
    ],
-   "stars": 74610,
-   "weekly_stars": 2706.1,
+   "stars": 75069,
+   "weekly_stars": 2708.7,
    "growth_method": "estimate",
    "pushed_days_ago": 0,
-   "created_days_ago": 193,
+   "created_days_ago": 194,
    "license": "MIT",
    "official": false,
    "risk": {
@@ -1376,7 +1191,7 @@
     "/plugin marketplace add career-ops-hq/career-ops",
     "/plugin install career-ops@career-ops"
    ],
-   "score": 43.56,
+   "score": 43.58,
    "_info": {
     "skills": [
      "_template",
@@ -1429,11 +1244,11 @@
    "commands": [
     "bridge-check"
    ],
-   "stars": 76664,
-   "weekly_stars": 2208.4,
+   "stars": 77087,
+   "weekly_stars": 2211.5,
    "growth_method": "estimate",
    "pushed_days_ago": 0,
-   "created_days_ago": 243,
+   "created_days_ago": 244,
    "license": "MIT",
    "official": false,
    "risk": {
@@ -1445,7 +1260,7 @@
    "install": [
     "npx skills add diegosouzapw/OmniRoute --skill <bridge-proof|cli-a2a|cli-backup-sync|cli-batches|cli-chat>"
    ],
-   "score": 43.44,
+   "score": 43.46,
    "_info": {
     "skills": [
      "bridge-proof",
@@ -1510,41 +1325,210 @@
    }
   },
   {
-   "repo": "rohitg00/ai-engineering-from-scratch",
-   "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-   "description": "Learn AI Engineering! Learn it. Build it. Ship it for others.",
-   "kind": "skill",
+   "repo": "anthropics/claude-plugins-official",
+   "url": "https://github.com/anthropics/claude-plugins-official",
+   "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+   "kind": "plugin",
    "stacks": [
-    "python",
-    "typescript",
-    "rust"
+    "docker",
+    "aws"
    ],
    "categories": [
     "review",
     "testing",
-    "db",
-    "mcp"
+    "frontend",
+    "security",
+    "mcp",
+    "memory"
    ],
    "skills": [
-    "benign",
-    "blueprint-figure",
-    "build-project",
-    "check-tests",
-    "check-understanding",
-    "claude-certification",
-    "course-guide",
-    "course-style",
-    "find-your-level",
-    "isometric-explainer"
+    "access",
+    "agent-development",
+    "build-mcp-app",
+    "build-mcp-server",
+    "build-mcpb",
+    "cardputer-buddy",
+    "claude-automation-recommender",
+    "claude-md-improver",
+    "claude-security",
+    "command-development"
    ],
-   "plugins": [],
-   "commands": [],
-   "stars": 69209,
-   "weekly_stars": 2307.0,
+   "plugins": [
+    "42crunch-api-security-testing",
+    "adobe-for-creativity",
+    "agent-sdk-dev",
+    "agentforce-adlc",
+    "ai-plugins",
+    "aikido",
+    "airtable",
+    "airwallex-agentos",
+    "airwallex-dev",
+    "aiven"
+   ],
+   "commands": [
+    "asana-setup",
+    "cancel-ralph",
+    "clean_gone",
+    "code-review",
+    "commit",
+    "commit-push-pr",
+    "configure",
+    "create-docker-mcp-tunnel",
+    "create-plugin",
+    "example-command"
+   ],
+   "stars": 39277,
+   "weekly_stars": 835.7,
    "growth_method": "estimate",
    "pushed_days_ago": 0,
-   "created_days_ago": 210,
-   "license": "MIT",
+   "created_days_ago": 329,
+   "license": "Apache-2.0",
+   "official": true,
+   "risk": {
+    "hooks": true,
+    "scripts": true,
+    "no_license": false,
+    "new_repo": false
+   },
+   "install": [
+    "/plugin marketplace add anthropics/claude-plugins-official",
+    "/plugin install 42crunch-api-security-testing@claude-plugins-official",
+    "/plugin install adobe-for-creativity@claude-plugins-official",
+    "/plugin install agent-sdk-dev@claude-plugins-official",
+    "/plugin install agentforce-adlc@claude-plugins-official",
+    "/plugin install ai-plugins@claude-plugins-official"
+   ],
+   "score": 43.46,
+   "_info": {
+    "skills": [
+     "access",
+     "agent-development",
+     "build-mcp-app",
+     "build-mcp-server",
+     "build-mcpb",
+     "cardputer-buddy",
+     "claude-automation-recommender",
+     "claude-md-improver",
+     "claude-security",
+     "command-development",
+     "configure",
+     "example-command",
+     "example-skill",
+     "frontend-design",
+     "hook-development",
+     "m5-onboard",
+     "math-olympiad",
+     "mcp-integration",
+     "playground",
+     "plugin-settings",
+     "plugin-structure",
+     "project-artifact",
+     "receipts",
+     "session-report",
+     "siege",
+     "skill-creator",
+     "skill-development",
+     "solo",
+     "writing-rules"
+    ],
+    "plugins": [
+     "42crunch-api-security-testing",
+     "adobe-for-creativity",
+     "agent-sdk-dev",
+     "agentforce-adlc",
+     "ai-plugins",
+     "aikido",
+     "airtable",
+     "airwallex-agentos",
+     "airwallex-dev",
+     "aiven",
+     "alloydb",
+     "alloydb-omni",
+     "altimate-code",
+     "amazon-location-service",
+     "amd-skills",
+     "amplitude",
+     "apollo",
+     "apollo-skills",
+     "appwrite",
+     "asana",
+     "astronomer-data-agents",
+     "atlan",
+     "atlassian",
+     "atlassian-twg-cli",
+     "atomic-agents",
+     "auth0",
+     "aws-agents",
+     "aws-agents-for-devsecops",
+     "aws-amplify",
+     "aws-core"
+    ],
+    "commands": [
+     "asana-setup",
+     "cancel-ralph",
+     "clean_gone",
+     "code-review",
+     "commit",
+     "commit-push-pr",
+     "configure",
+     "create-docker-mcp-tunnel",
+     "create-plugin",
+     "example-command",
+     "feature-dev",
+     "help",
+     "hookify",
+     "list",
+     "maker-setup",
+     "modernize",
+     "modernize-assess",
+     "modernize-brief",
+     "modernize-extract-rules",
+     "modernize-harden",
+     "modernize-map",
+     "modernize-preflight",
+     "modernize-reimagine",
+     "modernize-review",
+     "modernize-status",
+     "modernize-transform",
+     "modernize-uplift",
+     "modernize-verify",
+     "new-sdk-app",
+     "ralph-loop",
+     "review-pr",
+     "revise-claude-md"
+    ],
+    "marketplace": "claude-plugins-official",
+    "has_hooks": true,
+    "has_mcp": true,
+    "has_scripts": true
+   }
+  },
+  {
+   "repo": "headroomlabs-ai/headroom",
+   "url": "https://github.com/headroomlabs-ai/headroom",
+   "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
+   "kind": "plugin",
+   "stacks": [
+    "python",
+    "fastapi",
+    "typescript"
+   ],
+   "categories": [
+    "mcp",
+    "memory"
+   ],
+   "skills": [],
+   "plugins": [
+    "headroom",
+    "headroom-snip"
+   ],
+   "commands": [],
+   "stars": 75464,
+   "weekly_stars": 1879.9,
+   "growth_method": "estimate",
+   "pushed_days_ago": 0,
+   "created_days_ago": 281,
+   "license": "Apache-2.0",
    "official": false,
    "risk": {
     "hooks": true,
@@ -1553,45 +1537,21 @@
     "new_repo": false
    },
    "install": [
-    "npx skills add rohitg00/ai-engineering-from-scratch --skill <benign|blueprint-figure|build-project|check-tests|check-understanding>"
+    "/plugin marketplace add headroomlabs-ai/headroom",
+    "/plugin install headroom@headroom-marketplace",
+    "/plugin install headroom-snip@headroom-marketplace"
    ],
-   "score": 43.18,
+   "score": 43.23,
    "_info": {
-    "skills": [
-     "benign",
-     "blueprint-figure",
-     "build-project",
-     "check-tests",
-     "check-understanding",
-     "claude-certification",
-     "course-guide",
-     "course-style",
-     "find-your-level",
-     "isometric-explainer",
-     "learn",
-     "learn-agent-skills",
-     "learn-mcp",
-     "learn-reverse-engineering",
-     "mcpa-certification",
-     "migration-review-skill",
-     "motion-figure",
-     "orchard-release",
-     "release-publish",
-     "release-review",
-     "reviewable",
-     "skill-catalog-builder",
-     "skill-contract-reviewer",
-     "skill-invocation-router",
-     "skill-release-gate",
-     "skill-safety-reviewer",
-     "start-learning",
-     "write-manual"
+    "skills": [],
+    "plugins": [
+     "headroom",
+     "headroom-snip"
     ],
-    "plugins": [],
     "commands": [],
-    "marketplace": null,
+    "marketplace": "headroom-marketplace",
     "has_hooks": true,
-    "has_mcp": true,
+    "has_mcp": false,
     "has_scripts": true
    }
   },
@@ -1627,11 +1587,11 @@
    ],
    "plugins": [],
    "commands": [],
-   "stars": 83875,
-   "weekly_stars": 1116.2,
+   "stars": 83925,
+   "weekly_stars": 1114.8,
    "growth_method": "estimate",
    "pushed_days_ago": 0,
-   "created_days_ago": 526,
+   "created_days_ago": 527,
    "license": "MIT",
    "official": false,
    "risk": {
@@ -1718,11 +1678,11 @@
    "commands": [
     "agents"
    ],
-   "stars": 70040,
-   "weekly_stars": 1551.5,
+   "stars": 70084,
+   "weekly_stars": 1547.6,
    "growth_method": "estimate",
    "pushed_days_ago": 0,
-   "created_days_ago": 316,
+   "created_days_ago": 317,
    "license": "NOASSERTION",
    "official": false,
    "risk": {
@@ -1796,6 +1756,52 @@
    }
   },
   {
+   "repo": "mvanhorn/last30days-skill",
+   "url": "https://github.com/mvanhorn/last30days-skill",
+   "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+   "kind": "plugin",
+   "stacks": [],
+   "categories": [],
+   "skills": [
+    "last30days"
+   ],
+   "plugins": [
+    "last30days"
+   ],
+   "commands": [],
+   "stars": 64448,
+   "weekly_stars": 1702.4,
+   "growth_method": "estimate",
+   "pushed_days_ago": 0,
+   "created_days_ago": 265,
+   "license": "MIT",
+   "official": false,
+   "risk": {
+    "hooks": false,
+    "scripts": true,
+    "no_license": false,
+    "new_repo": false
+   },
+   "install": [
+    "/plugin marketplace add mvanhorn/last30days-skill",
+    "/plugin install last30days@last30days-skill"
+   ],
+   "score": 42.66,
+   "_info": {
+    "skills": [
+     "last30days"
+    ],
+    "plugins": [
+     "last30days"
+    ],
+    "commands": [],
+    "marketplace": "last30days-skill",
+    "has_hooks": false,
+    "has_mcp": false,
+    "has_scripts": true
+   }
+  },
+  {
    "repo": "ruvnet/ruflo",
    "url": "https://github.com/ruvnet/ruflo",
    "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federa",
@@ -1851,11 +1857,11 @@
     "agents",
     "aidefence"
    ],
-   "stars": 74703,
-   "weekly_stars": 1047.9,
+   "stars": 75224,
+   "weekly_stars": 1053.1,
    "growth_method": "estimate",
    "pushed_days_ago": 0,
-   "created_days_ago": 499,
+   "created_days_ago": 500,
    "license": "MIT",
    "official": false,
    "risk": {
@@ -1872,7 +1878,7 @@
     "/plugin install ruflo-deepseek-harness@ruflo",
     "/plugin install ruflo-swarm@ruflo"
    ],
-   "score": 42.62,
+   "score": 42.65,
    "_info": {
     "skills": [
      "add-model-descriptions",
@@ -2050,11 +2056,11 @@
     "weather-orchestrator",
     "workflow-claude-commands"
    ],
-   "stars": 67553,
-   "weekly_stars": 1358.8,
+   "stars": 67615,
+   "weekly_stars": 1356.2,
    "growth_method": "estimate",
    "pushed_days_ago": 0,
-   "created_days_ago": 348,
+   "created_days_ago": 349,
    "license": "MIT",
    "official": false,
    "risk": {
@@ -2116,11 +2122,11 @@
     "i-have-adhd"
    ],
    "commands": [],
-   "stars": 57161,
-   "weekly_stars": 2598.2,
+   "stars": 57315,
+   "weekly_stars": 2588.4,
    "growth_method": "estimate",
-   "pushed_days_ago": 3,
-   "created_days_ago": 154,
+   "pushed_days_ago": 4,
+   "created_days_ago": 155,
    "license": "MIT",
    "official": false,
    "risk": {
@@ -2133,7 +2139,7 @@
     "/plugin marketplace add ayghri/i-have-adhd",
     "/plugin install i-have-adhd@i-have-adhd"
    ],
-   "score": 42.53,
+   "score": 42.48,
    "_info": {
     "skills": [
      "i-have-adhd"
@@ -2164,11 +2170,11 @@
     "diagram-design"
    ],
    "commands": [],
-   "stars": 55424,
-   "weekly_stars": 2143.5,
+   "stars": 56014,
+   "weekly_stars": 2154.4,
    "growth_method": "estimate",
    "pushed_days_ago": 0,
-   "created_days_ago": 181,
+   "created_days_ago": 182,
    "license": "MIT",
    "official": false,
    "risk": {
@@ -2181,7 +2187,7 @@
     "/plugin marketplace add cathrynlavery/diagram-design",
     "/plugin install diagram-design@diagram-design"
    ],
-   "score": 42.44,
+   "score": 42.48,
    "_info": {
     "skills": [
      "diagram-design"
@@ -2192,6 +2198,69 @@
     "commands": [],
     "marketplace": "diagram-design",
     "has_hooks": false,
+    "has_mcp": false,
+    "has_scripts": true
+   }
+  },
+  {
+   "repo": "alibaba/open-code-review",
+   "url": "https://github.com/alibaba/open-code-review",
+   "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE,",
+   "kind": "plugin",
+   "stacks": [],
+   "categories": [
+    "review",
+    "testing",
+    "db",
+    "memory"
+   ],
+   "skills": [
+    "open-code-review",
+    "open-code-review-delegate"
+   ],
+   "plugins": [
+    "open-code-review"
+   ],
+   "commands": [
+    "commit",
+    "delegate-review",
+    "review",
+    "tag"
+   ],
+   "stars": 47418,
+   "weekly_stars": 2198.2,
+   "growth_method": "estimate",
+   "pushed_days_ago": 0,
+   "created_days_ago": 151,
+   "license": "Apache-2.0",
+   "official": false,
+   "risk": {
+    "hooks": true,
+    "scripts": true,
+    "no_license": false,
+    "new_repo": false
+   },
+   "install": [
+    "/plugin marketplace add alibaba/open-code-review",
+    "/plugin install open-code-review@open-code-review"
+   ],
+   "score": 42.0,
+   "_info": {
+    "skills": [
+     "open-code-review",
+     "open-code-review-delegate"
+    ],
+    "plugins": [
+     "open-code-review"
+    ],
+    "commands": [
+     "commit",
+     "delegate-review",
+     "review",
+     "tag"
+    ],
+    "marketplace": "open-code-review",
+    "has_hooks": true,
     "has_mcp": false,
     "has_scripts": true
    }
@@ -2225,11 +2294,11 @@
     "marketing-skills"
    ],
    "commands": [],
-   "stars": 54782,
-   "weekly_stars": 1409.8,
+   "stars": 54930,
+   "weekly_stars": 1408.5,
    "growth_method": "estimate",
    "pushed_days_ago": 0,
-   "created_days_ago": 272,
+   "created_days_ago": 273,
    "license": "MIT",
    "official": false,
    "risk": {
@@ -2307,69 +2376,6 @@
    }
   },
   {
-   "repo": "alibaba/open-code-review",
-   "url": "https://github.com/alibaba/open-code-review",
-   "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE,",
-   "kind": "plugin",
-   "stacks": [],
-   "categories": [
-    "review",
-    "testing",
-    "db",
-    "memory"
-   ],
-   "skills": [
-    "open-code-review",
-    "open-code-review-delegate"
-   ],
-   "plugins": [
-    "open-code-review"
-   ],
-   "commands": [
-    "commit",
-    "delegate-review",
-    "review",
-    "tag"
-   ],
-   "stars": 47218,
-   "weekly_stars": 2203.5,
-   "growth_method": "estimate",
-   "pushed_days_ago": 0,
-   "created_days_ago": 150,
-   "license": "Apache-2.0",
-   "official": false,
-   "risk": {
-    "hooks": true,
-    "scripts": true,
-    "no_license": false,
-    "new_repo": false
-   },
-   "install": [
-    "/plugin marketplace add alibaba/open-code-review",
-    "/plugin install open-code-review@open-code-review"
-   ],
-   "score": 41.99,
-   "_info": {
-    "skills": [
-     "open-code-review",
-     "open-code-review-delegate"
-    ],
-    "plugins": [
-     "open-code-review"
-    ],
-    "commands": [
-     "commit",
-     "delegate-review",
-     "review",
-     "tag"
-    ],
-    "marketplace": "open-code-review",
-    "has_hooks": true,
-    "has_mcp": false,
-    "has_scripts": true
-   }
-  },
-  {
    "repo": "Yuan1z0825/nature-skills",
    "url": "https://github.com/Yuan1z0825/nature-skills",
    "description": "符合nature论文学术表达和科研绘图的Skill",
@@ -2392,11 +2398,11 @@
    ],
    "plugins": [],
    "commands": [],
-   "stars": 48335,
-   "weekly_stars": 1944.5,
+   "stars": 48557,
+   "weekly_stars": 1942.3,
    "growth_method": "estimate",
    "pushed_days_ago": 0,
-   "created_days_ago": 174,
+   "created_days_ago": 175,
    "license": "Apache-2.0",
    "official": false,
    "risk": {
@@ -2408,7 +2414,7 @@
    "install": [
     "npx skills add Yuan1z0825/nature-skills --skill <nature-academic-search|nature-citation|nature-data|nature-downloader|nature-experiment-log>"
    ],
-   "score": 41.93,
+   "score": 41.94,
    "_info": {
     "skills": [
      "nature-academic-search",
@@ -2439,6 +2445,127 @@
     "commands": [],
     "marketplace": null,
     "has_hooks": false,
+    "has_mcp": true,
+    "has_scripts": true
+   }
+  },
+  {
+   "repo": "MadsLorentzen/ai-job-search",
+   "url": "https://github.com/MadsLorentzen/ai-job-search",
+   "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+   "kind": "skill",
+   "stacks": [],
+   "categories": [],
+   "skills": [
+    "freehire-search",
+    "job-application-assistant",
+    "job-scraper",
+    "jobbank-search",
+    "jobdanmark-search",
+    "jobindex-search",
+    "jobnet-search",
+    "linkedin-search",
+    "upskill"
+   ],
+   "plugins": [],
+   "commands": [
+    "add-portal",
+    "add-template",
+    "apply",
+    "expand",
+    "gmail-sync",
+    "html-report",
+    "interview",
+    "notion-sync",
+    "outcome",
+    "rank"
+   ],
+   "stars": 47603,
+   "weekly_stars": 1579.2,
+   "growth_method": "estimate",
+   "pushed_days_ago": 0,
+   "created_days_ago": 211,
+   "license": "MIT",
+   "official": false,
+   "risk": {
+    "hooks": false,
+    "scripts": false,
+    "no_license": false,
+    "new_repo": false
+   },
+   "install": [
+    "npx skills add MadsLorentzen/ai-job-search --skill <freehire-search|job-application-assistant|job-scraper|jobbank-search|jobdanmark-search>"
+   ],
+   "score": 41.68,
+   "_info": {
+    "skills": [
+     "freehire-search",
+     "job-application-assistant",
+     "job-scraper",
+     "jobbank-search",
+     "jobdanmark-search",
+     "jobindex-search",
+     "jobnet-search",
+     "linkedin-search",
+     "upskill"
+    ],
+    "plugins": [],
+    "commands": [
+     "add-portal",
+     "add-template",
+     "apply",
+     "expand",
+     "gmail-sync",
+     "html-report",
+     "interview",
+     "notion-sync",
+     "outcome",
+     "rank",
+     "reset",
+     "setup"
+    ],
+    "marketplace": null,
+    "has_hooks": false,
+    "has_mcp": false,
+    "has_scripts": false
+   }
+  },
+  {
+   "repo": "DeusData/codebase-memory-mcp",
+   "url": "https://github.com/DeusData/codebase-memory-mcp",
+   "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 162 languages, sub-ms queries, 99% fewer tokens. Single static binary",
+   "kind": "mcp",
+   "stacks": [],
+   "categories": [
+    "mcp",
+    "memory"
+   ],
+   "skills": [],
+   "plugins": [],
+   "commands": [],
+   "stars": 46677,
+   "weekly_stars": 1402.3,
+   "growth_method": "estimate",
+   "pushed_days_ago": 0,
+   "created_days_ago": 233,
+   "license": "MIT",
+   "official": false,
+   "risk": {
+    "hooks": true,
+    "scripts": true,
+    "no_license": false,
+    "new_repo": false
+   },
+   "install": [
+    "# MCP 서버: README 설치법 확인 https://github.com/DeusData/codebase-memory-mcp"
+   ],
+   "score": 41.5,
+   "_info": {
+    "skills": [],
+    "plugins": [],
+    "commands": [],
+    "marketplace": null,
+    "has_hooks": true,
     "has_mcp": true,
     "has_scripts": true
    }
@@ -2498,11 +2625,11 @@
     "rclone_bisync",
     "rclone_cat"
    ],
-   "stars": 47616,
-   "weekly_stars": 1220.9,
+   "stars": 47695,
+   "weekly_stars": 1218.5,
    "growth_method": "estimate",
    "pushed_days_ago": 0,
-   "created_days_ago": 273,
+   "created_days_ago": 274,
    "license": "MIT",
    "official": false,
    "risk": {
@@ -2664,87 +2791,6 @@
    }
   },
   {
-   "repo": "MadsLorentzen/ai-job-search",
-   "url": "https://github.com/MadsLorentzen/ai-job-search",
-   "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
-   "kind": "skill",
-   "stacks": [],
-   "categories": [],
-   "skills": [
-    "freehire-search",
-    "job-application-assistant",
-    "job-scraper",
-    "jobbank-search",
-    "jobdanmark-search",
-    "jobindex-search",
-    "jobnet-search",
-    "linkedin-search",
-    "upskill"
-   ],
-   "plugins": [],
-   "commands": [
-    "add-portal",
-    "add-template",
-    "apply",
-    "expand",
-    "gmail-sync",
-    "html-report",
-    "interview",
-    "notion-sync",
-    "outcome",
-    "rank"
-   ],
-   "stars": 46830,
-   "weekly_stars": 1561.0,
-   "growth_method": "estimate",
-   "pushed_days_ago": 6,
-   "created_days_ago": 210,
-   "license": "MIT",
-   "official": false,
-   "risk": {
-    "hooks": false,
-    "scripts": false,
-    "no_license": false,
-    "new_repo": false
-   },
-   "install": [
-    "npx skills add MadsLorentzen/ai-job-search --skill <freehire-search|job-application-assistant|job-scraper|jobbank-search|jobdanmark-search>"
-   ],
-   "score": 41.25,
-   "_info": {
-    "skills": [
-     "freehire-search",
-     "job-application-assistant",
-     "job-scraper",
-     "jobbank-search",
-     "jobdanmark-search",
-     "jobindex-search",
-     "jobnet-search",
-     "linkedin-search",
-     "upskill"
-    ],
-    "plugins": [],
-    "commands": [
-     "add-portal",
-     "add-template",
-     "apply",
-     "expand",
-     "gmail-sync",
-     "html-report",
-     "interview",
-     "notion-sync",
-     "outcome",
-     "rank",
-     "reset",
-     "setup"
-    ],
-    "marketplace": null,
-    "has_hooks": false,
-    "has_mcp": false,
-    "has_scripts": false
-   }
-  },
-  {
    "repo": "K-Dense-AI/scientific-agent-skills",
    "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
    "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biolog",
@@ -2770,11 +2816,11 @@
    ],
    "plugins": [],
    "commands": [],
-   "stars": 49520,
-   "weekly_stars": 962.9,
+   "stars": 50652,
+   "weekly_stars": 982.2,
    "growth_method": "estimate",
-   "pushed_days_ago": 2,
-   "created_days_ago": 360,
+   "pushed_days_ago": 0,
+   "created_days_ago": 361,
    "license": "MIT",
    "official": false,
    "risk": {
@@ -2786,7 +2832,7 @@
    "install": [
     "npx skills add K-Dense-AI/scientific-agent-skills --skill <13c-metabolic-flux|adaptyv|aeon|alphagenome|analytical-method-validation>"
    ],
-   "score": 41.17,
+   "score": 41.39,
    "_info": {
     "skills": [
      "13c-metabolic-flux",
@@ -2873,11 +2919,11 @@
     "agent-browser"
    ],
    "commands": [],
-   "stars": 43990,
-   "weekly_stars": 1115.7,
+   "stars": 44055,
+   "weekly_stars": 1113.3,
    "growth_method": "estimate",
    "pushed_days_ago": 0,
-   "created_days_ago": 276,
+   "created_days_ago": 277,
    "license": "Apache-2.0",
    "official": false,
    "risk": {
@@ -2890,7 +2936,7 @@
     "/plugin marketplace add vercel-labs/agent-browser",
     "/plugin install agent-browser@agent-browser"
    ],
-   "score": 41.09,
+   "score": 41.1,
    "_info": {
     "skills": [
      "agent-browser",
@@ -2915,6 +2961,84 @@
    }
   },
   {
+   "repo": "THU-MAIC/OpenMAIC",
+   "url": "https://github.com/THU-MAIC/OpenMAIC",
+   "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
+   "kind": "skill",
+   "stacks": [],
+   "categories": [
+    "workflow",
+    "frontend"
+   ],
+   "skills": [
+    "build-personal-skill",
+    "curriculum-planner",
+    "deep-interactive",
+    "deep-research",
+    "fact-check",
+    "feynman-learning",
+    "importer",
+    "k12-core-literacy-planning",
+    "learning-to-learn",
+    "lecture-style"
+   ],
+   "plugins": [],
+   "commands": [],
+   "stars": 40845,
+   "weekly_stars": 1311.5,
+   "growth_method": "estimate",
+   "pushed_days_ago": 0,
+   "created_days_ago": 218,
+   "license": "MIT",
+   "official": false,
+   "risk": {
+    "hooks": true,
+    "scripts": true,
+    "no_license": false,
+    "new_repo": false
+   },
+   "install": [
+    "npx skills add THU-MAIC/OpenMAIC --skill <build-personal-skill|curriculum-planner|deep-interactive|deep-research|fact-check>"
+   ],
+   "score": 41.03,
+   "_info": {
+    "skills": [
+     "build-personal-skill",
+     "curriculum-planner",
+     "deep-interactive",
+     "deep-research",
+     "fact-check",
+     "feynman-learning",
+     "importer",
+     "k12-core-literacy-planning",
+     "learning-to-learn",
+     "lecture-style",
+     "openmaic",
+     "page-clone",
+     "pptx-import",
+     "pro-editing",
+     "slide-craft",
+     "slide-dsl",
+     "social-emotional-learning",
+     "spiral-curriculum",
+     "stage-design",
+     "stage-dsl",
+     "style-clone",
+     "teacher-style-clone",
+     "understanding-by-design",
+     "vocational",
+     "workshop-style",
+     "zone-of-proximal-development"
+    ],
+    "plugins": [],
+    "commands": [],
+    "marketplace": null,
+    "has_hooks": true,
+    "has_mcp": false,
+    "has_scripts": true
+   }
+  },
+  {
    "repo": "Wei-Shaw/sub2api",
    "url": "https://github.com/Wei-Shaw/sub2api",
    "description": "Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。",
@@ -2926,11 +3050,11 @@
    ],
    "plugins": [],
    "commands": [],
-   "stars": 44040,
-   "weekly_stars": 1024.2,
+   "stars": 44144,
+   "weekly_stars": 1023.2,
    "growth_method": "estimate",
    "pushed_days_ago": 0,
-   "created_days_ago": 301,
+   "created_days_ago": 302,
    "license": "LGPL-3.0",
    "official": false,
    "risk": {
@@ -2942,7 +3066,7 @@
    "install": [
     "npx skills add Wei-Shaw/sub2api"
    ],
-   "score": 41.01,
+   "score": 41.02,
    "_info": {
     "skills": [
      "sub2api-admin"
@@ -2956,37 +3080,38 @@
    }
   },
   {
-   "repo": "CherryHQ/cherry-studio",
-   "url": "https://github.com/CherryHQ/cherry-studio",
-   "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
-   "kind": "skill",
-   "stacks": [
-    "react"
-   ],
+   "repo": "Yeachan-Heo/oh-my-claudecode",
+   "url": "https://github.com/Yeachan-Heo/oh-my-claudecode",
+   "description": "Teams-first Multi-agent orchestration for Claude Code",
+   "kind": "plugin",
+   "stacks": [],
    "categories": [
+    "workflow",
     "review",
-    "testing"
+    "memory"
    ],
    "skills": [
-    "cherry-assistant-guide",
-    "cherry-browser",
-    "cherry-electron-dev",
-    "cherry-pr-test",
-    "cherry-regression-test",
-    "cherry-skill-marketplace",
-    "cherry-studio-feedback",
-    "cherry-tool-guide",
-    "claude-automation-recommender",
-    "code-mate-antigravity"
+    "agent-doc-discipline",
+    "ai-slop-cleaner",
+    "architecture-survey",
+    "ask",
+    "ask-navigator",
+    "autopilot",
+    "autoresearch",
+    "cancel",
+    "commands",
+    "configure-notifications"
    ],
-   "plugins": [],
+   "plugins": [
+    "oh-my-claudecode"
+   ],
    "commands": [],
-   "stars": 52647,
-   "weekly_stars": 421.7,
+   "stars": 39944,
+   "weekly_stars": 998.6,
    "growth_method": "estimate",
    "pushed_days_ago": 0,
-   "created_days_ago": 874,
-   "license": "AGPL-3.0",
+   "created_days_ago": 280,
+   "license": "MIT",
    "official": false,
    "risk": {
     "hooks": true,
@@ -2995,117 +3120,69 @@
     "new_repo": false
    },
    "install": [
-    "npx skills add CherryHQ/cherry-studio --skill <cherry-assistant-guide|cherry-browser|cherry-electron-dev|cherry-pr-test|cherry-regression-test>"
+    "/plugin marketplace add Yeachan-Heo/oh-my-claudecode",
+    "/plugin install oh-my-claudecode@omc"
    ],
-   "score": 40.66,
+   "score": 40.69,
    "_info": {
     "skills": [
-     "cherry-assistant-guide",
-     "cherry-browser",
-     "cherry-electron-dev",
-     "cherry-pr-test",
-     "cherry-regression-test",
-     "cherry-skill-marketplace",
-     "cherry-studio-feedback",
-     "cherry-tool-guide",
-     "claude-automation-recommender",
-     "code-mate-antigravity",
-     "code-mate-claude-code",
-     "code-mate-codex",
-     "code-mate-deepseek-harness",
-     "code-mate-gemini",
-     "code-mate-github-copilot",
-     "code-mate-hermes",
-     "code-mate-kimi-code",
-     "code-mate-minimax-code",
-     "code-mate-openclaw",
-     "code-mate-opencode",
-     "code-mate-pi",
-     "code-mate-qoder",
-     "code-mate-qwen-code",
-     "create-skill",
-     "faq-collector",
-     "find-skills",
-     "gh-create-issue",
-     "gh-create-pr",
-     "gh-pr-review",
-     "issue-reporter",
-     "office-transform",
-     "prepare-release",
-     "skill-creator",
-     "skills-manager",
-     "vercel-react-best-practices"
+     "agent-doc-discipline",
+     "ai-slop-cleaner",
+     "architecture-survey",
+     "ask",
+     "ask-navigator",
+     "autopilot",
+     "autoresearch",
+     "cancel",
+     "commands",
+     "configure-notifications",
+     "debug",
+     "deep-interview",
+     "deepinit",
+     "diagram",
+     "drydock",
+     "execute",
+     "external-context",
+     "graph",
+     "harbor",
+     "hud",
+     "intent",
+     "launch",
+     "loft",
+     "map",
+     "minimal-code-discipline",
+     "minimal-prose-discipline",
+     "omc-doctor",
+     "omc-setup",
+     "plan",
+     "pr",
+     "project-session-manager",
+     "ralph",
+     "ralplan",
+     "refit",
+     "release",
+     "remember",
+     "research",
+     "review",
+     "self-improve",
+     "session-flow",
+     "skill",
+     "skillify",
+     "tdd",
+     "team",
+     "trace",
+     "ultragoal",
+     "verify",
+     "visual-verdict",
+     "wiki"
     ],
-    "plugins": [],
+    "plugins": [
+     "oh-my-claudecode"
+    ],
     "commands": [],
-    "marketplace": null,
+    "marketplace": "omc",
     "has_hooks": true,
     "has_mcp": true,
-    "has_scripts": true
-   }
-  },
-  {
-   "repo": "alchaincyf/nuwa-skill",
-   "url": "https://github.com/alchaincyf/nuwa-skill",
-   "description": "你想蒸馏的下一个员工，何必是同事。蒸馏任何人的思维方式——心智模型、决策启发式、表达DNA。Distill how anyone thinks.",
-   "kind": "skill",
-   "stacks": [],
-   "categories": [],
-   "skills": [
-    "andrej-karpathy-perspective",
-    "elon-musk-perspective",
-    "feynman-perspective",
-    "ilya-sutskever-perspective",
-    "mrbeast-perspective",
-    "munger-perspective",
-    "naval-perspective",
-    "nuwa-skill",
-    "paul-graham-perspective",
-    "steve-jobs-perspective"
-   ],
-   "plugins": [],
-   "commands": [],
-   "stars": 34411,
-   "weekly_stars": 1254.6,
-   "growth_method": "estimate",
-   "pushed_days_ago": 0,
-   "created_days_ago": 192,
-   "license": "MIT",
-   "official": false,
-   "risk": {
-    "hooks": false,
-    "scripts": true,
-    "no_license": false,
-    "new_repo": false
-   },
-   "install": [
-    "npx skills add alchaincyf/nuwa-skill --skill <andrej-karpathy-perspective|elon-musk-perspective|feynman-perspective|ilya-sutskever-perspective|mrbeast-perspective>"
-   ],
-   "score": 40.47,
-   "_info": {
-    "skills": [
-     "andrej-karpathy-perspective",
-     "elon-musk-perspective",
-     "feynman-perspective",
-     "ilya-sutskever-perspective",
-     "mrbeast-perspective",
-     "munger-perspective",
-     "naval-perspective",
-     "nuwa-skill",
-     "paul-graham-perspective",
-     "steve-jobs-perspective",
-     "sun-yuchen-perspective",
-     "taleb-perspective",
-     "trump-perspective",
-     "x-mastery-mentor",
-     "zhang-yiming-perspective",
-     "zhangxuefeng-perspective"
-    ],
-    "plugins": [],
-    "commands": [],
-    "marketplace": null,
-    "has_hooks": false,
-    "has_mcp": false,
     "has_scripts": true
    }
   },
@@ -3145,11 +3222,11 @@
     "status",
     "sync-docs"
    ],
-   "stars": 41893,
-   "weekly_stars": 860.0,
+   "stars": 41908,
+   "weekly_stars": 857.8,
    "growth_method": "estimate",
-   "pushed_days_ago": 4,
-   "created_days_ago": 341,
+   "pushed_days_ago": 0,
+   "created_days_ago": 342,
    "license": "MIT",
    "official": false,
    "risk": {
@@ -3161,7 +3238,7 @@
    "install": [
     "npx skills add luongnv89/claude-howto --skill <blog-draft|brand-voice|claude-md|code-review-specialist|doc-generator>"
    ],
-   "score": 40.44,
+   "score": 40.69,
    "_info": {
     "skills": [
      "blog-draft",
@@ -3187,6 +3264,95 @@
      "sync-docs",
      "validate-docs"
     ],
+    "marketplace": null,
+    "has_hooks": true,
+    "has_mcp": true,
+    "has_scripts": true
+   }
+  },
+  {
+   "repo": "CherryHQ/cherry-studio",
+   "url": "https://github.com/CherryHQ/cherry-studio",
+   "description": "AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs",
+   "kind": "skill",
+   "stacks": [
+    "react"
+   ],
+   "categories": [
+    "review",
+    "testing"
+   ],
+   "skills": [
+    "cherry-assistant-guide",
+    "cherry-browser",
+    "cherry-computer",
+    "cherry-electron-dev",
+    "cherry-regression-test",
+    "cherry-skill-marketplace",
+    "cherry-studio-feedback",
+    "cherry-tool-guide",
+    "claude-automation-recommender",
+    "code-mate-antigravity"
+   ],
+   "plugins": [],
+   "commands": [],
+   "stars": 52669,
+   "weekly_stars": 421.4,
+   "growth_method": "estimate",
+   "pushed_days_ago": 0,
+   "created_days_ago": 875,
+   "license": "AGPL-3.0",
+   "official": false,
+   "risk": {
+    "hooks": true,
+    "scripts": true,
+    "no_license": false,
+    "new_repo": false
+   },
+   "install": [
+    "npx skills add CherryHQ/cherry-studio --skill <cherry-assistant-guide|cherry-browser|cherry-computer|cherry-electron-dev|cherry-regression-test>"
+   ],
+   "score": 40.66,
+   "_info": {
+    "skills": [
+     "cherry-assistant-guide",
+     "cherry-browser",
+     "cherry-computer",
+     "cherry-electron-dev",
+     "cherry-regression-test",
+     "cherry-skill-marketplace",
+     "cherry-studio-feedback",
+     "cherry-tool-guide",
+     "claude-automation-recommender",
+     "code-mate-antigravity",
+     "code-mate-claude-code",
+     "code-mate-codex",
+     "code-mate-deepseek-harness",
+     "code-mate-gemini",
+     "code-mate-github-copilot",
+     "code-mate-hermes",
+     "code-mate-kimi-code",
+     "code-mate-minimax-code",
+     "code-mate-openclaw",
+     "code-mate-opencode",
+     "code-mate-pi",
+     "code-mate-qoder",
+     "code-mate-qwen-code",
+     "create-skill",
+     "faq-collector",
+     "find-skills",
+     "gh-create-issue",
+     "gh-create-pr",
+     "gh-pr-review",
+     "issue-reporter",
+     "office-transform",
+     "prepare-release",
+     "skill-creator",
+     "skills-manager",
+     "vercel-react-best-practices"
+    ],
+    "plugins": [],
+    "commands": [],
     "marketplace": null,
     "has_hooks": true,
     "has_mcp": true,
@@ -3253,11 +3419,11 @@
     "c4-architecture",
     "certify"
    ],
-   "stars": 40788,
+   "stars": 40874,
    "weekly_stars": 638.7,
    "growth_method": "estimate",
    "pushed_days_ago": 0,
-   "created_days_ago": 447,
+   "created_days_ago": 448,
    "license": "MIT",
    "official": false,
    "risk": {
@@ -3274,7 +3440,7 @@
     "/plugin install git-pr-workflows@claude-code-workflows",
     "/plugin install operating-kit@claude-code-workflows"
    ],
-   "score": 40.31,
+   "score": 40.32,
    "_info": {
     "skills": [
      "accessibility-compliance",
@@ -3449,11 +3615,11 @@
    ],
    "plugins": [],
    "commands": [],
-   "stars": 40030,
-   "weekly_stars": 571.9,
+   "stars": 40064,
+   "weekly_stars": 571.2,
    "growth_method": "estimate",
    "pushed_days_ago": 0,
-   "created_days_ago": 490,
+   "created_days_ago": 491,
    "license": "MIT",
    "official": false,
    "risk": {
@@ -3528,58 +3694,6 @@
    }
   },
   {
-   "repo": "JCodesMore/ai-website-cloner-template",
-   "url": "https://github.com/JCodesMore/ai-website-cloner-template",
-   "description": "Clone any website with one command using AI coding agents",
-   "kind": "skill",
-   "stacks": [
-    "typescript",
-    "react",
-    "nextjs",
-    "tailwind"
-   ],
-   "categories": [
-    "frontend"
-   ],
-   "skills": [
-    "clone-website"
-   ],
-   "plugins": [],
-   "commands": [
-    "clone-website"
-   ],
-   "stars": 36796,
-   "weekly_stars": 1198.0,
-   "growth_method": "estimate",
-   "pushed_days_ago": 9,
-   "created_days_ago": 215,
-   "license": "MIT",
-   "official": false,
-   "risk": {
-    "hooks": true,
-    "scripts": false,
-    "no_license": false,
-    "new_repo": false
-   },
-   "install": [
-    "npx skills add JCodesMore/ai-website-cloner-template"
-   ],
-   "score": 40.11,
-   "_info": {
-    "skills": [
-     "clone-website"
-    ],
-    "plugins": [],
-    "commands": [
-     "clone-website"
-    ],
-    "marketplace": null,
-    "has_hooks": true,
-    "has_mcp": false,
-    "has_scripts": false
-   }
-  },
-  {
    "repo": "garrytan/gbrain",
    "url": "https://github.com/garrytan/gbrain",
    "description": "Garry's Opinionated OpenClaw/Hermes Agent Brain",
@@ -3609,11 +3723,11 @@
     "gbrain-daily"
    ],
    "commands": [],
-   "stars": 30883,
-   "weekly_stars": 1125.9,
+   "stars": 30909,
+   "weekly_stars": 1121.1,
    "growth_method": "estimate",
    "pushed_days_ago": 0,
-   "created_days_ago": 192,
+   "created_days_ago": 193,
    "license": "MIT",
    "official": false,
    "risk": {
@@ -3706,11 +3820,11 @@
    ],
    "plugins": [],
    "commands": [],
-   "stars": 61810,
+   "stars": 61820,
    "weekly_stars": 130.7,
    "growth_method": "estimate",
    "pushed_days_ago": 0,
-   "created_days_ago": 3310,
+   "created_days_ago": 3311,
    "license": null,
    "official": false,
    "risk": {
@@ -3760,11 +3874,11 @@
    ],
    "plugins": [],
    "commands": [],
-   "stars": 30950,
-   "weekly_stars": 846.3,
+   "stars": 30955,
+   "weekly_stars": 843.1,
    "growth_method": "estimate",
    "pushed_days_ago": 0,
-   "created_days_ago": 256,
+   "created_days_ago": 257,
    "license": "MIT",
    "official": false,
    "risk": {
@@ -3839,58 +3953,6 @@
    }
   },
   {
-   "repo": "LibreChat-AI/LibreChat",
-   "url": "https://github.com/LibreChat-AI/LibreChat",
-   "description": "Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, me",
-   "kind": "skill",
-   "stacks": [
-    "aws"
-   ],
-   "categories": [
-    "testing",
-    "frontend",
-    "devops",
-    "mcp"
-   ],
-   "skills": [
-    "codebase-design",
-    "e2e-deployment-skill",
-    "improve-codebase-architecture"
-   ],
-   "plugins": [],
-   "commands": [],
-   "stars": 45701,
-   "weekly_stars": 238.6,
-   "growth_method": "estimate",
-   "pushed_days_ago": 0,
-   "created_days_ago": 1341,
-   "license": "MIT",
-   "official": false,
-   "risk": {
-    "hooks": true,
-    "scripts": true,
-    "no_license": false,
-    "new_repo": false
-   },
-   "install": [
-    "npx skills add LibreChat-AI/LibreChat --skill <codebase-design|e2e-deployment-skill|improve-codebase-architecture>"
-   ],
-   "score": 39.67,
-   "_info": {
-    "skills": [
-     "codebase-design",
-     "e2e-deployment-skill",
-     "improve-codebase-architecture"
-    ],
-    "plugins": [],
-    "commands": [],
-    "marketplace": null,
-    "has_hooks": true,
-    "has_mcp": true,
-    "has_scripts": true
-   }
-  },
-  {
    "repo": "mksglu/context-mode",
    "url": "https://github.com/mksglu/context-mode",
    "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.",
@@ -3915,11 +3977,11 @@
     "context-mode"
    ],
    "commands": [],
-   "stars": 29256,
-   "weekly_stars": 878.9,
+   "stars": 29864,
+   "weekly_stars": 893.4,
    "growth_method": "estimate",
    "pushed_days_ago": 0,
-   "created_days_ago": 233,
+   "created_days_ago": 234,
    "license": "NOASSERTION",
    "official": false,
    "risk": {
@@ -3932,7 +3994,7 @@
     "/plugin marketplace add mksglu/context-mode",
     "/plugin install context-mode@context-mode"
    ],
-   "score": 39.63,
+   "score": 39.71,
    "_info": {
     "skills": [
      "context-mode",
@@ -3988,11 +4050,11 @@
     "review",
     "sync-branch"
    ],
-   "stars": 28174,
-   "weekly_stars": 761.5,
+   "stars": 28200,
+   "weekly_stars": 759.2,
    "growth_method": "estimate",
    "pushed_days_ago": 0,
-   "created_days_ago": 259,
+   "created_days_ago": 260,
    "license": "NOASSERTION",
    "official": false,
    "risk": {
@@ -4004,7 +4066,7 @@
    "install": [
     "npx skills add manaflow-ai/cmux --skill <cmux|cmux-architecture|cmux-backend|cmux-billing|cmux-browser>"
    ],
-   "score": 39.38,
+   "score": 39.37,
    "_info": {
     "skills": [
      "cmux",
@@ -4092,11 +4154,11 @@
     "admin",
     "all-tools"
    ],
-   "stars": 32654,
-   "weekly_stars": 488.4,
+   "stars": 32672,
+   "weekly_stars": 487.6,
    "growth_method": "estimate",
    "pushed_days_ago": 0,
-   "created_days_ago": 468,
+   "created_days_ago": 469,
    "license": "MIT",
    "official": false,
    "risk": {
@@ -4270,11 +4332,11 @@
     "discover",
     "document-app"
    ],
-   "stars": 27054,
-   "weekly_stars": 834.3,
+   "stars": 27099,
+   "weekly_stars": 832.0,
    "growth_method": "estimate",
-   "pushed_days_ago": 0,
-   "created_days_ago": 227,
+   "pushed_days_ago": 1,
+   "created_days_ago": 228,
    "license": "MIT",
    "official": false,
    "risk": {
@@ -4291,7 +4353,7 @@
     "/plugin install pm-market-research@pm-skills",
     "/plugin install pm-data-analytics@pm-skills"
    ],
-   "score": 39.34,
+   "score": 39.28,
    "_info": {
     "skills": [
      "ab-test-analysis",
@@ -4407,6 +4469,102 @@
    }
   },
   {
+   "repo": "prisma/orm",
+   "url": "https://github.com/prisma/orm",
+   "description": "Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB",
+   "kind": "skill",
+   "stacks": [
+    "java",
+    "typescript",
+    "javascript",
+    "postgres",
+    "mysql",
+    "prisma"
+   ],
+   "categories": [
+    "review",
+    "docs",
+    "db"
+   ],
+   "skills": [
+    "adr-review",
+    "ast-visitor-pattern",
+    "bumping-biome",
+    "contrib-pr",
+    "create-pr",
+    "draft-release-notes",
+    "github-review-iteration",
+    "markdown-no-artificial-line-wraps",
+    "multiline-commit-messages",
+    "no-bare-casts"
+   ],
+   "plugins": [],
+   "commands": [
+    "quick-reference-mongo",
+    "quick-reference-postgres",
+    "quick-reference-prisma7",
+    "readme",
+    "readme-mongo",
+    "readme-postgres",
+    "summary"
+   ],
+   "stars": 47695,
+   "weekly_stars": 124.9,
+   "growth_method": "estimate",
+   "pushed_days_ago": 0,
+   "created_days_ago": 2674,
+   "license": "Apache-2.0",
+   "official": false,
+   "risk": {
+    "hooks": false,
+    "scripts": true,
+    "no_license": false,
+    "new_repo": false
+   },
+   "install": [
+    "npx skills add prisma/orm --skill <adr-review|ast-visitor-pattern|bumping-biome|contrib-pr|create-pr>"
+   ],
+   "score": 39.15,
+   "_info": {
+    "skills": [
+     "adr-review",
+     "ast-visitor-pattern",
+     "bumping-biome",
+     "contrib-pr",
+     "create-pr",
+     "draft-release-notes",
+     "github-review-iteration",
+     "markdown-no-artificial-line-wraps",
+     "multiline-commit-messages",
+     "no-bare-casts",
+     "prisma-8",
+     "psl-ast-layers",
+     "publish-npm-version",
+     "record-gotcha",
+     "record-upgrade-instructions",
+     "review-fetch-phase",
+     "review-implement-phase",
+     "review-triage-phase",
+     "triage-contributor-pr",
+     "write-architecture-docs"
+    ],
+    "plugins": [],
+    "commands": [
+     "quick-reference-mongo",
+     "quick-reference-postgres",
+     "quick-reference-prisma7",
+     "readme",
+     "readme-mongo",
+     "readme-postgres",
+     "summary"
+    ],
+    "marketplace": null,
+    "has_hooks": false,
+    "has_mcp": false,
+    "has_scripts": true
+   }
+  },
+  {
    "repo": "titanwings/distilly",
    "url": "https://github.com/titanwings/distilly",
    "description": "Distilly — Distill how they think into reusable Skills for any Agent or Bot. Formerly Colleague Skill（原同事 Skill）.",
@@ -4418,11 +4576,11 @@
    ],
    "plugins": [],
    "commands": [],
-   "stars": 25635,
-   "weekly_stars": 906.3,
+   "stars": 25670,
+   "weekly_stars": 903.0,
    "growth_method": "estimate",
-   "pushed_days_ago": 1,
-   "created_days_ago": 198,
+   "pushed_days_ago": 2,
+   "created_days_ago": 199,
    "license": "MIT",
    "official": false,
    "risk": {
@@ -4434,7 +4592,7 @@
    "install": [
     "npx skills add titanwings/distilly"
    ],
-   "score": 39.2,
+   "score": 39.14,
    "_info": {
     "skills": [
      "distilly"
@@ -4474,11 +4632,11 @@
     "pwf",
     "pwf-status"
    ],
-   "stars": 27458,
-   "weekly_stars": 676.8,
+   "stars": 27471,
+   "weekly_stars": 674.7,
    "growth_method": "estimate",
-   "pushed_days_ago": 0,
-   "created_days_ago": 284,
+   "pushed_days_ago": 1,
+   "created_days_ago": 285,
    "license": "MIT",
    "official": false,
    "risk": {
@@ -4491,7 +4649,7 @@
     "/plugin marketplace add OthmanAdi/planning-with-files",
     "/plugin install planning-with-files@planning-with-files"
    ],
-   "score": 39.18,
+   "score": 39.11,
    "_info": {
     "skills": [
      "planning-with-files",
@@ -4513,6 +4671,168 @@
     "marketplace": "planning-with-files",
     "has_hooks": true,
     "has_mcp": false,
+    "has_scripts": true
+   }
+  },
+  {
+   "repo": "gastownhall/beads",
+   "url": "https://github.com/gastownhall/beads",
+   "description": "Beads - A memory upgrade for your coding agent",
+   "kind": "plugin",
+   "stacks": [],
+   "categories": [
+    "workflow",
+    "docs",
+    "security",
+    "memory"
+   ],
+   "skills": [
+    "beads",
+    "beads-docs"
+   ],
+   "plugins": [
+    "beads"
+   ],
+   "commands": [
+    "audit",
+    "blocked",
+    "close",
+    "comments",
+    "compact",
+    "create",
+    "decision",
+    "delete",
+    "dep",
+    "epic"
+   ],
+   "stars": 27923,
+   "weekly_stars": 529.7,
+   "growth_method": "estimate",
+   "pushed_days_ago": 0,
+   "created_days_ago": 369,
+   "license": "MIT",
+   "official": false,
+   "risk": {
+    "hooks": true,
+    "scripts": true,
+    "no_license": false,
+    "new_repo": false
+   },
+   "install": [
+    "/plugin marketplace add gastownhall/beads",
+    "/plugin install beads@beads-marketplace"
+   ],
+   "score": 38.99,
+   "_info": {
+    "skills": [
+     "beads",
+     "beads-docs"
+    ],
+    "plugins": [
+     "beads"
+    ],
+    "commands": [
+     "audit",
+     "blocked",
+     "close",
+     "comments",
+     "compact",
+     "create",
+     "decision",
+     "delete",
+     "dep",
+     "epic",
+     "export",
+     "import",
+     "init",
+     "label",
+     "list",
+     "plan-to-beads",
+     "prime",
+     "quickstart",
+     "ready",
+     "rename-prefix",
+     "reopen",
+     "restore",
+     "search",
+     "show",
+     "stats",
+     "sync",
+     "template",
+     "update",
+     "version",
+     "workflow"
+    ],
+    "marketplace": "beads-marketplace",
+    "has_hooks": true,
+    "has_mcp": true,
+    "has_scripts": true
+   }
+  },
+  {
+   "repo": "reactive-resume/reactive-resume",
+   "url": "https://github.com/reactive-resume/reactive-resume",
+   "description": "A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!",
+   "kind": "plugin",
+   "stacks": [
+    "java",
+    "typescript",
+    "javascript",
+    "react"
+   ],
+   "categories": [
+    "mcp"
+   ],
+   "skills": [
+    "interview-prep",
+    "job-application-manager",
+    "mock-interview",
+    "offer-negotiation",
+    "resume-builder",
+    "resume-bullet-writer",
+    "resume-content-guide",
+    "resume-tailor"
+   ],
+   "plugins": [
+    "reactive-resume"
+   ],
+   "commands": [],
+   "stars": 44360,
+   "weekly_stars": 129.7,
+   "growth_method": "estimate",
+   "pushed_days_ago": 0,
+   "created_days_ago": 2395,
+   "license": "MIT",
+   "official": false,
+   "risk": {
+    "hooks": true,
+    "scripts": true,
+    "no_license": false,
+    "new_repo": false
+   },
+   "install": [
+    "/plugin marketplace add reactive-resume/reactive-resume",
+    "/plugin install reactive-resume@reactive-resume"
+   ],
+   "score": 38.97,
+   "_info": {
+    "skills": [
+     "interview-prep",
+     "job-application-manager",
+     "mock-interview",
+     "offer-negotiation",
+     "resume-builder",
+     "resume-bullet-writer",
+     "resume-content-guide",
+     "resume-tailor"
+    ],
+    "plugins": [
+     "reactive-resume"
+    ],
+    "commands": [],
+    "marketplace": "reactive-resume",
+    "has_hooks": true,
+    "has_mcp": true,
     "has_scripts": true
    }
   },
@@ -4556,11 +4876,11 @@
     "readme",
     "skill"
    ],
-   "stars": 28486,
-   "weekly_stars": 418.9,
+   "stars": 28510,
+   "weekly_stars": 418.4,
    "growth_method": "estimate",
    "pushed_days_ago": 0,
-   "created_days_ago": 476,
+   "created_days_ago": 477,
    "license": "Apache-2.0",
    "official": false,
    "risk": {
@@ -4653,11 +4973,11 @@
    ],
    "plugins": [],
    "commands": [],
-   "stars": 32058,
-   "weekly_stars": 280.2,
+   "stars": 32083,
+   "weekly_stars": 280.0,
    "growth_method": "estimate",
    "pushed_days_ago": 0,
-   "created_days_ago": 801,
+   "created_days_ago": 802,
    "license": "MIT",
    "official": false,
    "risk": {
@@ -4669,7 +4989,7 @@
    "install": [
     "npx skills add feder-cr/invisible_dots"
    ],
-   "score": 38.76,
+   "score": 38.77,
    "_info": {
     "skills": [
      "invisible-playwright"
@@ -4698,11 +5018,11 @@
    ],
    "plugins": [],
    "commands": [],
-   "stars": 28642,
-   "weekly_stars": 392.4,
+   "stars": 28666,
+   "weekly_stars": 391.9,
    "growth_method": "estimate",
    "pushed_days_ago": 0,
-   "created_days_ago": 511,
+   "created_days_ago": 512,
    "license": "NOASSERTION",
    "official": false,
    "risk": {
@@ -4762,11 +5082,11 @@
     "hello-stranger",
     "release"
    ],
-   "stars": 24110,
-   "weekly_stars": 615.9,
+   "stars": 24130,
+   "weekly_stars": 614.2,
    "growth_method": "estimate",
    "pushed_days_ago": 0,
-   "created_days_ago": 274,
+   "created_days_ago": 275,
    "license": "NOASSERTION",
    "official": false,
    "risk": {
@@ -4816,6 +5136,7 @@
      "spec-provenance-review",
      "upload-photo",
      "validate-a-release",
+     "verify-openwork",
      "workspace-guide",
      "write-a-spec"
     ],
@@ -4826,127 +5147,6 @@
      "release"
     ],
     "marketplace": null,
-    "has_hooks": true,
-    "has_mcp": true,
-    "has_scripts": true
-   }
-  },
-  {
-   "repo": "EveryInc/compound-engineering-plugin",
-   "url": "https://github.com/EveryInc/compound-engineering-plugin",
-   "description": "Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more",
-   "kind": "plugin",
-   "stacks": [],
-   "categories": [
-    "workflow",
-    "review",
-    "testing"
-   ],
-   "skills": [
-    "agent-only-skill",
-    "ce-babysit-pr",
-    "ce-bakeoff",
-    "ce-brainstorm",
-    "ce-code-review",
-    "ce-commit",
-    "ce-commit-push-pr",
-    "ce-compound",
-    "ce-compound-refresh",
-    "ce-debug"
-   ],
-   "plugins": [
-    "compound-engineering"
-   ],
-   "commands": [
-    "command-one",
-    "command-two",
-    "default-command",
-    "disabled-command",
-    "model-command",
-    "pattern-command",
-    "skill-command",
-    "todo-command",
-    "triage-prs"
-   ],
-   "stars": 25530,
-   "weekly_stars": 483.0,
-   "growth_method": "estimate",
-   "pushed_days_ago": 0,
-   "created_days_ago": 370,
-   "license": "MIT",
-   "official": false,
-   "risk": {
-    "hooks": true,
-    "scripts": true,
-    "no_license": false,
-    "new_repo": false
-   },
-   "install": [
-    "/plugin marketplace add EveryInc/compound-engineering-plugin",
-    "/plugin install compound-engineering@compound-engineering-plugin"
-   ],
-   "score": 38.63,
-   "_info": {
-    "skills": [
-     "agent-only-skill",
-     "ce-babysit-pr",
-     "ce-bakeoff",
-     "ce-brainstorm",
-     "ce-code-review",
-     "ce-commit",
-     "ce-commit-push-pr",
-     "ce-compound",
-     "ce-compound-refresh",
-     "ce-debug",
-     "ce-doc-review",
-     "ce-dogfood",
-     "ce-explain",
-     "ce-handoff",
-     "ce-ideate",
-     "ce-noslop",
-     "ce-optimize",
-     "ce-plan",
-     "ce-polish",
-     "ce-pov",
-     "ce-product-pulse",
-     "ce-promote",
-     "ce-proof",
-     "ce-prototype",
-     "ce-resolve-pr-feedback",
-     "ce-retune",
-     "ce-riffrec-feedback-analysis",
-     "ce-setup",
-     "ce-simplify-code",
-     "ce-skill-work",
-     "ce-strategy",
-     "ce-sweep",
-     "ce-test-browser",
-     "ce-test-xcode",
-     "ce-work",
-     "ce-worktree",
-     "claude-only-skill",
-     "custom-skill",
-     "default-skill",
-     "disabled-skill",
-     "lfg",
-     "skill-one",
-     "wtf"
-    ],
-    "plugins": [
-     "compound-engineering"
-    ],
-    "commands": [
-     "command-one",
-     "command-two",
-     "default-command",
-     "disabled-command",
-     "model-command",
-     "pattern-command",
-     "skill-command",
-     "todo-command",
-     "triage-prs"
-    ],
-    "marketplace": "compound-engineering-plugin",
     "has_hooks": true,
     "has_mcp": true,
     "has_scripts": true
@@ -4979,11 +5179,11 @@
     "pascal-agent-skills"
    ],
    "commands": [],
-   "stars": 24875,
-   "weekly_stars": 479.7,
+   "stars": 24901,
+   "weekly_stars": 478.9,
    "growth_method": "estimate",
    "pushed_days_ago": 0,
-   "created_days_ago": 363,
+   "created_days_ago": 364,
    "license": "MIT",
    "official": false,
    "risk": {
@@ -5041,11 +5241,11 @@
    ],
    "plugins": [],
    "commands": [],
-   "stars": 32309,
-   "weekly_stars": 195.8,
+   "stars": 32371,
+   "weekly_stars": 196.0,
    "growth_method": "estimate",
    "pushed_days_ago": 0,
-   "created_days_ago": 1155,
+   "created_days_ago": 1156,
    "license": "Apache-2.0",
    "official": false,
    "risk": {
@@ -5057,7 +5257,7 @@
    "install": [
     "npx skills add topoteretes/cognee --skill <cognee|cognee-cli|cognee-community|cognee-custom-graph-models|cognee-custom-pipelines>"
    ],
-   "score": 38.43,
+   "score": 38.44,
    "_info": {
     "skills": [
      "cognee",
@@ -5093,162 +5293,6 @@
    }
   },
   {
-   "repo": "VoltAgent/awesome-claude-code-subagents",
-   "url": "https://github.com/VoltAgent/awesome-claude-code-subagents",
-   "description": "A collection of 100+ specialized Claude Code subagents covering a wide range of development use cases",
-   "kind": "plugin",
-   "stacks": [],
-   "categories": [
-    "devops"
-   ],
-   "skills": [],
-   "plugins": [
-    "voltagent-core-dev",
-    "voltagent-lang",
-    "voltagent-infra",
-    "voltagent-qa-sec",
-    "voltagent-data-ai",
-    "voltagent-dev-exp",
-    "voltagent-domains",
-    "voltagent-biz",
-    "voltagent-meta",
-    "voltagent-research"
-   ],
-   "commands": [],
-   "stars": 25727,
-   "weekly_stars": 408.4,
-   "growth_method": "estimate",
-   "pushed_days_ago": 3,
-   "created_days_ago": 441,
-   "license": "MIT",
-   "official": false,
-   "risk": {
-    "hooks": false,
-    "scripts": false,
-    "no_license": false,
-    "new_repo": false
-   },
-   "install": [
-    "/plugin marketplace add VoltAgent/awesome-claude-code-subagents",
-    "/plugin install voltagent-core-dev@voltagent-subagents",
-    "/plugin install voltagent-lang@voltagent-subagents",
-    "/plugin install voltagent-infra@voltagent-subagents",
-    "/plugin install voltagent-qa-sec@voltagent-subagents",
-    "/plugin install voltagent-data-ai@voltagent-subagents"
-   ],
-   "score": 38.29,
-   "_info": {
-    "skills": [],
-    "plugins": [
-     "voltagent-core-dev",
-     "voltagent-lang",
-     "voltagent-infra",
-     "voltagent-qa-sec",
-     "voltagent-data-ai",
-     "voltagent-dev-exp",
-     "voltagent-domains",
-     "voltagent-biz",
-     "voltagent-meta",
-     "voltagent-research"
-    ],
-    "commands": [],
-    "marketplace": "voltagent-subagents",
-    "has_hooks": false,
-    "has_mcp": false,
-    "has_scripts": false
-   }
-  },
-  {
-   "repo": "NVIDIA/SkillSpector",
-   "url": "https://github.com/NVIDIA/SkillSpector",
-   "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills befo",
-   "kind": "skill",
-   "stacks": [],
-   "categories": [
-    "workflow",
-    "security",
-    "mcp"
-   ],
-   "skills": [
-    "as3_self_reference",
-    "malicious_skill",
-    "mcp_clean_skill",
-    "mcp_mismatched_skill",
-    "mcp_overprivileged_skill",
-    "mcp_poisoned_tool",
-    "mcp_underdeclared_skill",
-    "pe3_bare_keyring",
-    "safe_skill",
-    "sdi1_mismatch"
-   ],
-   "plugins": [],
-   "commands": [
-    "skillspector"
-   ],
-   "stars": 20222,
-   "weekly_stars": 680.5,
-   "growth_method": "estimate",
-   "pushed_days_ago": 0,
-   "created_days_ago": 208,
-   "license": "Apache-2.0",
-   "official": false,
-   "risk": {
-    "hooks": false,
-    "scripts": true,
-    "no_license": false,
-    "new_repo": false
-   },
-   "install": [
-    "npx skills add NVIDIA/SkillSpector --skill <as3_self_reference|malicious_skill|mcp_clean_skill|mcp_mismatched_skill|mcp_overprivileged_skill>"
-   ],
-   "score": 38.27,
-   "_info": {
-    "skills": [
-     "as3_self_reference",
-     "malicious_skill",
-     "mcp_clean_skill",
-     "mcp_mismatched_skill",
-     "mcp_overprivileged_skill",
-     "mcp_poisoned_tool",
-     "mcp_underdeclared_skill",
-     "pe3_bare_keyring",
-     "safe_skill",
-     "sdi1_mismatch",
-     "sdi2_inappropriate",
-     "sdi3_scope_creep",
-     "sdi4_divergence",
-     "sdi_clean",
-     "skill-inspector",
-     "sqp1_clean",
-     "sqp1_vague_triggers",
-     "sqp2_clean",
-     "sqp2_missing_warnings",
-     "sqp2_tool_catalog_clean",
-     "sqp2_tool_descriptive_step",
-     "sqp2_tool_instructed",
-     "sqp3_clean",
-     "sqp3_forced_language",
-     "sqp3_locale_forcing",
-     "sqp3_plain_english_clean",
-     "sqp3_plain_english_override",
-     "ssd1_semantic_injection",
-     "ssd2_novel_phrasing",
-     "ssd3_nl_exfiltration",
-     "ssd4_narrative_deception",
-     "ssd_clean",
-     "tp4_markdown_fenced_code"
-    ],
-    "plugins": [],
-    "commands": [
-     "skillspector"
-    ],
-    "marketplace": null,
-    "has_hooks": false,
-    "has_mcp": false,
-    "has_scripts": true
-   }
-  },
-  {
    "repo": "lidge-jun/opencodex",
    "url": "https://github.com/lidge-jun/opencodex",
    "description": "Universal provider proxy for OpenAI Codex & Claude Code — use any LLM (Claude, Gemini, Grok, DeepSeek, Ollama…) with Codex CLI, App, SDK, and Claude Code",
@@ -5262,11 +5306,11 @@
    ],
    "plugins": [],
    "commands": [],
-   "stars": 17422,
-   "weekly_stars": 1033.5,
+   "stars": 17459,
+   "weekly_stars": 1027.0,
    "growth_method": "estimate",
    "pushed_days_ago": 0,
-   "created_days_ago": 118,
+   "created_days_ago": 119,
    "license": "MIT",
    "official": false,
    "risk": {
@@ -5309,11 +5353,11 @@
    ],
    "plugins": [],
    "commands": [],
-   "stars": 22504,
-   "weekly_stars": 474.5,
+   "stars": 22551,
+   "weekly_stars": 474.0,
    "growth_method": "estimate",
    "pushed_days_ago": 0,
-   "created_days_ago": 332,
+   "created_days_ago": 333,
    "license": "MIT",
    "official": false,
    "risk": {
@@ -5341,27 +5385,33 @@
    }
   },
   {
-   "repo": "browser-use/browser-harness",
-   "url": "https://github.com/browser-use/browser-harness",
-   "description": "Let Claude Code, Codex or Cursor use your real Chrome, logged in as you. One prompt to set up. Open source, MIT.",
+   "repo": "VoltAgent/awesome-claude-code-subagents",
+   "url": "https://github.com/VoltAgent/awesome-claude-code-subagents",
+   "description": "A collection of 100+ specialized Claude Code subagents covering a wide range of development use cases",
    "kind": "plugin",
    "stacks": [],
    "categories": [
-    "mcp"
+    "devops"
    ],
-   "skills": [
-    "browser-harness",
-    "browser_harness"
-   ],
+   "skills": [],
    "plugins": [
-    "browser-harness"
+    "voltagent-core-dev",
+    "voltagent-lang",
+    "voltagent-infra",
+    "voltagent-qa-sec",
+    "voltagent-data-ai",
+    "voltagent-dev-exp",
+    "voltagent-domains",
+    "voltagent-biz",
+    "voltagent-meta",
+    "voltagent-research"
    ],
    "commands": [],
-   "stars": 18433,
-   "weekly_stars": 712.9,
+   "stars": 25749,
+   "weekly_stars": 407.8,
    "growth_method": "estimate",
-   "pushed_days_ago": 0,
-   "created_days_ago": 181,
+   "pushed_days_ago": 4,
+   "created_days_ago": 442,
    "license": "MIT",
    "official": false,
    "risk": {
@@ -5371,23 +5421,92 @@
     "new_repo": false
    },
    "install": [
-    "/plugin marketplace add browser-use/browser-harness",
-    "/plugin install browser-harness@browser-harness"
+    "/plugin marketplace add VoltAgent/awesome-claude-code-subagents",
+    "/plugin install voltagent-core-dev@voltagent-subagents",
+    "/plugin install voltagent-lang@voltagent-subagents",
+    "/plugin install voltagent-infra@voltagent-subagents",
+    "/plugin install voltagent-qa-sec@voltagent-subagents",
+    "/plugin install voltagent-data-ai@voltagent-subagents"
    ],
-   "score": 38.04,
+   "score": 38.23,
    "_info": {
-    "skills": [
-     "browser-harness",
-     "browser_harness"
-    ],
+    "skills": [],
     "plugins": [
-     "browser-harness"
+     "voltagent-core-dev",
+     "voltagent-lang",
+     "voltagent-infra",
+     "voltagent-qa-sec",
+     "voltagent-data-ai",
+     "voltagent-dev-exp",
+     "voltagent-domains",
+     "voltagent-biz",
+     "voltagent-meta",
+     "voltagent-research"
     ],
     "commands": [],
-    "marketplace": "browser-harness",
+    "marketplace": "voltagent-subagents",
     "has_hooks": false,
     "has_mcp": false,
     "has_scripts": false
+   }
+  },
+  {
+   "repo": "slopus/happy",
+   "url": "https://github.com/slopus/happy",
+   "description": "Orchestrate Claude, Codex and Grok in one app. Open-source (MIT), reuses the subscriptions you already pay for.",
+   "kind": "skill",
+   "stacks": [],
+   "categories": [
+    "memory"
+   ],
+   "skills": [
+    "agent-browser",
+    "control-flow",
+    "dev",
+    "maintain",
+    "metrics-graphana",
+    "office-hours",
+    "release",
+    "sessions",
+    "terminal-emulator"
+   ],
+   "plugins": [],
+   "commands": [],
+   "stars": 24168,
+   "weekly_stars": 372.6,
+   "growth_method": "estimate",
+   "pushed_days_ago": 0,
+   "created_days_ago": 454,
+   "license": "MIT",
+   "official": false,
+   "risk": {
+    "hooks": true,
+    "scripts": true,
+    "no_license": false,
+    "new_repo": false
+   },
+   "install": [
+    "npx skills add slopus/happy --skill <agent-browser|control-flow|dev|maintain|metrics-graphana>"
+   ],
+   "score": 38.2,
+   "_info": {
+    "skills": [
+     "agent-browser",
+     "control-flow",
+     "dev",
+     "maintain",
+     "metrics-graphana",
+     "office-hours",
+     "release",
+     "sessions",
+     "terminal-emulator"
+    ],
+    "plugins": [],
+    "commands": [],
+    "marketplace": null,
+    "has_hooks": true,
+    "has_mcp": false,
+    "has_scripts": true
    }
   },
   {
@@ -5418,11 +5537,11 @@
    ],
    "plugins": [],
    "commands": [],
-   "stars": 23073,
-   "weekly_stars": 326.9,
+   "stars": 23083,
+   "weekly_stars": 326.4,
    "growth_method": "estimate",
    "pushed_days_ago": 0,
-   "created_days_ago": 494,
+   "created_days_ago": 495,
    "license": "MIT",
    "official": false,
    "risk": {
@@ -5477,11 +5596,11 @@
    ],
    "plugins": [],
    "commands": [],
-   "stars": 19741,
-   "weekly_stars": 493.5,
+   "stars": 19752,
+   "weekly_stars": 492.0,
    "growth_method": "estimate",
    "pushed_days_ago": 0,
-   "created_days_ago": 280,
+   "created_days_ago": 281,
    "license": "MIT",
    "official": false,
    "risk": {
@@ -5493,7 +5612,7 @@
    "install": [
     "npx skills add teng-lin/notebooklm-py"
    ],
-   "score": 37.88,
+   "score": 37.87,
    "_info": {
     "skills": [
      "notebooklm-py"
@@ -5527,11 +5646,11 @@
    ],
    "plugins": [],
    "commands": [],
-   "stars": 20913,
-   "weekly_stars": 400.0,
+   "stars": 21030,
+   "weekly_stars": 401.1,
    "growth_method": "estimate",
    "pushed_days_ago": 0,
-   "created_days_ago": 366,
+   "created_days_ago": 367,
    "license": "NOASSERTION",
    "official": false,
    "risk": {
@@ -5543,7 +5662,7 @@
    "install": [
     "npx skills add getpaseo/paseo --skill <paseo|paseo-advisor|paseo-committee|paseo-handoff|paseo-help>"
    ],
-   "score": 37.84,
+   "score": 37.86,
    "_info": {
     "skills": [
      "paseo",
@@ -5564,6 +5683,58 @@
    }
   },
   {
+   "repo": "citrolabs/ego-lite",
+   "url": "https://github.com/citrolabs/ego-lite",
+   "description": "The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero conf",
+   "kind": "plugin",
+   "stacks": [],
+   "categories": [
+    "testing"
+   ],
+   "skills": [
+    "ego-browser",
+    "ego-lite-simplify",
+    "skill-body"
+   ],
+   "plugins": [
+    "ego"
+   ],
+   "commands": [],
+   "stars": 17461,
+   "weekly_stars": 671.6,
+   "growth_method": "estimate",
+   "pushed_days_ago": 0,
+   "created_days_ago": 182,
+   "license": "MIT",
+   "official": false,
+   "risk": {
+    "hooks": false,
+    "scripts": true,
+    "no_license": false,
+    "new_repo": false
+   },
+   "install": [
+    "/plugin marketplace add citrolabs/ego-lite",
+    "/plugin install ego@ego-agent-skills"
+   ],
+   "score": 37.81,
+   "_info": {
+    "skills": [
+     "ego-browser",
+     "ego-lite-simplify",
+     "skill-body"
+    ],
+    "plugins": [
+     "ego"
+    ],
+    "commands": [],
+    "marketplace": "ego-agent-skills",
+    "has_hooks": false,
+    "has_mcp": false,
+    "has_scripts": true
+   }
+  },
+  {
    "repo": "latent-spaces/brag",
    "url": "https://github.com/latent-spaces/brag",
    "description": "You built it. Now brag. Turn the project you just created into a short, shareable launch video with one command.",
@@ -5578,11 +5749,11 @@
     "brag"
    ],
    "commands": [],
-   "stars": 15980,
-   "weekly_stars": 932.2,
+   "stars": 16171,
+   "weekly_stars": 935.5,
    "growth_method": "estimate",
-   "pushed_days_ago": 1,
-   "created_days_ago": 120,
+   "pushed_days_ago": 2,
+   "created_days_ago": 121,
    "license": "MIT",
    "official": false,
    "risk": {
@@ -5595,7 +5766,7 @@
     "/plugin marketplace add latent-spaces/brag",
     "/plugin install brag@brag"
    ],
-   "score": 37.81,
+   "score": 37.79,
    "_info": {
     "skills": [
      "brag",
@@ -5665,11 +5836,11 @@
     "cs-aeo",
     "cs-andreessen"
    ],
-   "stars": 28204,
-   "weekly_stars": 548.4,
+   "stars": 28246,
+   "weekly_stars": 547.7,
    "growth_method": "estimate",
-   "pushed_days_ago": 45,
-   "created_days_ago": 360,
+   "pushed_days_ago": 46,
+   "created_days_ago": 361,
    "license": "MIT",
    "official": false,
    "risk": {
@@ -5686,7 +5857,7 @@
     "/plugin install general-counsel-advisor@claude-code-skills",
     "/plugin install arquiteto-de-empresa@claude-code-skills"
    ],
-   "score": 37.5,
+   "score": 37.49,
    "_info": {
     "skills": [
      "a11y-audit",
@@ -5854,11 +6025,11 @@
    ],
    "plugins": [],
    "commands": [],
-   "stars": 16751,
-   "weekly_stars": 617.1,
+   "stars": 16754,
+   "weekly_stars": 614.0,
    "growth_method": "estimate",
-   "pushed_days_ago": 3,
-   "created_days_ago": 190,
+   "pushed_days_ago": 4,
+   "created_days_ago": 191,
    "license": "MIT",
    "official": false,
    "risk": {
@@ -5870,7 +6041,7 @@
    "install": [
     "npx skills add xbtlin/ai-berkshire --skill <bottleneck-hunter|deep-company-series|dyp-ask|earnings-review|earnings-team>"
    ],
-   "score": 37.42,
+   "score": 37.35,
    "_info": {
     "skills": [
      "bottleneck-hunter",
@@ -5895,83 +6066,6 @@
      "thesis-drift",
      "thesis-tracker",
      "wechat-article"
-    ],
-    "plugins": [],
-    "commands": [],
-    "marketplace": null,
-    "has_hooks": false,
-    "has_mcp": false,
-    "has_scripts": true
-   }
-  },
-  {
-   "repo": "tradecatlabs/vibe-coding-cn",
-   "url": "https://github.com/tradecatlabs/vibe-coding-cn",
-   "description": "Vibe Coding 从入门到精通教程｜AI 结对编程工作流｜Prompt、Skill、Workflow、上下文管理、codex实战指南",
-   "kind": "skill",
-   "stacks": [],
-   "categories": [
-    "workflow",
-    "security",
-    "mcp"
-   ],
-   "skills": [
-    "analyzing-ethereum-smart-contract-vulnerabilities",
-    "anmath-methods",
-    "anmath-referee-strategy",
-    "anmath-writing-style",
-    "auditing-foundry-smart-contract-security",
-    "auto-skill",
-    "auto-tmux",
-    "math-computation",
-    "math-derivation",
-    "math-discovery"
-   ],
-   "plugins": [],
-   "commands": [],
-   "stars": 17556,
-   "weekly_stars": 377.0,
-   "growth_method": "estimate",
-   "pushed_days_ago": 0,
-   "created_days_ago": 326,
-   "license": "MIT",
-   "official": false,
-   "risk": {
-    "hooks": false,
-    "scripts": true,
-    "no_license": false,
-    "new_repo": false
-   },
-   "install": [
-    "npx skills add tradecatlabs/vibe-coding-cn --skill <analyzing-ethereum-smart-contract-vulnerabilities|anmath-methods|anmath-referee-strategy|anmath-writing-style|auditing-foundry-smart-contract-security>"
-   ],
-   "score": 37.25,
-   "_info": {
-    "skills": [
-     "analyzing-ethereum-smart-contract-vulnerabilities",
-     "anmath-methods",
-     "anmath-referee-strategy",
-     "anmath-writing-style",
-     "auditing-foundry-smart-contract-security",
-     "auto-skill",
-     "auto-tmux",
-     "math-computation",
-     "math-derivation",
-     "math-discovery",
-     "math-formalization",
-     "math-proof",
-     "vibe-mathing-router",
-     "web3-ai-tools",
-     "web3-bug-classes",
-     "web3-case-study-role-misconfig",
-     "web3-grep-arsenal",
-     "web3-hunt-foundation",
-     "web3-hunt-zksync-era",
-     "web3-methodology-research",
-     "web3-poc-foundry",
-     "web3-solidity-audit-mcp",
-     "web3-start-here",
-     "web3-triage-report"
     ],
     "plugins": [],
     "commands": [],
@@ -6008,11 +6102,11 @@
     "aris"
    ],
    "commands": [],
-   "stars": 17497,
-   "weekly_stars": 561.8,
+   "stars": 17546,
+   "weekly_stars": 560.8,
    "growth_method": "estimate",
-   "pushed_days_ago": 7,
-   "created_days_ago": 218,
+   "pushed_days_ago": 8,
+   "created_days_ago": 219,
    "license": "MIT",
    "official": false,
    "risk": {
@@ -6025,7 +6119,7 @@
     "/plugin marketplace add wanshuiyin/Auto-claude-code-research-in-sleep",
     "/plugin install aris@aris"
    ],
-   "score": 37.23,
+   "score": 37.18,
    "_info": {
     "skills": [
      "ablation-planner",
@@ -6115,11 +6209,11 @@
     "universal-modder"
    ],
    "commands": [],
-   "stars": 7681,
-   "weekly_stars": 3840.5,
+   "stars": 7948,
+   "weekly_stars": 3709.1,
    "growth_method": "estimate",
    "pushed_days_ago": 0,
-   "created_days_ago": 14,
+   "created_days_ago": 15,
    "license": "MIT",
    "official": false,
    "risk": {
@@ -6132,7 +6226,7 @@
     "/plugin marketplace add rehan-remade/universal-modder",
     "/plugin install universal-modder@universal-modder"
    ],
-   "score": 37.09,
+   "score": 37.16,
    "_info": {
     "skills": [
      "asset-pipeline",
@@ -6159,6 +6253,51 @@
    }
   },
   {
+   "repo": "Lakr233/vphone-cli",
+   "url": "https://github.com/Lakr233/vphone-cli",
+   "description": "Run a virtual iPhone on an Apple Silicon Mac.",
+   "kind": "skill",
+   "stacks": [],
+   "categories": [],
+   "skills": [
+    "authoring-patch-sets",
+    "kernel-analysis-vphone600",
+    "vphone-guest-control"
+   ],
+   "plugins": [],
+   "commands": [],
+   "stars": 15351,
+   "weekly_stars": 465.2,
+   "growth_method": "estimate",
+   "pushed_days_ago": 0,
+   "created_days_ago": 231,
+   "license": "MIT",
+   "official": false,
+   "risk": {
+    "hooks": true,
+    "scripts": false,
+    "no_license": false,
+    "new_repo": false
+   },
+   "install": [
+    "npx skills add Lakr233/vphone-cli --skill <authoring-patch-sets|kernel-analysis-vphone600|vphone-guest-control>"
+   ],
+   "score": 37.06,
+   "_info": {
+    "skills": [
+     "authoring-patch-sets",
+     "kernel-analysis-vphone600",
+     "vphone-guest-control"
+    ],
+    "plugins": [],
+    "commands": [],
+    "marketplace": null,
+    "has_hooks": true,
+    "has_mcp": false,
+    "has_scripts": false
+   }
+  },
+  {
    "repo": "Vincentwei1021/video-shotcraft",
    "url": "https://github.com/Vincentwei1021/video-shotcraft",
    "description": "AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 152 shot recipe cards, 209 motion previews, a production-ready template",
@@ -6173,11 +6312,11 @@
    ],
    "plugins": [],
    "commands": [],
-   "stars": 11952,
-   "weekly_stars": 961.7,
+   "stars": 12099,
+   "weekly_stars": 962.4,
    "growth_method": "estimate",
-   "pushed_days_ago": 1,
-   "created_days_ago": 87,
+   "pushed_days_ago": 2,
+   "created_days_ago": 88,
    "license": "Apache-2.0",
    "official": false,
    "risk": {
@@ -6189,7 +6328,7 @@
    "install": [
     "npx skills add Vincentwei1021/video-shotcraft"
    ],
-   "score": 36.97,
+   "score": 36.94,
    "_info": {
     "skills": [
      "video-shotcraft"
@@ -6216,11 +6355,11 @@
    ],
    "plugins": [],
    "commands": [],
-   "stars": 14467,
-   "weekly_stars": 466.7,
+   "stars": 14501,
+   "weekly_stars": 465.6,
    "growth_method": "estimate",
-   "pushed_days_ago": 2,
-   "created_days_ago": 217,
+   "pushed_days_ago": 3,
+   "created_days_ago": 218,
    "license": "MIT",
    "official": false,
    "risk": {
@@ -6232,7 +6371,7 @@
    "install": [
     "npx skills add nidhinjs/prompt-master"
    ],
-   "score": 36.76,
+   "score": 36.7,
    "_info": {
     "skills": [
      "prompt-master"
@@ -6250,11 +6389,8 @@
    "url": "https://github.com/superset-sh/superset",
    "description": "Superset is an agentic IDE to orchestrate 100+ coding agents in parallel. Run any agent with your own subscription.",
    "kind": "plugin",
-   "stacks": [
-    "swift"
-   ],
+   "stacks": [],
    "categories": [
-    "testing",
     "frontend",
     "db",
     "devops"
@@ -6286,11 +6422,11 @@
     "respond-to-pr-comments",
     "superset-automation"
    ],
-   "stars": 15204,
-   "weekly_stars": 297.3,
+   "stars": 15242,
+   "weekly_stars": 297.2,
    "growth_method": "estimate",
    "pushed_days_ago": 0,
-   "created_days_ago": 358,
+   "created_days_ago": 359,
    "license": "NOASSERTION",
    "official": false,
    "risk": {
@@ -6330,13 +6466,9 @@
      "incident-triage",
      "integrations",
      "issue-triage",
-     "limrun-expo-development",
-     "limrun-ios-simulator",
-     "limrun-maestro-testing",
-     "limrun-xcode",
      "mobile-demo-film",
      "mobile-demo-record",
-     "mobile-limrun-dev",
+     "mobile-eas-dev",
      "mobile-sim-verification",
      "orchestrate",
      "page",
@@ -6355,7 +6487,8 @@
      "trace-a-payment",
      "triage-superhuman-inbox",
      "trpc-compat",
-     "work-circleback-action-items"
+     "work-circleback-action-items",
+     "write-to-notion"
     ],
     "plugins": [
      "superset"
@@ -6410,11 +6543,11 @@
     "loop-engineering"
    ],
    "commands": [],
-   "stars": 11540,
-   "weekly_stars": 636.1,
+   "stars": 11557,
+   "weekly_stars": 632.0,
    "growth_method": "estimate",
    "pushed_days_ago": 0,
-   "created_days_ago": 127,
+   "created_days_ago": 128,
    "license": "MIT",
    "official": false,
    "risk": {
@@ -6476,11 +6609,11 @@
    ],
    "plugins": [],
    "commands": [],
-   "stars": 15544,
-   "weekly_stars": 246.2,
+   "stars": 15564,
+   "weekly_stars": 245.9,
    "growth_method": "estimate",
    "pushed_days_ago": 0,
-   "created_days_ago": 442,
+   "created_days_ago": 443,
    "license": "Apache-2.0",
    "official": false,
    "risk": {
@@ -6492,7 +6625,7 @@
    "install": [
     "npx skills add eigent-ai/eigent --skill <docx|pdf|pptx|skill-creator|skill-security-auditor>"
    ],
-   "score": 36.46,
+   "score": 36.47,
    "_info": {
     "skills": [
      "docx",
@@ -6540,11 +6673,11 @@
     "project",
     "pull-requests"
    ],
-   "stars": 13189,
-   "weekly_stars": 379.9,
+   "stars": 13217,
+   "weekly_stars": 379.2,
    "growth_method": "estimate",
    "pushed_days_ago": 0,
-   "created_days_ago": 243,
+   "created_days_ago": 244,
    "license": "Apache-2.0",
    "official": false,
    "risk": {
@@ -6556,7 +6689,7 @@
    "install": [
     "npx skills add OrchestratorInc/agent-orchestrator --skill <ao-desktop-dev|bug-triage|pr-description|using-ao>"
    ],
-   "score": 36.4,
+   "score": 36.41,
    "_info": {
     "skills": [
      "ao-desktop-dev",
@@ -6610,11 +6743,11 @@
     "autoharness"
    ],
    "commands": [],
-   "stars": 11122,
-   "weekly_stars": 613.0,
+   "stars": 11133,
+   "weekly_stars": 608.8,
    "growth_method": "estimate",
    "pushed_days_ago": 0,
-   "created_days_ago": 127,
+   "created_days_ago": 128,
    "license": "MIT",
    "official": false,
    "risk": {
@@ -6643,25 +6776,27 @@
    }
   },
   {
-   "repo": "genspark-ai/genoffice",
-   "url": "https://github.com/genspark-ai/genoffice",
-   "description": "Free, open-source AI Office suite: Docs, Sheets, Slides, PDF, Markdown and HTML editors with a built-in AI agent, plus a `genoffice` CLI and agent skill so Claude Code, Codex and Cursor can create and",
-   "kind": "skill",
+   "repo": "tw93/Kami",
+   "url": "https://github.com/tw93/Kami",
+   "description": "👩‍🚒 Good content deserves good paper. Layout rules and templates that let AI agents export PDF, PNG and editable PowerPoint.",
+   "kind": "plugin",
    "stacks": [],
    "categories": [
-    "docs"
+    "frontend"
    ],
    "skills": [
-    "genoffice"
+    "kami"
    ],
-   "plugins": [],
+   "plugins": [
+    "kami"
+   ],
    "commands": [],
-   "stars": 9704,
-   "weekly_stars": 905.7,
+   "stars": 11973,
+   "weekly_stars": 470.8,
    "growth_method": "estimate",
    "pushed_days_ago": 0,
-   "created_days_ago": 75,
-   "license": "Apache-2.0",
+   "created_days_ago": 178,
+   "license": "MIT",
    "official": false,
    "risk": {
     "hooks": false,
@@ -6670,18 +6805,21 @@
     "new_repo": false
    },
    "install": [
-    "npx skills add genspark-ai/genoffice"
+    "/plugin marketplace add tw93/Kami",
+    "/plugin install kami@kami"
    ],
-   "score": 36.35,
+   "score": 36.33,
    "_info": {
     "skills": [
-     "genoffice"
+     "kami"
     ],
-    "plugins": [],
+    "plugins": [
+     "kami"
+    ],
     "commands": [],
-    "marketplace": null,
+    "marketplace": "kami",
     "has_hooks": false,
-    "has_mcp": true,
+    "has_mcp": false,
     "has_scripts": true
    }
   },
@@ -6715,11 +6853,11 @@
    ],
    "plugins": [],
    "commands": [],
-   "stars": 10816,
-   "weekly_stars": 605.7,
+   "stars": 10835,
+   "weekly_stars": 601.9,
    "growth_method": "estimate",
    "pushed_days_ago": 0,
-   "created_days_ago": 125,
+   "created_days_ago": 126,
    "license": "Apache-2.0",
    "official": false,
    "risk": {
@@ -6755,6 +6893,10 @@
      "investigate",
      "migration-guide",
      "omnigent-knowledge",
+     "otto-drive-pr",
+     "otto-impact-assessment",
+     "otto-pr-review-loop",
+     "otto-review-remediation",
      "pi-e2e-xyz-count-d2f6e1",
      "pi-e2e-xyz-greet-c4a8d5",
      "pi-native-e2e-dev",
@@ -6762,7 +6904,6 @@
      "resolve-author-fix",
      "resolve-drive-pr",
      "resolve-handoff",
-     "resolve-impact-assessment",
      "resolve-inputs",
      "resolve-investigate",
      "resolve-publish",
@@ -6781,50 +6922,6 @@
    }
   },
   {
-   "repo": "trailhq/Trail-Code",
-   "url": "https://github.com/trailhq/Trail-Code",
-   "description": "Turbocharge Claude Code, Cursor, Codex, Gemini & every coding agent: faster, cheaper, with contextual understanding specific to your codebase.",
-   "kind": "skill",
-   "stacks": [],
-   "categories": [
-    "mcp",
-    "memory"
-   ],
-   "skills": [
-    "graft"
-   ],
-   "plugins": [],
-   "commands": [],
-   "stars": 10034,
-   "weekly_stars": 681.9,
-   "growth_method": "estimate",
-   "pushed_days_ago": 0,
-   "created_days_ago": 103,
-   "license": "MIT",
-   "official": false,
-   "risk": {
-    "hooks": false,
-    "scripts": false,
-    "no_license": false,
-    "new_repo": false
-   },
-   "install": [
-    "npx skills add trailhq/Trail-Code"
-   ],
-   "score": 36.17,
-   "_info": {
-    "skills": [
-     "graft"
-    ],
-    "plugins": [],
-    "commands": [],
-    "marketplace": null,
-    "has_hooks": false,
-    "has_mcp": true,
-    "has_scripts": false
-   }
-  },
-  {
    "repo": "NevaMind-AI/memU",
    "url": "https://github.com/NevaMind-AI/memU",
    "description": "Personal memory across agents",
@@ -6839,11 +6936,11 @@
    ],
    "plugins": [],
    "commands": [],
-   "stars": 14545,
-   "weekly_stars": 229.8,
+   "stars": 14546,
+   "weekly_stars": 229.3,
    "growth_method": "estimate",
-   "pushed_days_ago": 1,
-   "created_days_ago": 443,
+   "pushed_days_ago": 0,
+   "created_days_ago": 444,
    "license": "NOASSERTION",
    "official": false,
    "risk": {
@@ -6855,7 +6952,7 @@
    "install": [
     "npx skills add NevaMind-AI/memU"
    ],
-   "score": 36.13,
+   "score": 36.19,
    "_info": {
     "skills": [
      "memU"
@@ -6866,6 +6963,50 @@
     "has_hooks": false,
     "has_mcp": false,
     "has_scripts": true
+   }
+  },
+  {
+   "repo": "trailhq/Trail-Code",
+   "url": "https://github.com/trailhq/Trail-Code",
+   "description": "Turbocharge Claude Code, Cursor, Codex, Gemini & every coding agent: faster, cheaper, with contextual understanding specific to your codebase.",
+   "kind": "skill",
+   "stacks": [],
+   "categories": [
+    "mcp",
+    "memory"
+   ],
+   "skills": [
+    "graft"
+   ],
+   "plugins": [],
+   "commands": [],
+   "stars": 10082,
+   "weekly_stars": 678.6,
+   "growth_method": "estimate",
+   "pushed_days_ago": 0,
+   "created_days_ago": 104,
+   "license": "MIT",
+   "official": false,
+   "risk": {
+    "hooks": false,
+    "scripts": false,
+    "no_license": false,
+    "new_repo": false
+   },
+   "install": [
+    "npx skills add trailhq/Trail-Code"
+   ],
+   "score": 36.18,
+   "_info": {
+    "skills": [
+     "graft"
+    ],
+    "plugins": [],
+    "commands": [],
+    "marketplace": null,
+    "has_hooks": false,
+    "has_mcp": true,
+    "has_scripts": false
    }
   },
   {
@@ -6898,11 +7039,11 @@
     "gsd-core"
    ],
    "commands": [],
-   "stars": 10524,
-   "weekly_stars": 508.1,
+   "stars": 10567,
+   "weekly_stars": 506.6,
    "growth_method": "estimate",
    "pushed_days_ago": 0,
-   "created_days_ago": 145,
+   "created_days_ago": 146,
    "license": "MIT",
    "official": false,
    "risk": {
@@ -6915,7 +7056,7 @@
     "/plugin marketplace add open-gsd/gsd-core",
     "/plugin install gsd-core@gsd-core"
    ],
-   "score": 36.02,
+   "score": 36.03,
    "_info": {
     "skills": [
      "gsd-add-tests",
@@ -6980,6 +7121,47 @@
    }
   },
   {
+   "repo": "BigBodyCobain/Shadowbroker",
+   "url": "https://github.com/BigBodyCobain/Shadowbroker",
+   "description": "Open-source intelligence for the global theater. Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic events in one unified interface. Hook an AI agent up to",
+   "kind": "skill",
+   "stacks": [],
+   "categories": [],
+   "skills": [
+    "shadowbroker"
+   ],
+   "plugins": [],
+   "commands": [],
+   "stars": 11325,
+   "weekly_stars": 353.9,
+   "growth_method": "estimate",
+   "pushed_days_ago": 0,
+   "created_days_ago": 224,
+   "license": "AGPL-3.0",
+   "official": false,
+   "risk": {
+    "hooks": true,
+    "scripts": true,
+    "no_license": false,
+    "new_repo": false
+   },
+   "install": [
+    "npx skills add BigBodyCobain/Shadowbroker"
+   ],
+   "score": 35.88,
+   "_info": {
+    "skills": [
+     "shadowbroker"
+    ],
+    "plugins": [],
+    "commands": [],
+    "marketplace": null,
+    "has_hooks": true,
+    "has_mcp": false,
+    "has_scripts": true
+   }
+  },
+  {
    "repo": "Orchestra-Research/AI-Research-SKILLs",
    "url": "https://github.com/Orchestra-Research/AI-Research-SKILLs",
    "description": "Comprehensive open-source library of AI research and engineering skills for any AI model. Package the skills and your claude code/codex/gemini agent will be an AI research agent with full horsepower. ",
@@ -7017,11 +7199,11 @@
     "optimization"
    ],
    "commands": [],
-   "stars": 13575,
-   "weekly_stars": 275.4,
+   "stars": 13597,
+   "weekly_stars": 275.1,
    "growth_method": "estimate",
-   "pushed_days_ago": 4,
-   "created_days_ago": 345,
+   "pushed_days_ago": 5,
+   "created_days_ago": 346,
    "license": "MIT",
    "official": false,
    "risk": {
@@ -7038,7 +7220,7 @@
     "/plugin install mechanistic-interpretability@ai-research-skills",
     "/plugin install data-processing@ai-research-skills"
    ],
-   "score": 35.92,
+   "score": 35.87,
    "_info": {
     "skills": [
      "0-autoresearch-skill",
@@ -7171,11 +7353,11 @@
     "fullstack-dev-skills"
    ],
    "commands": [],
-   "stars": 11878,
-   "weekly_stars": 231.6,
+   "stars": 11891,
+   "weekly_stars": 231.2,
    "growth_method": "estimate",
-   "pushed_days_ago": 1,
-   "created_days_ago": 359,
+   "pushed_days_ago": 0,
+   "created_days_ago": 360,
    "license": "MIT",
    "official": false,
    "risk": {
@@ -7188,7 +7370,7 @@
     "/plugin marketplace add Jeffallan/claude-skills",
     "/plugin install fullstack-dev-skills@fullstack-dev-skills"
    ],
-   "score": 35.53,
+   "score": 35.6,
    "_info": {
     "skills": [
      "angular-architect",
@@ -7253,37 +7435,31 @@
    }
   },
   {
-   "repo": "AgriciDaniel/claude-ads",
-   "url": "https://github.com/AgriciDaniel/claude-ads",
-   "description": "Claude-first paid-media operations skill for Claude Code across 12 ad platforms (Google, Meta, YouTube, LinkedIn, TikTok, Microsoft, Apple, Amazon, Reddit, Pinterest, Snapchat, X): source-grounded aud",
-   "kind": "plugin",
+   "repo": "krillinai/OpenCreator",
+   "url": "https://github.com/krillinai/OpenCreator",
+   "description": "Formerly KrillinAI, VideoTranslation and Dubbing Tool. Open-source AI workspace for creators, powered by Codex. Video downloading, video translation, create videos, images, voice, avatars, and edits w",
+   "kind": "skill",
    "stacks": [],
-   "categories": [
-    "testing",
-    "security"
-   ],
+   "categories": [],
    "skills": [
-    "ads",
-    "ads-amazon",
-    "ads-apple",
-    "ads-attribution",
-    "ads-audit",
-    "ads-budget",
-    "ads-competitor",
-    "ads-create",
-    "ads-creative",
-    "ads-dna"
+    "krillinai-cli",
+    "krillinai-cover",
+    "krillinai-pipeline",
+    "krillinai-render-horizontal",
+    "krillinai-render-vertical",
+    "krillinai-subtitle",
+    "krillinai-tts",
+    "opencreator-runtime",
+    "skill"
    ],
-   "plugins": [
-    "claude-ads"
-   ],
+   "plugins": [],
    "commands": [],
-   "stars": 9993,
-   "weekly_stars": 285.5,
+   "stars": 13294,
+   "weekly_stars": 139.3,
    "growth_method": "estimate",
    "pushed_days_ago": 0,
-   "created_days_ago": 245,
-   "license": "MIT",
+   "created_days_ago": 668,
+   "license": "Apache-2.0",
    "official": false,
    "risk": {
     "hooks": false,
@@ -7292,52 +7468,24 @@
     "new_repo": false
    },
    "install": [
-    "/plugin marketplace add AgriciDaniel/claude-ads",
-    "/plugin install claude-ads@ai-marketing-hub-claude-ads"
+    "npx skills add krillinai/OpenCreator --skill <krillinai-cli|krillinai-cover|krillinai-pipeline|krillinai-render-horizontal|krillinai-render-vertical>"
    ],
-   "score": 35.29,
+   "score": 35.43,
    "_info": {
     "skills": [
-     "ads",
-     "ads-amazon",
-     "ads-apple",
-     "ads-attribution",
-     "ads-audit",
-     "ads-budget",
-     "ads-competitor",
-     "ads-create",
-     "ads-creative",
-     "ads-dna",
-     "ads-generate",
-     "ads-google",
-     "ads-landing",
-     "ads-launch",
-     "ads-linkedin",
-     "ads-math",
-     "ads-meta",
-     "ads-microsoft",
-     "ads-monitor",
-     "ads-optimize",
-     "ads-photoshoot",
-     "ads-pinterest",
-     "ads-plan",
-     "ads-reddit",
-     "ads-report",
-     "ads-research",
-     "ads-server-side-tracking",
-     "ads-setup",
-     "ads-snapchat",
-     "ads-test",
-     "ads-tiktok",
-     "ads-validate",
-     "ads-x",
-     "ads-youtube"
+     "krillinai-cli",
+     "krillinai-cover",
+     "krillinai-pipeline",
+     "krillinai-render-horizontal",
+     "krillinai-render-vertical",
+     "krillinai-subtitle",
+     "krillinai-tts",
+     "opencreator-runtime",
+     "skill"
     ],
-    "plugins": [
-     "claude-ads"
-    ],
+    "plugins": [],
     "commands": [],
-    "marketplace": "ai-marketing-hub-claude-ads",
+    "marketplace": null,
     "has_hooks": false,
     "has_mcp": false,
     "has_scripts": true
@@ -7370,11 +7518,11 @@
    ],
    "plugins": [],
    "commands": [],
-   "stars": 9126,
-   "weekly_stars": 409.5,
+   "stars": 9139,
+   "weekly_stars": 407.5,
    "growth_method": "estimate",
-   "pushed_days_ago": 2,
-   "created_days_ago": 156,
+   "pushed_days_ago": 3,
+   "created_days_ago": 157,
    "license": "Apache-2.0",
    "official": false,
    "risk": {
@@ -7386,7 +7534,7 @@
    "install": [
     "npx skills add nexu-io/html-anything --skill <article-magazine|article-sketchnote-editorial|blog-post|card-twitter|card-xiaohongshu>"
    ],
-   "score": 35.25,
+   "score": 35.18,
    "_info": {
     "skills": [
      "article-magazine",
@@ -7481,11 +7629,11 @@
     "plannotator-last",
     "plannotator-review"
    ],
-   "stars": 9422,
-   "weekly_stars": 226.6,
+   "stars": 9455,
+   "weekly_stars": 226.7,
    "growth_method": "estimate",
    "pushed_days_ago": 0,
-   "created_days_ago": 291,
+   "created_days_ago": 292,
    "license": "Apache-2.0",
    "official": false,
    "risk": {
@@ -7498,7 +7646,7 @@
     "/plugin marketplace add backnotprop/plannotator",
     "/plugin install plannotator@plannotator"
    ],
-   "score": 34.88,
+   "score": 34.89,
    "_info": {
     "skills": [
      "plannotator",
@@ -7557,11 +7705,11 @@
     "openapi-to-mcp"
    ],
    "commands": [],
-   "stars": 10763,
-   "weekly_stars": 133.3,
+   "stars": 10771,
+   "weekly_stars": 133.2,
    "growth_method": "estimate",
    "pushed_days_ago": 0,
-   "created_days_ago": 565,
+   "created_days_ago": 566,
    "license": "MIT",
    "official": false,
    "risk": {
@@ -7618,11 +7766,11 @@
    ],
    "plugins": [],
    "commands": [],
-   "stars": 7637,
-   "weekly_stars": 328.0,
+   "stars": 7697,
+   "weekly_stars": 328.5,
    "growth_method": "estimate",
-   "pushed_days_ago": 1,
-   "created_days_ago": 163,
+   "pushed_days_ago": 0,
+   "created_days_ago": 164,
    "license": "MIT",
    "official": false,
    "risk": {
@@ -7634,7 +7782,7 @@
    "install": [
     "npx skills add WenyuChiou/awesome-agentic-ai-zh"
    ],
-   "score": 34.55,
+   "score": 34.64,
    "_info": {
     "skills": [
      "tool-calling-tutor"
@@ -7645,6 +7793,130 @@
     "has_hooks": false,
     "has_mcp": true,
     "has_scripts": true
+   }
+  },
+  {
+   "repo": "max-sixty/worktrunk",
+   "url": "https://github.com/max-sixty/worktrunk",
+   "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+   "kind": "plugin",
+   "stacks": [],
+   "categories": [
+    "workflow",
+    "frontend"
+   ],
+   "skills": [
+    "release",
+    "running-tend",
+    "worktrunk",
+    "writing-user-outputs",
+    "wt-switch-create"
+   ],
+   "plugins": [
+    "worktrunk"
+   ],
+   "commands": [
+    "agents"
+   ],
+   "stars": 9255,
+   "weekly_stars": 178.5,
+   "growth_method": "estimate",
+   "pushed_days_ago": 0,
+   "created_days_ago": 363,
+   "license": "NOASSERTION",
+   "official": false,
+   "risk": {
+    "hooks": true,
+    "scripts": true,
+    "no_license": false,
+    "new_repo": false
+   },
+   "install": [
+    "/plugin marketplace add max-sixty/worktrunk",
+    "/plugin install worktrunk@worktrunk"
+   ],
+   "score": 34.59,
+   "_info": {
+    "skills": [
+     "release",
+     "running-tend",
+     "worktrunk",
+     "writing-user-outputs",
+     "wt-switch-create"
+    ],
+    "plugins": [
+     "worktrunk"
+    ],
+    "commands": [
+     "agents"
+    ],
+    "marketplace": "worktrunk",
+    "has_hooks": true,
+    "has_mcp": false,
+    "has_scripts": true
+   }
+  },
+  {
+   "repo": "Ryze-AI-Adgent/open-seo-mcp-skills",
+   "url": "https://github.com/Ryze-AI-Adgent/open-seo-mcp-skills",
+   "description": "Free SEO MCP server + open-source SEO and GEO skills for Claude: keyword research, rank tracking, audits, backlinks, AI visibility on your real GSC/GA4/ads data. claude mcp add ryze --transport http h",
+   "kind": "plugin",
+   "stacks": [],
+   "categories": [
+    "security",
+    "mcp"
+   ],
+   "skills": [
+    "ai-visibility",
+    "backlink-check",
+    "competitor-gap",
+    "content-brief",
+    "keyword-research",
+    "rank-tracking",
+    "seo-audit",
+    "seo-vs-ads"
+   ],
+   "plugins": [
+    "open-seo-mcp-skills"
+   ],
+   "commands": [],
+   "stars": 5799,
+   "weekly_stars": 863.7,
+   "growth_method": "estimate",
+   "pushed_days_ago": 3,
+   "created_days_ago": 47,
+   "license": "MIT",
+   "official": false,
+   "risk": {
+    "hooks": false,
+    "scripts": false,
+    "no_license": false,
+    "new_repo": false
+   },
+   "install": [
+    "/plugin marketplace add Ryze-AI-Adgent/open-seo-mcp-skills",
+    "/plugin install open-seo-mcp-skills@ryze"
+   ],
+   "score": 34.57,
+   "_info": {
+    "skills": [
+     "ai-visibility",
+     "backlink-check",
+     "competitor-gap",
+     "content-brief",
+     "keyword-research",
+     "rank-tracking",
+     "seo-audit",
+     "seo-vs-ads"
+    ],
+    "plugins": [
+     "open-seo-mcp-skills"
+    ],
+    "commands": [],
+    "marketplace": "ryze",
+    "has_hooks": false,
+    "has_mcp": false,
+    "has_scripts": false
    }
   },
   {
@@ -7683,11 +7955,11 @@
     "story-review",
     "story-setup"
    ],
-   "stars": 7572,
-   "weekly_stars": 302.9,
+   "stars": 7631,
+   "weekly_stars": 303.5,
    "growth_method": "estimate",
    "pushed_days_ago": 0,
-   "created_days_ago": 175,
+   "created_days_ago": 176,
    "license": "MIT",
    "official": false,
    "risk": {
@@ -7700,7 +7972,7 @@
     "/plugin marketplace add zenstory-ai/oh-story-claudecode",
     "/plugin install oh-story@oh-story-skills"
    ],
-   "score": 34.51,
+   "score": 34.54,
    "_info": {
     "skills": [
      "browser-cdp",
@@ -7742,69 +8014,6 @@
    }
   },
   {
-   "repo": "Ryze-AI-Adgent/open-seo-mcp-skills",
-   "url": "https://github.com/Ryze-AI-Adgent/open-seo-mcp-skills",
-   "description": "Free SEO MCP server + open-source SEO and GEO skills for Claude: keyword research, rank tracking, audits, backlinks, AI visibility on your real GSC/GA4/ads data. claude mcp add ryze --transport http h",
-   "kind": "plugin",
-   "stacks": [],
-   "categories": [
-    "security",
-    "mcp"
-   ],
-   "skills": [
-    "ai-visibility",
-    "backlink-check",
-    "competitor-gap",
-    "content-brief",
-    "keyword-research",
-    "rank-tracking",
-    "seo-audit",
-    "seo-vs-ads"
-   ],
-   "plugins": [
-    "open-seo-mcp-skills"
-   ],
-   "commands": [],
-   "stars": 5497,
-   "weekly_stars": 836.5,
-   "growth_method": "estimate",
-   "pushed_days_ago": 2,
-   "created_days_ago": 46,
-   "license": "MIT",
-   "official": false,
-   "risk": {
-    "hooks": false,
-    "scripts": false,
-    "no_license": false,
-    "new_repo": false
-   },
-   "install": [
-    "/plugin marketplace add Ryze-AI-Adgent/open-seo-mcp-skills",
-    "/plugin install open-seo-mcp-skills@ryze"
-   ],
-   "score": 34.44,
-   "_info": {
-    "skills": [
-     "ai-visibility",
-     "backlink-check",
-     "competitor-gap",
-     "content-brief",
-     "keyword-research",
-     "rank-tracking",
-     "seo-audit",
-     "seo-vs-ads"
-    ],
-    "plugins": [
-     "open-seo-mcp-skills"
-    ],
-    "commands": [],
-    "marketplace": "ryze",
-    "has_hooks": false,
-    "has_mcp": false,
-    "has_scripts": false
-   }
-  },
-  {
    "repo": "anbeime/skill",
    "url": "https://github.com/anbeime/skill",
    "description": "收录最全、更新最快的技能Skills商店：精选原创技能包（涵盖文档处理、内容创作、编程开发、机器学习、自动化工作流），全部打包好可直接安装使用！同时自动抓取GitHub上万个Skills项目，按分类、更新时间、Star数量整理。The most comprehensive and frequently updated AI Agent skill library, featuring curate",
@@ -7830,11 +8039,11 @@
    ],
    "plugins": [],
    "commands": [],
-   "stars": 8065,
-   "weekly_stars": 222.3,
+   "stars": 8131,
+   "weekly_stars": 223.2,
    "growth_method": "estimate",
    "pushed_days_ago": 0,
-   "created_days_ago": 254,
+   "created_days_ago": 255,
    "license": null,
    "official": false,
    "risk": {
@@ -7846,7 +8055,7 @@
    "install": [
     "npx skills add anbeime/skill --skill <_template|agent-team|agentkit-multimedia-shopping|antinet-doc-parse|antinet-four-color-cards>"
    ],
-   "score": 34.39,
+   "score": 34.42,
    "_info": {
     "skills": [
      "_template",
@@ -7909,88 +8118,6 @@
    }
   },
   {
-   "repo": "Gentleman-Programming/gentle-ai",
-   "url": "https://github.com/Gentleman-Programming/gentle-ai",
-   "description": "Gentle-AI configures the AI coding agents you already use: Claude Code, Cursor, OpenCode, Codex, Pi, and more. Choose persistent memory, Organic-Driven Development, curated skills, MCP servers, person",
-   "kind": "skill",
-   "stacks": [
-    "go"
-   ],
-   "categories": [
-    "workflow",
-    "review",
-    "testing",
-    "frontend",
-    "mcp",
-    "memory"
-   ],
-   "skills": [
-    "branch-pr",
-    "chained-pr",
-    "cognitive-doc-design",
-    "comment-writer",
-    "gentle-ai-bench",
-    "gentle-ai-collab-perfect",
-    "go-testing",
-    "hermes-ephemeral-delegation",
-    "issue-creation",
-    "issue-root-resolution"
-   ],
-   "plugins": [],
-   "commands": [
-    "skill-creator",
-    "skill-registry"
-   ],
-   "stars": 7776,
-   "weekly_stars": 237.7,
-   "growth_method": "estimate",
-   "pushed_days_ago": 0,
-   "created_days_ago": 229,
-   "license": "MIT",
-   "official": false,
-   "risk": {
-    "hooks": false,
-    "scripts": true,
-    "no_license": false,
-    "new_repo": false
-   },
-   "install": [
-    "npx skills add Gentleman-Programming/gentle-ai --skill <branch-pr|chained-pr|cognitive-doc-design|comment-writer|gentle-ai-bench>"
-   ],
-   "score": 34.35,
-   "_info": {
-    "skills": [
-     "branch-pr",
-     "chained-pr",
-     "cognitive-doc-design",
-     "comment-writer",
-     "gentle-ai-bench",
-     "gentle-ai-collab-perfect",
-     "go-testing",
-     "hermes-ephemeral-delegation",
-     "issue-creation",
-     "issue-root-resolution",
-     "judgment-day",
-     "rdd-advisory-transport",
-     "rdd-defect-workflow",
-     "skill-creator",
-     "skill-improver",
-     "skill-registry",
-     "systemic-issue-triage",
-     "work-unit-commits"
-    ],
-    "plugins": [],
-    "commands": [
-     "skill-creator",
-     "skill-registry"
-    ],
-    "marketplace": null,
-    "has_hooks": false,
-    "has_mcp": false,
-    "has_scripts": true
-   }
-  },
-  {
    "repo": "mvschwarz/openrig",
    "url": "https://github.com/mvschwarz/openrig",
    "description": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
@@ -8019,11 +8146,11 @@
    ],
    "plugins": [],
    "commands": [],
-   "stars": 7468,
-   "weekly_stars": 266.7,
+   "stars": 7518,
+   "weekly_stars": 267.1,
    "growth_method": "estimate",
    "pushed_days_ago": 0,
-   "created_days_ago": 196,
+   "created_days_ago": 197,
    "license": "Apache-2.0",
    "official": false,
    "risk": {
@@ -8035,7 +8162,7 @@
    "install": [
     "npx skills add mvschwarz/openrig --skill <agent-browser|agent-operated-software|agent-operated-workflows|agent-starters|agent-startup-and-context-ingestion>"
    ],
-   "score": 34.35,
+   "score": 34.37,
    "_info": {
     "skills": [
      "agent-browser",
@@ -8098,6 +8225,88 @@
    }
   },
   {
+   "repo": "Gentleman-Programming/gentle-ai",
+   "url": "https://github.com/Gentleman-Programming/gentle-ai",
+   "description": "Gentle-AI configures the AI coding agents you already use: Claude Code, Cursor, OpenCode, Codex, Pi, and more. Choose persistent memory, Organic-Driven Development, curated skills, MCP servers, person",
+   "kind": "skill",
+   "stacks": [
+    "go"
+   ],
+   "categories": [
+    "workflow",
+    "review",
+    "testing",
+    "frontend",
+    "mcp",
+    "memory"
+   ],
+   "skills": [
+    "branch-pr",
+    "chained-pr",
+    "cognitive-doc-design",
+    "comment-writer",
+    "gentle-ai-bench",
+    "gentle-ai-collab-perfect",
+    "go-testing",
+    "hermes-ephemeral-delegation",
+    "issue-creation",
+    "issue-root-resolution"
+   ],
+   "plugins": [],
+   "commands": [
+    "skill-creator",
+    "skill-registry"
+   ],
+   "stars": 7806,
+   "weekly_stars": 237.6,
+   "growth_method": "estimate",
+   "pushed_days_ago": 0,
+   "created_days_ago": 230,
+   "license": "MIT",
+   "official": false,
+   "risk": {
+    "hooks": false,
+    "scripts": true,
+    "no_license": false,
+    "new_repo": false
+   },
+   "install": [
+    "npx skills add Gentleman-Programming/gentle-ai --skill <branch-pr|chained-pr|cognitive-doc-design|comment-writer|gentle-ai-bench>"
+   ],
+   "score": 34.36,
+   "_info": {
+    "skills": [
+     "branch-pr",
+     "chained-pr",
+     "cognitive-doc-design",
+     "comment-writer",
+     "gentle-ai-bench",
+     "gentle-ai-collab-perfect",
+     "go-testing",
+     "hermes-ephemeral-delegation",
+     "issue-creation",
+     "issue-root-resolution",
+     "judgment-day",
+     "rdd-advisory-transport",
+     "rdd-defect-workflow",
+     "skill-creator",
+     "skill-improver",
+     "skill-registry",
+     "systemic-issue-triage",
+     "work-unit-commits"
+    ],
+    "plugins": [],
+    "commands": [
+     "skill-creator",
+     "skill-registry"
+    ],
+    "marketplace": null,
+    "has_hooks": false,
+    "has_mcp": false,
+    "has_scripts": true
+   }
+  },
+  {
    "repo": "larashero3-dotcom/lieflat-charts",
    "url": "https://github.com/larashero3-dotcom/lieflat-charts",
    "description": "Data visualization Skill for AI Agents, turning data into polished, interactive HTML charts. 面向 AI Agents 的数据可视化 Skill，将数据快速生成精致、可交互的 HTML 图表。",
@@ -8109,11 +8318,11 @@
    ],
    "plugins": [],
    "commands": [],
-   "stars": 6122,
-   "weekly_stars": 476.2,
+   "stars": 6146,
+   "weekly_stars": 472.8,
    "growth_method": "estimate",
    "pushed_days_ago": 0,
-   "created_days_ago": 90,
+   "created_days_ago": 91,
    "license": "NOASSERTION",
    "official": false,
    "risk": {
@@ -8139,107 +8348,86 @@
    }
   },
   {
-   "repo": "SnailSploit/Claude-Red",
-   "url": "https://github.com/SnailSploit/Claude-Red",
-   "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a spec",
-   "kind": "skill",
-   "stacks": [
-    "docker"
-   ],
+   "repo": "tw93/Waza",
+   "url": "https://github.com/tw93/Waza",
+   "description": "🥷 Engineering habits you already know, turned into skills AI assistants like Claude Code, Codex and Cursor can run.",
+   "kind": "plugin",
+   "stacks": [],
    "categories": [
-    "frontend",
-    "security"
+    "workflow",
+    "frontend"
    ],
    "skills": [
-    "offensive-active-directory",
-    "offensive-advanced-redteam",
-    "offensive-ai-security",
-    "offensive-anti-forensics",
-    "offensive-api-abuse",
-    "offensive-api-security",
-    "offensive-basic-exploitation",
-    "offensive-bluetooth-ble",
-    "offensive-bluetooth-classic",
-    "offensive-bug-identification"
+    "check",
+    "health",
+    "hunt",
+    "learn",
+    "read",
+    "think",
+    "ui",
+    "write"
    ],
-   "plugins": [],
+   "plugins": [
+    "waza",
+    "waza-check",
+    "waza-health",
+    "waza-hunt",
+    "waza-learn",
+    "waza-read",
+    "waza-think",
+    "waza-ui",
+    "waza-write"
+   ],
    "commands": [],
-   "stars": 7512,
-   "weekly_stars": 234.8,
+   "stars": 7307,
+   "weekly_stars": 234.6,
    "growth_method": "estimate",
-   "pushed_days_ago": 2,
-   "created_days_ago": 224,
+   "pushed_days_ago": 0,
+   "created_days_ago": 218,
    "license": "MIT",
    "official": false,
    "risk": {
     "hooks": false,
-    "scripts": false,
+    "scripts": true,
     "no_license": false,
     "new_repo": false
    },
    "install": [
-    "npx skills add SnailSploit/Claude-Red --skill <offensive-active-directory|offensive-advanced-redteam|offensive-ai-security|offensive-anti-forensics|offensive-api-abuse>"
+    "/plugin marketplace add tw93/Waza",
+    "/plugin install waza@waza",
+    "/plugin install waza-check@waza",
+    "/plugin install waza-health@waza",
+    "/plugin install waza-hunt@waza",
+    "/plugin install waza-learn@waza"
    ],
-   "score": 34.11,
+   "score": 34.15,
    "_info": {
     "skills": [
-     "offensive-active-directory",
-     "offensive-advanced-redteam",
-     "offensive-ai-security",
-     "offensive-anti-forensics",
-     "offensive-api-abuse",
-     "offensive-api-security",
-     "offensive-basic-exploitation",
-     "offensive-bluetooth-ble",
-     "offensive-bluetooth-classic",
-     "offensive-bug-identification",
-     "offensive-business-logic",
-     "offensive-c2-frameworks",
-     "offensive-cicd-pipeline",
-     "offensive-cicd-secrets",
-     "offensive-cloud",
-     "offensive-container-escape",
-     "offensive-crash-analysis",
-     "offensive-crypto-attacks",
-     "offensive-data-exfiltration",
-     "offensive-deauth-disassoc",
-     "offensive-dependency-confusion",
-     "offensive-deserialization",
-     "offensive-edr-evasion",
-     "offensive-evil-twin",
-     "offensive-exploit-dev-course",
-     "offensive-exploit-development",
-     "offensive-fast-checking",
-     "offensive-file-upload",
-     "offensive-fuzzing",
-     "offensive-fuzzing-course",
-     "offensive-graphql",
-     "offensive-idor",
-     "offensive-initial-access",
-     "offensive-iot",
-     "offensive-jwt",
-     "offensive-k8s-attacks",
-     "offensive-keylogger-arch",
-     "offensive-krack-fragattacks",
-     "offensive-lateral-movement",
-     "offensive-linux-privesc",
-     "offensive-lorawan-sub-ghz",
-     "offensive-mitigations",
-     "offensive-mobile",
-     "offensive-netexec",
-     "offensive-network-attacks",
-     "offensive-oauth",
-     "offensive-open-redirect",
-     "offensive-osint",
-     "offensive-osint-methodology",
-     "offensive-parameter-pollution"
+     "check",
+     "health",
+     "hunt",
+     "learn",
+     "read",
+     "think",
+     "ui",
+     "write"
     ],
-    "plugins": [],
+    "plugins": [
+     "waza",
+     "waza-check",
+     "waza-health",
+     "waza-hunt",
+     "waza-learn",
+     "waza-read",
+     "waza-think",
+     "waza-ui",
+     "waza-write"
+    ],
     "commands": [],
-    "marketplace": null,
+    "marketplace": "waza",
     "has_hooks": false,
     "has_mcp": false,
-    "has_scripts": false
+    "has_scripts": true
    }
   },
   {
@@ -8293,11 +8481,11 @@
     "scan-apk",
     "semgrep-rule"
    ],
-   "stars": 7543,
-   "weekly_stars": 193.4,
+   "stars": 7576,
+   "weekly_stars": 193.5,
    "growth_method": "estimate",
    "pushed_days_ago": 0,
-   "created_days_ago": 273,
+   "created_days_ago": 274,
    "license": "CC-BY-SA-4.0",
    "official": false,
    "risk": {
@@ -8314,7 +8502,7 @@
     "/plugin install chrome-mcp-troubleshooting@trailofbits",
     "/plugin install constant-time-analysis@trailofbits"
    ],
-   "score": 34.06,
+   "score": 34.07,
    "_info": {
     "skills": [
      "address-sanitizer",
@@ -8417,6 +8605,262 @@
    }
   },
   {
+   "repo": "deanpeters/Product-Manager-Skills",
+   "url": "https://github.com/deanpeters/Product-Manager-Skills",
+   "description": "Product Management skills framework built on battle-tested methods for Claude Code, Cowork, Codex, and AI agents.",
+   "kind": "plugin",
+   "stacks": [
+    "unity"
+   ],
+   "categories": [
+    "testing",
+    "frontend",
+    "memory"
+   ],
+   "skills": [
+    "acquisition-channel-advisor",
+    "agent-orchestration-advisor",
+    "ai-shaped-readiness-advisor",
+    "altitude-horizon-framework",
+    "ansoff-matrix",
+    "autonomous-investigation",
+    "battle-card-builder",
+    "business-health-diagnostic",
+    "company-intel",
+    "company-research"
+   ],
+   "plugins": [
+    "product-manager-skills",
+    "acquisition-channel-advisor",
+    "agent-orchestration-advisor",
+    "ai-shaped-readiness-advisor",
+    "altitude-horizon-framework",
+    "ansoff-matrix",
+    "autonomous-investigation",
+    "battle-card-builder",
+    "business-health-diagnostic",
+    "company-intel"
+   ],
+   "commands": [],
+   "stars": 7416,
+   "weekly_stars": 205.2,
+   "growth_method": "estimate",
+   "pushed_days_ago": 0,
+   "created_days_ago": 253,
+   "license": "NOASSERTION",
+   "official": false,
+   "risk": {
+    "hooks": false,
+    "scripts": true,
+    "no_license": false,
+    "new_repo": false
+   },
+   "install": [
+    "/plugin marketplace add deanpeters/Product-Manager-Skills",
+    "/plugin install product-manager-skills@pm-skills",
+    "/plugin install acquisition-channel-advisor@pm-skills",
+    "/plugin install agent-orchestration-advisor@pm-skills",
+    "/plugin install ai-shaped-readiness-advisor@pm-skills",
+    "/plugin install altitude-horizon-framework@pm-skills"
+   ],
+   "score": 34.06,
+   "_info": {
+    "skills": [
+     "acquisition-channel-advisor",
+     "agent-orchestration-advisor",
+     "ai-shaped-readiness-advisor",
+     "altitude-horizon-framework",
+     "ansoff-matrix",
+     "autonomous-investigation",
+     "battle-card-builder",
+     "business-health-diagnostic",
+     "company-intel",
+     "company-research",
+     "competitive-analysis-process",
+     "competitive-intel-watch",
+     "competitive-research-snapshot",
+     "context-engineering-advisor",
+     "customer-journey-map",
+     "customer-journey-mapping-workshop",
+     "derisk-measurement-advisor",
+     "director-readiness-advisor",
+     "discovery-interview-prep",
+     "discovery-process",
+     "eol-checklist",
+     "eol-internal-enablement",
+     "eol-message",
+     "eol-process",
+     "eol-readiness-advisor",
+     "eol-stakeholder-sequence",
+     "epic-breakdown-advisor",
+     "epic-hypothesis",
+     "executive-onboarding-playbook",
+     "feature-investment-advisor",
+     "finance-based-pricing-advisor",
+     "finance-metrics-quickref",
+     "incoming-request-advisor",
+     "intel-discipline-advisor",
+     "intelligence-collection-disciplines",
+     "jobs-to-be-done",
+     "lean-ux-canvas",
+     "lifecycle-play-advisor",
+     "market-landscape-scan",
+     "opportunity-solution-tree",
+     "organic-growth-advisor",
+     "pestel-analysis",
+     "pestel-delta-monitor",
+     "pm-skill-creator",
+     "pol-probe",
+     "pol-probe-advisor",
+     "porters-five-forces",
+     "positioning-statement",
+     "positioning-workshop",
+     "prd-development"
+    ],
+    "plugins": [
+     "product-manager-skills",
+     "acquisition-channel-advisor",
+     "agent-orchestration-advisor",
+     "ai-shaped-readiness-advisor",
+     "altitude-horizon-framework",
+     "ansoff-matrix",
+     "autonomous-investigation",
+     "battle-card-builder",
+     "business-health-diagnostic",
+     "company-intel",
+     "company-research",
+     "competitive-analysis-process",
+     "competitive-intel-watch",
+     "competitive-research-snapshot",
+     "context-engineering-advisor",
+     "customer-journey-map",
+     "customer-journey-mapping-workshop",
+     "derisk-measurement-advisor",
+     "director-readiness-advisor",
+     "discovery-interview-prep",
+     "discovery-process",
+     "eol-checklist",
+     "eol-internal-enablement",
+     "eol-message",
+     "eol-process",
+     "eol-readiness-advisor",
+     "eol-stakeholder-sequence",
+     "epic-breakdown-advisor",
+     "epic-hypothesis",
+     "executive-onboarding-playbook"
+    ],
+    "commands": [],
+    "marketplace": "pm-skills",
+    "has_hooks": false,
+    "has_mcp": false,
+    "has_scripts": true
+   }
+  },
+  {
+   "repo": "SnailSploit/Claude-Red",
+   "url": "https://github.com/SnailSploit/Claude-Red",
+   "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a spec",
+   "kind": "skill",
+   "stacks": [
+    "docker"
+   ],
+   "categories": [
+    "frontend",
+    "security"
+   ],
+   "skills": [
+    "offensive-active-directory",
+    "offensive-advanced-redteam",
+    "offensive-ai-security",
+    "offensive-anti-forensics",
+    "offensive-api-abuse",
+    "offensive-api-security",
+    "offensive-basic-exploitation",
+    "offensive-bluetooth-ble",
+    "offensive-bluetooth-classic",
+    "offensive-bug-identification"
+   ],
+   "plugins": [],
+   "commands": [],
+   "stars": 7542,
+   "weekly_stars": 234.6,
+   "growth_method": "estimate",
+   "pushed_days_ago": 3,
+   "created_days_ago": 225,
+   "license": "MIT",
+   "official": false,
+   "risk": {
+    "hooks": false,
+    "scripts": false,
+    "no_license": false,
+    "new_repo": false
+   },
+   "install": [
+    "npx skills add SnailSploit/Claude-Red --skill <offensive-active-directory|offensive-advanced-redteam|offensive-ai-security|offensive-anti-forensics|offensive-api-abuse>"
+   ],
+   "score": 34.06,
+   "_info": {
+    "skills": [
+     "offensive-active-directory",
+     "offensive-advanced-redteam",
+     "offensive-ai-security",
+     "offensive-anti-forensics",
+     "offensive-api-abuse",
+     "offensive-api-security",
+     "offensive-basic-exploitation",
+     "offensive-bluetooth-ble",
+     "offensive-bluetooth-classic",
+     "offensive-bug-identification",
+     "offensive-business-logic",
+     "offensive-c2-frameworks",
+     "offensive-cicd-pipeline",
+     "offensive-cicd-secrets",
+     "offensive-cloud",
+     "offensive-container-escape",
+     "offensive-crash-analysis",
+     "offensive-crypto-attacks",
+     "offensive-data-exfiltration",
+     "offensive-deauth-disassoc",
+     "offensive-dependency-confusion",
+     "offensive-deserialization",
+     "offensive-edr-evasion",
+     "offensive-evil-twin",
+     "offensive-exploit-dev-course",
+     "offensive-exploit-development",
+     "offensive-fast-checking",
+     "offensive-file-upload",
+     "offensive-fuzzing",
+     "offensive-fuzzing-course",
+     "offensive-graphql",
+     "offensive-idor",
+     "offensive-initial-access",
+     "offensive-iot",
+     "offensive-jwt",
+     "offensive-k8s-attacks",
+     "offensive-keylogger-arch",
+     "offensive-krack-fragattacks",
+     "offensive-lateral-movement",
+     "offensive-linux-privesc",
+     "offensive-lorawan-sub-ghz",
+     "offensive-mitigations",
+     "offensive-mobile",
+     "offensive-netexec",
+     "offensive-network-attacks",
+     "offensive-oauth",
+     "offensive-open-redirect",
+     "offensive-osint",
+     "offensive-osint-methodology",
+     "offensive-parameter-pollution"
+    ],
+    "plugins": [],
+    "commands": [],
+    "marketplace": null,
+    "has_hooks": false,
+    "has_mcp": false,
+    "has_scripts": false
+   }
+  },
+  {
    "repo": "loopx-project/loopx",
    "url": "https://github.com/loopx-project/loopx",
    "description": "A control plane with a durable state kernel for long-horizon agents and teams. Keep work moving and improving across sessions, with less human attention.",
@@ -8443,11 +8887,11 @@
    "commands": [
     "loopx"
    ],
-   "stars": 6305,
-   "weekly_stars": 324.5,
+   "stars": 6324,
+   "weekly_stars": 323.1,
    "growth_method": "estimate",
    "pushed_days_ago": 0,
-   "created_days_ago": 136,
+   "created_days_ago": 137,
    "license": "Apache-2.0",
    "official": false,
    "risk": {
@@ -8459,7 +8903,7 @@
    "install": [
     "npx skills add loopx-project/loopx --skill <loopx-benchmark|loopx-change-quality|loopx-doc-registry|loopx-manager|loopx-material>"
    ],
-   "score": 34.03,
+   "score": 34.04,
    "_info": {
     "skills": [
      "loopx-benchmark",
@@ -8473,6 +8917,7 @@
      "loopx-pr-review",
      "loopx-project",
      "loopx-self-repair",
+     "public",
      "swe-marathon-five-arm",
      "tb4-five-arm",
      "worker_skill"
@@ -8501,11 +8946,11 @@
     "answer-me-with-html"
    ],
    "commands": [],
-   "stars": 3387,
-   "weekly_stars": 1975.8,
+   "stars": 3472,
+   "weekly_stars": 1869.5,
    "growth_method": "estimate",
    "pushed_days_ago": 0,
-   "created_days_ago": 12,
+   "created_days_ago": 13,
    "license": "MIT",
    "official": false,
    "risk": {
@@ -8518,7 +8963,7 @@
     "/plugin marketplace add QingYunA/answer-me-with-html",
     "/plugin install answer-me-with-html@answer-me-with-html"
    ],
-   "score": 33.97,
+   "score": 33.99,
    "_info": {
     "skills": [
      "answer-me-with-html"
@@ -8531,79 +8976,6 @@
     "has_hooks": false,
     "has_mcp": false,
     "has_scripts": false
-   }
-  },
-  {
-   "repo": "maximhq/bifrost",
-   "url": "https://github.com/maximhq/bifrost",
-   "description": "Open-source, high-performance AI gateway that works as your LLM gateway, MCP gateway and agent gateway. One OpenAI-compatible API for 10,000+ models, with failover, load balancing, semantic caching, v",
-   "kind": "skill",
-   "stacks": [
-    "docker"
-   ],
-   "categories": [
-    "review",
-    "testing",
-    "docs",
-    "security",
-    "mcp",
-    "memory"
-   ],
-   "skills": [
-    "add-pricing-field",
-    "api-validator",
-    "changelog-writer",
-    "docs-writer",
-    "e2e-test",
-    "harness-test-writer",
-    "helm-update",
-    "investigate-issue",
-    "release-checklist",
-    "resolve-pr-comments"
-   ],
-   "plugins": [],
-   "commands": [],
-   "stars": 8813,
-   "weekly_stars": 107.5,
-   "growth_method": "estimate",
-   "pushed_days_ago": 0,
-   "created_days_ago": 574,
-   "license": "Apache-2.0",
-   "official": false,
-   "risk": {
-    "hooks": true,
-    "scripts": true,
-    "no_license": false,
-    "new_repo": false
-   },
-   "install": [
-    "npx skills add maximhq/bifrost --skill <add-pricing-field|api-validator|changelog-writer|docs-writer|e2e-test>"
-   ],
-   "score": 33.94,
-   "_info": {
-    "skills": [
-     "add-pricing-field",
-     "api-validator",
-     "changelog-writer",
-     "docs-writer",
-     "e2e-test",
-     "harness-test-writer",
-     "helm-update",
-     "investigate-issue",
-     "release-checklist",
-     "resolve-pr-comments",
-     "resolve-pr-comments-stack",
-     "review-pr",
-     "security-audit",
-     "split-commit-into-stack",
-     "stack-absorb"
-    ],
-    "plugins": [],
-    "commands": [],
-    "marketplace": null,
-    "has_hooks": true,
-    "has_mcp": true,
-    "has_scripts": true
    }
   },
   {
@@ -8624,11 +8996,11 @@
    ],
    "plugins": [],
    "commands": [],
-   "stars": 4883,
-   "weekly_stars": 534.1,
+   "stars": 4951,
+   "weekly_stars": 533.2,
    "growth_method": "estimate",
    "pushed_days_ago": 0,
-   "created_days_ago": 64,
+   "created_days_ago": 65,
    "license": "Apache-2.0",
    "official": false,
    "risk": {
@@ -8640,7 +9012,7 @@
    "install": [
     "npx skills add milind-soni/OpenMausBot --skill <create-verification-skill|phone-harness|verify-omb|windows-release>"
    ],
-   "score": 33.76,
+   "score": 33.8,
    "_info": {
     "skills": [
      "create-verification-skill",
@@ -8657,6 +9029,122 @@
    }
   },
   {
+   "repo": "TheCraigHewitt/seomachine",
+   "url": "https://github.com/TheCraigHewitt/seomachine",
+   "description": "A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves",
+   "kind": "skill",
+   "stacks": [],
+   "categories": [
+    "review",
+    "testing",
+    "security",
+    "db",
+    "memory"
+   ],
+   "skills": [
+    "ab-test-setup",
+    "analytics-tracking",
+    "competitor-alternatives",
+    "content-strategy",
+    "copy-editing",
+    "copywriting",
+    "email-sequence",
+    "form-cro",
+    "free-tool-strategy",
+    "launch-strategy"
+   ],
+   "plugins": [],
+   "commands": [
+    "analyze-existing",
+    "article",
+    "cluster",
+    "content-calendar",
+    "landing-audit",
+    "landing-competitor",
+    "landing-publish",
+    "landing-research",
+    "landing-write",
+    "optimize"
+   ],
+   "stars": 7502,
+   "weekly_stars": 149.6,
+   "growth_method": "estimate",
+   "pushed_days_ago": 0,
+   "created_days_ago": 351,
+   "license": "MIT",
+   "official": false,
+   "risk": {
+    "hooks": false,
+    "scripts": false,
+    "no_license": false,
+    "new_repo": false
+   },
+   "install": [
+    "npx skills add TheCraigHewitt/seomachine --skill <ab-test-setup|analytics-tracking|competitor-alternatives|content-strategy|copy-editing>"
+   ],
+   "score": 33.78,
+   "_info": {
+    "skills": [
+     "ab-test-setup",
+     "analytics-tracking",
+     "competitor-alternatives",
+     "content-strategy",
+     "copy-editing",
+     "copywriting",
+     "email-sequence",
+     "form-cro",
+     "free-tool-strategy",
+     "launch-strategy",
+     "marketing-ideas",
+     "marketing-psychology",
+     "onboarding-cro",
+     "page-cro",
+     "paid-ads",
+     "paywall-upgrade-cro",
+     "popup-cro",
+     "pricing-strategy",
+     "product-marketing-context",
+     "programmatic-seo",
+     "referral-program",
+     "schema-markup",
+     "seo-audit",
+     "signup-flow-cro",
+     "social-content"
+    ],
+    "plugins": [],
+    "commands": [
+     "analyze-existing",
+     "article",
+     "cluster",
+     "content-calendar",
+     "landing-audit",
+     "landing-competitor",
+     "landing-publish",
+     "landing-research",
+     "landing-write",
+     "optimize",
+     "performance-review",
+     "priorities",
+     "publish-draft",
+     "repurpose",
+     "research",
+     "research-ai-citations",
+     "research-gaps",
+     "research-performance",
+     "research-serp",
+     "research-topics",
+     "research-trending",
+     "rewrite",
+     "scrub",
+     "write"
+    ],
+    "marketplace": null,
+    "has_hooks": false,
+    "has_mcp": false,
+    "has_scripts": false
+   }
+  },
+  {
    "repo": "superdesigndev/treg",
    "url": "https://github.com/superdesigndev/treg",
    "description": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
@@ -8666,12 +9154,14 @@
     "unity"
    ],
    "categories": [
+    "review",
     "security",
     "mcp",
     "memory"
    ],
    "skills": [
     "add-oauth-provider",
+    "code-quality",
     "dev-local",
     "google-ads",
     "google-analytics",
@@ -8679,18 +9169,17 @@
     "interface",
     "jev-memory",
     "lead-signals",
-    "make-ugc",
-    "portrait-clone"
+    "make-ugc"
    ],
    "plugins": [
     "treg"
    ],
    "commands": [],
-   "stars": 5299,
-   "weekly_stars": 407.6,
+   "stars": 5327,
+   "weekly_stars": 405.3,
    "growth_method": "estimate",
    "pushed_days_ago": 0,
-   "created_days_ago": 91,
+   "created_days_ago": 92,
    "license": "NOASSERTION",
    "official": false,
    "risk": {
@@ -8703,10 +9192,11 @@
     "/plugin marketplace add superdesigndev/treg",
     "/plugin install treg@treg"
    ],
-   "score": 33.74,
+   "score": 33.75,
    "_info": {
     "skills": [
      "add-oauth-provider",
+     "code-quality",
      "dev-local",
      "google-ads",
      "google-analytics",
@@ -8754,11 +9244,11 @@
    "commands": [
     "paperspine"
    ],
-   "stars": 5945,
-   "weekly_stars": 277.4,
+   "stars": 5958,
+   "weekly_stars": 276.2,
    "growth_method": "estimate",
-   "pushed_days_ago": 0,
-   "created_days_ago": 150,
+   "pushed_days_ago": 1,
+   "created_days_ago": 151,
    "license": "MIT",
    "official": false,
    "risk": {
@@ -8771,7 +9261,7 @@
     "/plugin marketplace add WUBING2023/PaperSpine",
     "/plugin install paper-spine@paperspine-marketplace"
    ],
-   "score": 33.7,
+   "score": 33.64,
    "_info": {
     "skills": [
      "02_paperfig_skill",
@@ -8815,11 +9305,11 @@
    ],
    "plugins": [],
    "commands": [],
-   "stars": 4603,
-   "weekly_stars": 519.7,
+   "stars": 4642,
+   "weekly_stars": 515.8,
    "growth_method": "estimate",
    "pushed_days_ago": 0,
-   "created_days_ago": 62,
+   "created_days_ago": 63,
    "license": "MIT",
    "official": false,
    "risk": {
@@ -8831,7 +9321,7 @@
    "install": [
     "npx skills add ccch1mneyyy/dsh-TUI --skill <audit|bug|dsh-tui-guide|pr|pr-comments>"
    ],
-   "score": 33.56,
+   "score": 33.58,
    "_info": {
     "skills": [
      "audit",
@@ -8853,49 +9343,78 @@
    }
   },
   {
-   "repo": "eternityspring/shuohao-skills",
-   "url": "https://github.com/eternityspring/shuohao-skills",
-   "description": "AI 短剧制作的 skill 集合：拆角色、排大纲、出场景与道具设定、写剧本、切分镜 | Agent skills for AI short-drama production — character bibles, adaptation outlines, art bibles, screenplays, storyboards. Runs in Claude Code & codex.",
+   "repo": "xingkongliang/skills-manager",
+   "url": "https://github.com/xingkongliang/skills-manager",
+   "description": "A lightweight desktop app to manage, sync, and organize AI agent skills across 50+ coding tools — Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
    "kind": "skill",
    "stacks": [],
    "categories": [],
    "skills": [
-    "character-refs",
-    "novel-art",
-    "novel-characters",
-    "novel-outline",
-    "novel-script",
-    "novel-staging",
-    "novel-storyboard"
+    "manage-skills"
    ],
    "plugins": [],
    "commands": [],
-   "stars": 4571,
-   "weekly_stars": 463.7,
+   "stars": 6380,
+   "weekly_stars": 195.9,
    "growth_method": "estimate",
    "pushed_days_ago": 0,
-   "created_days_ago": 69,
+   "created_days_ago": 228,
+   "license": "MIT",
+   "official": false,
+   "risk": {
+    "hooks": true,
+    "scripts": true,
+    "no_license": false,
+    "new_repo": false
+   },
+   "install": [
+    "npx skills add xingkongliang/skills-manager"
+   ],
+   "score": 33.57,
+   "_info": {
+    "skills": [
+     "manage-skills"
+    ],
+    "plugins": [],
+    "commands": [],
+    "marketplace": null,
+    "has_hooks": true,
+    "has_mcp": false,
+    "has_scripts": true
+   }
+  },
+  {
+   "repo": "Arekejoker/qwen21-nsfw-pose-skill",
+   "url": "https://github.com/Arekejoker/qwen21-nsfw-pose-skill",
+   "description": "Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw",
+   "kind": "skill",
+   "stacks": [],
+   "categories": [],
+   "skills": [
+    "qwen21-nsfw-pose-skill"
+   ],
+   "plugins": [],
+   "commands": [],
+   "stars": 2121,
+   "weekly_stars": 4949.0,
+   "growth_method": "estimate",
+   "pushed_days_ago": 0,
+   "created_days_ago": 3,
    "license": "Apache-2.0",
    "official": false,
    "risk": {
     "hooks": false,
     "scripts": true,
     "no_license": false,
-    "new_repo": false
+    "new_repo": true
    },
    "install": [
-    "npx skills add eternityspring/shuohao-skills --skill <character-refs|novel-art|novel-characters|novel-outline|novel-script>"
+    "npx skills add Arekejoker/qwen21-nsfw-pose-skill"
    ],
-   "score": 33.42,
+   "score": 33.49,
    "_info": {
     "skills": [
-     "character-refs",
-     "novel-art",
-     "novel-characters",
-     "novel-outline",
-     "novel-script",
-     "novel-staging",
-     "novel-storyboard"
+     "qwen21-nsfw-pose-skill"
     ],
     "plugins": [],
     "commands": [],
@@ -8944,8 +9463,8 @@
     "review-design-parity",
     "voiceover"
    ],
-   "stars": 6967,
-   "weekly_stars": 117.2,
+   "stars": 6994,
+   "weekly_stars": 117.7,
    "growth_method": "estimate",
    "pushed_days_ago": 0,
    "created_days_ago": 416,
@@ -8960,7 +9479,7 @@
    "install": [
     "npx skills add Devin-AXIS/iPolloWork --skill <acme-research|agent-first-screenshots|canopy-part-title|code-slice-hero|context7-docs-research>"
    ],
-   "score": 33.32,
+   "score": 33.34,
    "_info": {
     "skills": [
      "acme-research",
@@ -9033,122 +9552,6 @@
    }
   },
   {
-   "repo": "TheCraigHewitt/seomachine",
-   "url": "https://github.com/TheCraigHewitt/seomachine",
-   "description": "A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves",
-   "kind": "skill",
-   "stacks": [],
-   "categories": [
-    "review",
-    "testing",
-    "security",
-    "db",
-    "memory"
-   ],
-   "skills": [
-    "ab-test-setup",
-    "analytics-tracking",
-    "competitor-alternatives",
-    "content-strategy",
-    "copy-editing",
-    "copywriting",
-    "email-sequence",
-    "form-cro",
-    "free-tool-strategy",
-    "launch-strategy"
-   ],
-   "plugins": [],
-   "commands": [
-    "analyze-existing",
-    "article",
-    "cluster",
-    "content-calendar",
-    "landing-audit",
-    "landing-competitor",
-    "landing-publish",
-    "landing-research",
-    "landing-write",
-    "optimize"
-   ],
-   "stars": 7498,
-   "weekly_stars": 150.0,
-   "growth_method": "estimate",
-   "pushed_days_ago": 8,
-   "created_days_ago": 350,
-   "license": "MIT",
-   "official": false,
-   "risk": {
-    "hooks": false,
-    "scripts": false,
-    "no_license": false,
-    "new_repo": false
-   },
-   "install": [
-    "npx skills add TheCraigHewitt/seomachine --skill <ab-test-setup|analytics-tracking|competitor-alternatives|content-strategy|copy-editing>"
-   ],
-   "score": 33.32,
-   "_info": {
-    "skills": [
-     "ab-test-setup",
-     "analytics-tracking",
-     "competitor-alternatives",
-     "content-strategy",
-     "copy-editing",
-     "copywriting",
-     "email-sequence",
-     "form-cro",
-     "free-tool-strategy",
-     "launch-strategy",
-     "marketing-ideas",
-     "marketing-psychology",
-     "onboarding-cro",
-     "page-cro",
-     "paid-ads",
-     "paywall-upgrade-cro",
-     "popup-cro",
-     "pricing-strategy",
-     "product-marketing-context",
-     "programmatic-seo",
-     "referral-program",
-     "schema-markup",
-     "seo-audit",
-     "signup-flow-cro",
-     "social-content"
-    ],
-    "plugins": [],
-    "commands": [
-     "analyze-existing",
-     "article",
-     "cluster",
-     "content-calendar",
-     "landing-audit",
-     "landing-competitor",
-     "landing-publish",
-     "landing-research",
-     "landing-write",
-     "optimize",
-     "performance-review",
-     "priorities",
-     "publish-draft",
-     "repurpose",
-     "research",
-     "research-ai-citations",
-     "research-gaps",
-     "research-performance",
-     "research-serp",
-     "research-topics",
-     "research-trending",
-     "rewrite",
-     "scrub",
-     "write"
-    ],
-    "marketplace": null,
-    "has_hooks": false,
-    "has_mcp": false,
-    "has_scripts": false
-   }
-  },
-  {
    "repo": "aipoch/open-science",
    "url": "https://github.com/aipoch/open-science",
    "description": "The open-source AI research workbench for scientific research and agent workflows. Local-first, model-agnostic desktop app with extensible skills, MCP tools and connectors, Python/R execution and trac",
@@ -9175,11 +9578,11 @@
    ],
    "plugins": [],
    "commands": [],
-   "stars": 4870,
-   "weekly_stars": 327.8,
+   "stars": 4912,
+   "weekly_stars": 327.5,
    "growth_method": "estimate",
    "pushed_days_ago": 0,
-   "created_days_ago": 104,
+   "created_days_ago": 105,
    "license": "Apache-2.0",
    "official": false,
    "risk": {
@@ -9191,7 +9594,7 @@
    "install": [
     "npx skills add aipoch/open-science --skill <alphafold2|boltz|borzoi|chai1|compute-env-setup>"
    ],
-   "score": 33.27,
+   "score": 33.29,
    "_info": {
     "skills": [
      "alphafold2",
@@ -9229,6 +9632,86 @@
    }
   },
   {
+   "repo": "tailcallhq/forgecode",
+   "url": "https://github.com/tailcallhq/forgecode",
+   "description": "AI enabled pair programmer for Claude, GPT, O Series, Grok, Deepseek, Gemini and 300+ models",
+   "kind": "skill",
+   "stacks": [],
+   "categories": [
+    "workflow",
+    "testing"
+   ],
+   "skills": [
+    "create-agent",
+    "create-command",
+    "create-github-issue",
+    "create-plan",
+    "create-skill",
+    "debug-cli",
+    "execute-plan",
+    "github-pr-comments",
+    "github-pr-description",
+    "minimal-skill"
+   ],
+   "plugins": [],
+   "commands": [
+    "basic",
+    "check",
+    "fixme",
+    "invalid",
+    "multiline"
+   ],
+   "stars": 7637,
+   "weekly_stars": 79.1,
+   "growth_method": "estimate",
+   "pushed_days_ago": 0,
+   "created_days_ago": 676,
+   "license": "Apache-2.0",
+   "official": false,
+   "risk": {
+    "hooks": true,
+    "scripts": true,
+    "no_license": false,
+    "new_repo": false
+   },
+   "install": [
+    "npx skills add tailcallhq/forgecode --skill <create-agent|create-command|create-github-issue|create-plan|create-skill>"
+   ],
+   "score": 33.21,
+   "_info": {
+    "skills": [
+     "create-agent",
+     "create-command",
+     "create-github-issue",
+     "create-plan",
+     "create-skill",
+     "debug-cli",
+     "execute-plan",
+     "github-pr-comments",
+     "github-pr-description",
+     "minimal-skill",
+     "post-forge-feature",
+     "resolve-conflicts",
+     "resolve-fixme",
+     "test-reasoning",
+     "test-skill",
+     "write-release-notes"
+    ],
+    "plugins": [],
+    "commands": [
+     "basic",
+     "check",
+     "fixme",
+     "invalid",
+     "multiline"
+    ],
+    "marketplace": null,
+    "has_hooks": true,
+    "has_mcp": false,
+    "has_scripts": true
+   }
+  },
+  {
    "repo": "KnockOutEZ/wigolo",
    "url": "https://github.com/KnockOutEZ/wigolo",
    "description": "The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta.",
@@ -9252,11 +9735,11 @@
    ],
    "plugins": [],
    "commands": [],
-   "stars": 5476,
-   "weekly_stars": 207.2,
+   "stars": 5479,
+   "weekly_stars": 206.2,
    "growth_method": "estimate",
    "pushed_days_ago": 0,
-   "created_days_ago": 185,
+   "created_days_ago": 186,
    "license": "NOASSERTION",
    "official": false,
    "risk": {
@@ -9322,11 +9805,11 @@
     "claude-bughunter"
    ],
    "commands": [],
-   "stars": 5101,
-   "weekly_stars": 220.4,
+   "stars": 5119,
+   "weekly_stars": 219.8,
    "growth_method": "estimate",
    "pushed_days_ago": 0,
-   "created_days_ago": 162,
+   "created_days_ago": 163,
    "license": "MIT",
    "official": false,
    "risk": {
@@ -9339,7 +9822,7 @@
     "/plugin marketplace add elementalsouls/Claude-BugHunter",
     "/plugin install claude-bughunter@elementalsouls"
    ],
-   "score": 33.01,
+   "score": 33.02,
    "_info": {
     "skills": [
      "apk-redteam-pipeline",
@@ -9442,11 +9925,11 @@
     "dotnet-template-engine"
    ],
    "commands": [],
-   "stars": 5640,
-   "weekly_stars": 156.0,
+   "stars": 5650,
+   "weekly_stars": 155.7,
    "growth_method": "estimate",
    "pushed_days_ago": 0,
-   "created_days_ago": 253,
+   "created_days_ago": 254,
    "license": "MIT",
    "official": false,
    "risk": {
@@ -9586,11 +10069,11 @@
     "rollback",
     "spec-impl"
    ],
-   "stars": 5941,
-   "weekly_stars": 147.0,
+   "stars": 5945,
+   "weekly_stars": 146.5,
    "growth_method": "estimate",
-   "pushed_days_ago": 2,
-   "created_days_ago": 283,
+   "pushed_days_ago": 3,
+   "created_days_ago": 284,
    "license": "MIT",
    "official": false,
    "risk": {
@@ -9603,7 +10086,7 @@
     "/plugin marketplace add fengshao1227/ccg-workflow",
     "/plugin install ccg@ccg"
    ],
-   "score": 32.94,
+   "score": 32.88,
    "_info": {
     "skills": [
      "adapt",
@@ -9688,54 +10171,153 @@
    }
   },
   {
-   "repo": "feder-cr/invisible_playwright_mcp",
-   "url": "https://github.com/feder-cr/invisible_playwright_mcp",
-   "description": "Playwright MCP server undetected by anti-bots and captchas: AI agent browses the web on anti-detect stealth Firefox, Python, undetected browser automation, scraping, computer use.",
-   "kind": "plugin",
+   "repo": "iflytek/skillhub",
+   "url": "https://github.com/iflytek/skillhub",
+   "description": "Self-hosted, open-source agent skill registry for enterprises. Publish & version skill packages, govern with RBAC and audit logs, deploy   on-premise with Docker or Kubernetes.",
+   "kind": "skill",
    "stacks": [
-    "python",
-    "playwright"
+    "docker"
    ],
    "categories": [
-    "testing",
-    "mcp",
-    "memory"
+    "review",
+    "frontend",
+    "docs",
+    "security",
+    "devops"
    ],
    "skills": [
-    "setup"
+    "adversarial-review",
+    "ai-claim-checker",
+    "cue-omni-reader",
+    "daily-standup-journal",
+    "decision-matrix",
+    "diagram-maker",
+    "documentation-writer",
+    "exam-ready",
+    "frontend-design",
+    "ledger-tasks-yylo"
    ],
-   "plugins": [
-    "invisible-playwright-mcp"
-   ],
+   "plugins": [],
    "commands": [],
-   "stars": 2750,
-   "weekly_stars": 1283.3,
+   "stars": 5225,
+   "weekly_stars": 167.8,
    "growth_method": "estimate",
-   "pushed_days_ago": 1,
-   "created_days_ago": 15,
-   "license": "MIT",
+   "pushed_days_ago": 0,
+   "created_days_ago": 218,
+   "license": "Apache-2.0",
    "official": false,
    "risk": {
-    "hooks": false,
+    "hooks": true,
     "scripts": true,
     "no_license": false,
-    "new_repo": true
+    "new_repo": false
    },
    "install": [
-    "/plugin marketplace add feder-cr/invisible_playwright_mcp",
-    "/plugin install invisible-playwright-mcp@feder-cr"
+    "npx skills add iflytek/skillhub --skill <adversarial-review|ai-claim-checker|cue-omni-reader|daily-standup-journal|decision-matrix>"
    ],
-   "score": 32.85,
+   "score": 32.81,
    "_info": {
     "skills": [
-     "setup"
+     "adversarial-review",
+     "ai-claim-checker",
+     "cue-omni-reader",
+     "daily-standup-journal",
+     "decision-matrix",
+     "diagram-maker",
+     "documentation-writer",
+     "exam-ready",
+     "frontend-design",
+     "ledger-tasks-yylo",
+     "linkedin-post-formatter",
+     "meeting-note-summarizer",
+     "orca-replay",
+     "plugin-scanner",
+     "retrieval-practice-generator",
+     "sandbase",
+     "skillhub-cli",
+     "storytelling-advisor",
+     "study-strategy-selector",
+     "time-blocking-scheduler",
+     "triage-nda",
+     "video-frames",
+     "weather",
+     "zero-slop"
     ],
-    "plugins": [
-     "invisible-playwright-mcp"
-    ],
+    "plugins": [],
     "commands": [],
-    "marketplace": "feder-cr",
-    "has_hooks": false,
+    "marketplace": null,
+    "has_hooks": true,
+    "has_mcp": true,
+    "has_scripts": true
+   }
+  },
+  {
+   "repo": "inkeep/open-knowledge",
+   "url": "https://github.com/inkeep/open-knowledge",
+   "description": "Beautiful, AI-native markdown IDE and LLM wiki",
+   "kind": "skill",
+   "stacks": [],
+   "categories": [
+    "review",
+    "frontend",
+    "docs"
+   ],
+   "skills": [
+    "codebase-wiki",
+    "consolidate",
+    "discovery",
+    "entity-vault",
+    "frame-a-proposal",
+    "knowledge-base",
+    "okf",
+    "plain-notes",
+    "project",
+    "record-a-decision"
+   ],
+   "plugins": [],
+   "commands": [],
+   "stars": 4587,
+   "weekly_stars": 239.6,
+   "growth_method": "estimate",
+   "pushed_days_ago": 0,
+   "created_days_ago": 134,
+   "license": "GPL-3.0",
+   "official": false,
+   "risk": {
+    "hooks": true,
+    "scripts": true,
+    "no_license": false,
+    "new_repo": false
+   },
+   "install": [
+    "npx skills add inkeep/open-knowledge --skill <codebase-wiki|consolidate|discovery|entity-vault|frame-a-proposal>"
+   ],
+   "score": 32.78,
+   "_info": {
+    "skills": [
+     "codebase-wiki",
+     "consolidate",
+     "discovery",
+     "entity-vault",
+     "frame-a-proposal",
+     "knowledge-base",
+     "okf",
+     "plain-notes",
+     "project",
+     "record-a-decision",
+     "research",
+     "review-a-design",
+     "software-lifecycle",
+     "worldbuilding",
+     "write-a-postmortem",
+     "write-a-spec",
+     "write-skill",
+     "writing-pipeline"
+    ],
+    "plugins": [],
+    "commands": [],
+    "marketplace": null,
+    "has_hooks": true,
     "has_mcp": true,
     "has_scripts": true
    }
@@ -9776,11 +10358,11 @@
     "om-prep-1on1",
     "om-project-archive"
    ],
-   "stars": 5325,
-   "weekly_stars": 163.5,
+   "stars": 5335,
+   "weekly_stars": 163.1,
    "growth_method": "estimate",
-   "pushed_days_ago": 0,
-   "created_days_ago": 228,
+   "pushed_days_ago": 1,
+   "created_days_ago": 229,
    "license": "MIT",
    "official": false,
    "risk": {
@@ -9793,7 +10375,7 @@
     "/plugin marketplace add breferrari/obsidian-mind",
     "/plugin install obsidian@obsidian-skills"
    ],
-   "score": 32.84,
+   "score": 32.78,
    "_info": {
     "skills": [
      "defuddle",
@@ -9837,162 +10419,116 @@
    }
   },
   {
-   "repo": "iflytek/skillhub",
-   "url": "https://github.com/iflytek/skillhub",
-   "description": "Self-hosted, open-source agent skill registry for enterprises. Publish & version skill packages, govern with RBAC and audit logs, deploy   on-premise with Docker or Kubernetes.",
-   "kind": "skill",
+   "repo": "feder-cr/invisible_playwright_mcp",
+   "url": "https://github.com/feder-cr/invisible_playwright_mcp",
+   "description": "Playwright MCP server undetected by anti-bots and captchas: AI agent browses the web on anti-detect stealth Firefox, Python, undetected browser automation, scraping, computer use.",
+   "kind": "plugin",
    "stacks": [
-    "docker"
+    "python",
+    "playwright"
    ],
    "categories": [
-    "workflow",
     "testing",
-    "frontend",
-    "docs",
-    "security",
-    "devops"
+    "mcp",
+    "memory"
    ],
    "skills": [
-    "ai-claim-checker",
-    "api-and-namespace-design",
-    "backend-module-structure",
-    "code-conventions",
-    "cue-omni-reader",
-    "daily-standup-journal",
-    "decision-matrix",
-    "dev-workflow",
-    "diagram-maker",
-    "documentation-writer"
+    "setup"
    ],
-   "plugins": [],
+   "plugins": [
+    "invisible-playwright-mcp"
+   ],
    "commands": [],
-   "stars": 5212,
-   "weekly_stars": 168.1,
+   "stars": 2758,
+   "weekly_stars": 1206.6,
    "growth_method": "estimate",
-   "pushed_days_ago": 0,
-   "created_days_ago": 217,
-   "license": "Apache-2.0",
+   "pushed_days_ago": 2,
+   "created_days_ago": 16,
+   "license": "MIT",
    "official": false,
    "risk": {
-    "hooks": true,
+    "hooks": false,
     "scripts": true,
     "no_license": false,
-    "new_repo": false
+    "new_repo": true
    },
    "install": [
-    "npx skills add iflytek/skillhub --skill <ai-claim-checker|api-and-namespace-design|backend-module-structure|code-conventions|cue-omni-reader>"
+    "/plugin marketplace add feder-cr/invisible_playwright_mcp",
+    "/plugin install invisible-playwright-mcp@feder-cr"
    ],
-   "score": 32.81,
+   "score": 32.74,
    "_info": {
     "skills": [
-     "ai-claim-checker",
-     "api-and-namespace-design",
-     "backend-module-structure",
-     "code-conventions",
-     "cue-omni-reader",
-     "daily-standup-journal",
-     "decision-matrix",
-     "dev-workflow",
-     "diagram-maker",
-     "documentation-writer",
-     "exam-ready",
-     "frontend-conventions",
-     "frontend-design",
-     "ledger-tasks-yylo",
-     "linkedin-post-formatter",
-     "meeting-note-summarizer",
-     "orca-replay",
-     "plugin-scanner",
-     "pr-submission",
-     "retrieval-practice-generator",
-     "sandbase",
-     "skill-lifecycle",
-     "skillhub-cli",
-     "storytelling-advisor",
-     "study-strategy-selector",
-     "testing-and-ci",
-     "time-blocking-scheduler",
-     "triage-nda",
-     "video-frames",
-     "weather",
-     "zero-slop"
+     "setup"
     ],
-    "plugins": [],
+    "plugins": [
+     "invisible-playwright-mcp"
+    ],
     "commands": [],
-    "marketplace": null,
-    "has_hooks": true,
+    "marketplace": "feder-cr",
+    "has_hooks": false,
     "has_mcp": true,
     "has_scripts": true
    }
   },
   {
-   "repo": "inkeep/open-knowledge",
-   "url": "https://github.com/inkeep/open-knowledge",
-   "description": "Beautiful, AI-native markdown IDE and LLM wiki",
-   "kind": "skill",
+   "repo": "conorbronsdon/avoid-ai-writing",
+   "url": "https://github.com/conorbronsdon/avoid-ai-writing",
+   "description": "Skill that audits and rewrites content to remove AI writing patterns. Use it with your favorite agents including Claude Code, OpenClaw, Codex, and Hermes.",
+   "kind": "plugin",
    "stacks": [],
    "categories": [
     "review",
-    "frontend",
-    "docs"
+    "security"
    ],
    "skills": [
-    "codebase-wiki",
-    "consolidate",
-    "discovery",
-    "entity-vault",
-    "frame-a-proposal",
-    "knowledge-base",
-    "okf",
-    "plain-notes",
-    "project",
-    "record-a-decision"
+    "ai-writing-detector",
+    "avoid-ai-writing",
+    "avoid-ai-writing-router",
+    "false-positive-reviewer",
+    "file-edit-in-place",
+    "preservation-verifier",
+    "voice-preserving-rewriter"
    ],
-   "plugins": [],
+   "plugins": [
+    "avoid-ai-writing"
+   ],
    "commands": [],
-   "stars": 4577,
-   "weekly_stars": 240.9,
+   "stars": 5037,
+   "weekly_stars": 158.1,
    "growth_method": "estimate",
    "pushed_days_ago": 0,
-   "created_days_ago": 133,
-   "license": "GPL-3.0",
+   "created_days_ago": 223,
+   "license": "MIT",
    "official": false,
    "risk": {
-    "hooks": true,
+    "hooks": false,
     "scripts": true,
     "no_license": false,
     "new_repo": false
    },
    "install": [
-    "npx skills add inkeep/open-knowledge --skill <codebase-wiki|consolidate|discovery|entity-vault|frame-a-proposal>"
+    "/plugin marketplace add conorbronsdon/avoid-ai-writing",
+    "/plugin install avoid-ai-writing@conorbronsdon-skills"
    ],
-   "score": 32.78,
+   "score": 32.64,
    "_info": {
     "skills": [
-     "codebase-wiki",
-     "consolidate",
-     "discovery",
-     "entity-vault",
-     "frame-a-proposal",
-     "knowledge-base",
-     "okf",
-     "plain-notes",
-     "project",
-     "record-a-decision",
-     "research",
-     "review-a-design",
-     "software-lifecycle",
-     "worldbuilding",
-     "write-a-postmortem",
-     "write-a-spec",
-     "write-skill",
-     "writing-pipeline"
+     "ai-writing-detector",
+     "avoid-ai-writing",
+     "avoid-ai-writing-router",
+     "false-positive-reviewer",
+     "file-edit-in-place",
+     "preservation-verifier",
+     "voice-preserving-rewriter"
     ],
-    "plugins": [],
+    "plugins": [
+     "avoid-ai-writing"
+    ],
     "commands": [],
-    "marketplace": null,
-    "has_hooks": true,
-    "has_mcp": true,
+    "marketplace": "conorbronsdon-skills",
+    "has_hooks": false,
+    "has_mcp": false,
     "has_scripts": true
    }
   },
@@ -10024,11 +10560,11 @@
    ],
    "plugins": [],
    "commands": [],
-   "stars": 5214,
-   "weekly_stars": 139.8,
+   "stars": 5222,
+   "weekly_stars": 139.5,
    "growth_method": "estimate",
    "pushed_days_ago": 0,
-   "created_days_ago": 261,
+   "created_days_ago": 262,
    "license": "Apache-2.0",
    "official": false,
    "risk": {
@@ -10083,11 +10619,11 @@
     "linkedin-skills"
    ],
    "commands": [],
-   "stars": 4713,
-   "weekly_stars": 180.3,
+   "stars": 4773,
+   "weekly_stars": 181.6,
    "growth_method": "estimate",
    "pushed_days_ago": 0,
-   "created_days_ago": 183,
+   "created_days_ago": 184,
    "license": "MIT",
    "official": false,
    "risk": {
@@ -10100,7 +10636,7 @@
     "/plugin marketplace add sergebulaev/linkedin-skills",
     "/plugin install linkedin-skills@linkedin-skills"
    ],
-   "score": 32.57,
+   "score": 32.62,
    "_info": {
     "skills": [
      "linkedin-comment-drafter",
@@ -10128,201 +10664,151 @@
    }
   },
   {
-   "repo": "conorbronsdon/avoid-ai-writing",
-   "url": "https://github.com/conorbronsdon/avoid-ai-writing",
-   "description": "Skill that audits and rewrites content to remove AI writing patterns. Use it with your favorite agents including Claude Code, OpenClaw, Codex, and Hermes.",
-   "kind": "plugin",
-   "stacks": [],
-   "categories": [
-    "review",
-    "security"
-   ],
-   "skills": [
-    "ai-writing-detector",
-    "avoid-ai-writing",
-    "avoid-ai-writing-router",
-    "false-positive-reviewer",
-    "file-edit-in-place",
-    "preservation-verifier",
-    "voice-preserving-rewriter"
-   ],
-   "plugins": [
-    "avoid-ai-writing"
-   ],
-   "commands": [],
-   "stars": 5017,
-   "weekly_stars": 158.2,
-   "growth_method": "estimate",
-   "pushed_days_ago": 1,
-   "created_days_ago": 222,
-   "license": "MIT",
-   "official": false,
-   "risk": {
-    "hooks": false,
-    "scripts": true,
-    "no_license": false,
-    "new_repo": false
-   },
-   "install": [
-    "/plugin marketplace add conorbronsdon/avoid-ai-writing",
-    "/plugin install avoid-ai-writing@conorbronsdon-skills"
-   ],
-   "score": 32.57,
-   "_info": {
-    "skills": [
-     "ai-writing-detector",
-     "avoid-ai-writing",
-     "avoid-ai-writing-router",
-     "false-positive-reviewer",
-     "file-edit-in-place",
-     "preservation-verifier",
-     "voice-preserving-rewriter"
-    ],
-    "plugins": [
-     "avoid-ai-writing"
-    ],
-    "commands": [],
-    "marketplace": "conorbronsdon-skills",
-    "has_hooks": false,
-    "has_mcp": false,
-    "has_scripts": true
-   }
-  },
-  {
-   "repo": "davidondrej/skills",
-   "url": "https://github.com/davidondrej/skills",
-   "description": "access to david ondrej's personal agent skills",
+   "repo": "ShawnPana/phone-harness",
+   "url": "https://github.com/ShawnPana/phone-harness",
+   "description": "let your agent control your phone",
    "kind": "skill",
    "stacks": [],
-   "categories": [
-    "review",
-    "frontend",
-    "db"
-   ],
+   "categories": [],
    "skills": [
-    "4x4",
-    "adr-verbatim",
-    "anti-sleep",
-    "ask-then-build",
-    "bb-cli",
-    "bb-plugins",
-    "before-building",
-    "boat",
-    "browser-harness",
-    "browser-use"
+    "phone-harness"
    ],
    "plugins": [],
    "commands": [],
-   "stars": 4140,
-   "weekly_stars": 258.8,
+   "stars": 3678,
+   "weekly_stars": 373.1,
    "growth_method": "estimate",
    "pushed_days_ago": 0,
-   "created_days_ago": 112,
+   "created_days_ago": 69,
    "license": "MIT",
    "official": false,
    "risk": {
     "hooks": false,
-    "scripts": true,
+    "scripts": false,
     "no_license": false,
     "new_repo": false
    },
    "install": [
-    "npx skills add davidondrej/skills --skill <4x4|adr-verbatim|anti-sleep|ask-then-build|bb-cli>"
+    "npx skills add ShawnPana/phone-harness"
    ],
-   "score": 32.55,
+   "score": 32.56,
    "_info": {
     "skills": [
-     "4x4",
-     "adr-verbatim",
-     "anti-sleep",
-     "ask-then-build",
-     "bb-cli",
-     "bb-plugins",
-     "before-building",
-     "boat",
-     "browser-harness",
-     "browser-use",
-     "cmux",
-     "codex-subagent",
-     "create-readonly-db-role",
-     "cua-driver",
-     "decisions",
-     "deep-research",
-     "deep-scrape",
-     "deepapi",
-     "designs",
-     "distribute-skill-to-all-agents",
-     "domain-checker",
-     "effective-agent-skills",
-     "fable-review",
-     "fable-safe-prompt",
-     "file-tree",
-     "fireflies-transcript",
-     "git-worktree",
-     "github-outside-sandbox",
-     "global-agent-guardrails",
-     "goal-loop",
-     "gpt-review",
-     "handoff",
-     "herdr",
-     "image-prompt",
-     "keep-track",
-     "larp-detector",
-     "muse-review",
-     "nagent",
-     "new-grok-bot",
-     "online-shopping",
-     "openrouter",
-     "persistent-localhost",
-     "prompt-for-others",
-     "read-all-adrs",
-     "remind",
-     "rename",
-     "rename-process",
-     "repo-sync",
-     "reset-cursor-acp",
-     "risky-changes"
+     "phone-harness"
     ],
     "plugins": [],
     "commands": [],
     "marketplace": null,
     "has_hooks": false,
     "has_mcp": false,
+    "has_scripts": false
+   }
+  },
+  {
+   "repo": "eugeniughelbur/obsidian-second-brain",
+   "url": "https://github.com/eugeniughelbur/obsidian-second-brain",
+   "description": "Persistent memory for Claude Code and 6 other CLI agents, stored as plain markdown in your Obsidian vault. Stop re-explaining your projects, decisions and people every session. 45 commands: hybrid sem",
+   "kind": "plugin",
+   "stacks": [],
+   "categories": [
+    "memory"
+   ],
+   "skills": [
+    "obsidian-second-brain"
+   ],
+   "plugins": [
+    "obsidian-second-brain"
+   ],
+   "commands": [],
+   "stars": 4776,
+   "weekly_stars": 163.1,
+   "growth_method": "estimate",
+   "pushed_days_ago": 0,
+   "created_days_ago": 205,
+   "license": "MIT",
+   "official": false,
+   "risk": {
+    "hooks": true,
+    "scripts": true,
+    "no_license": false,
+    "new_repo": false
+   },
+   "install": [
+    "/plugin marketplace add eugeniughelbur/obsidian-second-brain",
+    "/plugin install obsidian-second-brain@obsidian-second-brain"
+   ],
+   "score": 32.52,
+   "_info": {
+    "skills": [
+     "obsidian-second-brain"
+    ],
+    "plugins": [
+     "obsidian-second-brain"
+    ],
+    "commands": [],
+    "marketplace": "obsidian-second-brain",
+    "has_hooks": true,
+    "has_mcp": true,
     "has_scripts": true
    }
   },
   {
-   "repo": "Oldcircle/geo-sleuth",
-   "url": "https://github.com/Oldcircle/geo-sleuth",
-   "description": "An agent skill that finds where a photo was taken — OpenStreetMap geometry, elevation skylines, satellite imagery and street view — and shows its work. Works with Claude Code, Codex, Cursor, Gemini CL",
+   "repo": "YaoApp/yao",
+   "url": "https://github.com/YaoApp/yao",
+   "description": "✨ All your agents and workspaces in one place, on every device you own. Track tasks on a board, accessible from desktop, mobile, browser, or API. Self-hosted.",
    "kind": "skill",
    "stacks": [],
-   "categories": [],
+   "categories": [
+    "security"
+   ],
    "skills": [
-    "geo-sleuth"
+    "secret",
+    "yao-agent",
+    "yao-audio",
+    "yao-board",
+    "yao-daemon",
+    "yao-decision",
+    "yao-doc",
+    "yao-image",
+    "yao-job",
+    "yao-ocr"
    ],
    "plugins": [],
    "commands": [],
-   "stars": 2820,
-   "weekly_stars": 759.2,
+   "stars": 8130,
+   "weekly_stars": 30.5,
    "growth_method": "estimate",
    "pushed_days_ago": 0,
-   "created_days_ago": 26,
-   "license": "MIT",
+   "created_days_ago": 1865,
+   "license": "NOASSERTION",
    "official": false,
    "risk": {
     "hooks": false,
     "scripts": true,
     "no_license": false,
-    "new_repo": true
+    "new_repo": false
    },
    "install": [
-    "npx skills add Oldcircle/geo-sleuth"
+    "npx skills add YaoApp/yao --skill <secret|yao-agent|yao-audio|yao-board|yao-daemon>"
    ],
-   "score": 32.47,
+   "score": 32.46,
    "_info": {
     "skills": [
-     "geo-sleuth"
+     "secret",
+     "yao-agent",
+     "yao-audio",
+     "yao-board",
+     "yao-daemon",
+     "yao-decision",
+     "yao-doc",
+     "yao-image",
+     "yao-job",
+     "yao-ocr",
+     "yao-process",
+     "yao-secret",
+     "yao-web",
+     "yao-workspace",
+     "yao-workspace-config"
     ],
     "plugins": [],
     "commands": [],
@@ -10353,11 +10839,11 @@
    ],
    "plugins": [],
    "commands": [],
-   "stars": 7258,
+   "stars": 7263,
    "weekly_stars": 40.5,
    "growth_method": "estimate",
    "pushed_days_ago": 0,
-   "created_days_ago": 1253,
+   "created_days_ago": 1254,
    "license": "Apache-2.0",
    "official": false,
    "risk": {
@@ -10387,64 +10873,6 @@
    }
   },
   {
-   "repo": "Nanako0129/sepia",
-   "url": "https://github.com/Nanako0129/sepia",
-   "description": "De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code, Codex, Grok Build, and Antigravity. Narrative-architecture repair for fiction, ",
-   "kind": "plugin",
-   "stacks": [],
-   "categories": [
-    "review"
-   ],
-   "skills": [
-    "sepia",
-    "sepia-hemingway",
-    "sepia-recreate",
-    "sepia-refactor",
-    "sepia-review",
-    "sepia-write"
-   ],
-   "plugins": [
-    "sepia"
-   ],
-   "commands": [],
-   "stars": 3176,
-   "weekly_stars": 473.0,
-   "growth_method": "estimate",
-   "pushed_days_ago": 0,
-   "created_days_ago": 47,
-   "license": "MIT",
-   "official": false,
-   "risk": {
-    "hooks": false,
-    "scripts": true,
-    "no_license": false,
-    "new_repo": false
-   },
-   "install": [
-    "/plugin marketplace add Nanako0129/sepia",
-    "/plugin install sepia@sepia"
-   ],
-   "score": 32.35,
-   "_info": {
-    "skills": [
-     "sepia",
-     "sepia-hemingway",
-     "sepia-recreate",
-     "sepia-refactor",
-     "sepia-review",
-     "sepia-write"
-    ],
-    "plugins": [
-     "sepia"
-    ],
-    "commands": [],
-    "marketplace": "sepia",
-    "has_hooks": false,
-    "has_mcp": false,
-    "has_scripts": true
-   }
-  },
-  {
    "repo": "Gaurav-Gosain/tuios",
    "url": "https://github.com/Gaurav-Gosain/tuios",
    "description": "A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for every coding agent.",
@@ -10460,11 +10888,11 @@
    ],
    "plugins": [],
    "commands": [],
-   "stars": 5354,
-   "weekly_stars": 93.0,
+   "stars": 5396,
+   "weekly_stars": 93.5,
    "growth_method": "estimate",
    "pushed_days_ago": 0,
-   "created_days_ago": 403,
+   "created_days_ago": 404,
    "license": "MIT",
    "official": false,
    "risk": {
@@ -10476,7 +10904,7 @@
    "install": [
     "npx skills add Gaurav-Gosain/tuios"
    ],
-   "score": 32.3,
+   "score": 32.33,
    "_info": {
     "skills": [
      "tuios"
@@ -10520,11 +10948,11 @@
    ],
    "plugins": [],
    "commands": [],
-   "stars": 5398,
-   "weekly_stars": 88.3,
+   "stars": 5403,
+   "weekly_stars": 88.2,
    "growth_method": "estimate",
    "pushed_days_ago": 0,
-   "created_days_ago": 428,
+   "created_days_ago": 429,
    "license": "MIT",
    "official": false,
    "risk": {
@@ -10536,7 +10964,7 @@
    "install": [
     "npx skills add github/gh-aw --skill <agent-collaboration|agent-conduct|agentic-workflows|architectural-proposals|awf-release-integrator>"
    ],
-   "score": 32.27,
+   "score": 32.28,
    "_info": {
     "skills": [
      "agent-collaboration",
@@ -10599,113 +11027,6 @@
    }
   },
   {
-   "repo": "eugeniughelbur/obsidian-second-brain",
-   "url": "https://github.com/eugeniughelbur/obsidian-second-brain",
-   "description": "Persistent memory for Claude Code and 6 other CLI agents, stored as plain markdown in your Obsidian vault. Stop re-explaining your projects, decisions and people every session. 45 commands: hybrid sem",
-   "kind": "plugin",
-   "stacks": [],
-   "categories": [
-    "memory"
-   ],
-   "skills": [
-    "obsidian-second-brain"
-   ],
-   "plugins": [
-    "obsidian-second-brain"
-   ],
-   "commands": [],
-   "stars": 4766,
-   "weekly_stars": 163.5,
-   "growth_method": "estimate",
-   "pushed_days_ago": 4,
-   "created_days_ago": 204,
-   "license": "MIT",
-   "official": false,
-   "risk": {
-    "hooks": true,
-    "scripts": true,
-    "no_license": false,
-    "new_repo": false
-   },
-   "install": [
-    "/plugin marketplace add eugeniughelbur/obsidian-second-brain",
-    "/plugin install obsidian-second-brain@obsidian-second-brain"
-   ],
-   "score": 32.26,
-   "_info": {
-    "skills": [
-     "obsidian-second-brain"
-    ],
-    "plugins": [
-     "obsidian-second-brain"
-    ],
-    "commands": [],
-    "marketplace": "obsidian-second-brain",
-    "has_hooks": true,
-    "has_mcp": true,
-    "has_scripts": true
-   }
-  },
-  {
-   "repo": "homeassistant-ai/ha-mcp",
-   "url": "https://github.com/homeassistant-ai/ha-mcp",
-   "description": "The Unofficial and Awesome Home Assistant MCP Server",
-   "kind": "skill",
-   "stacks": [],
-   "categories": [
-    "review",
-    "mcp",
-    "memory"
-   ],
-   "skills": [
-    "bat-adhoc",
-    "bat-story-eval",
-    "contrib-pr-review",
-    "contributors-update",
-    "issue-analysis",
-    "issue-to-pr-resolver",
-    "my-pr-checker",
-    "wt"
-   ],
-   "plugins": [],
-   "commands": [],
-   "stars": 5078,
-   "weekly_stars": 90.0,
-   "growth_method": "estimate",
-   "pushed_days_ago": 0,
-   "created_days_ago": 395,
-   "license": "MIT",
-   "official": false,
-   "risk": {
-    "hooks": false,
-    "scripts": true,
-    "no_license": false,
-    "new_repo": false
-   },
-   "install": [
-    "npx skills add homeassistant-ai/ha-mcp --skill <bat-adhoc|bat-story-eval|contrib-pr-review|contributors-update|issue-analysis>"
-   ],
-   "score": 32.11,
-   "_info": {
-    "skills": [
-     "bat-adhoc",
-     "bat-story-eval",
-     "contrib-pr-review",
-     "contributors-update",
-     "issue-analysis",
-     "issue-to-pr-resolver",
-     "my-pr-checker",
-     "wt"
-    ],
-    "plugins": [],
-    "commands": [],
-    "marketplace": null,
-    "has_hooks": false,
-    "has_mcp": false,
-    "has_scripts": true
-   }
-  },
-  {
    "repo": "lemomo-ai/lemo-opuscar",
    "url": "https://github.com/lemomo-ai/lemo-opuscar",
    "description": "Claude Code skill for short films with no video model: 43 film styles, each a style prompt plus a demo film made entirely in code by Claude Opus 5.5 (incl. OPUSCAR 98). By Lemomo. · Opus5.5 x 43 种影片风格",
@@ -10719,11 +11040,11 @@
     "lemo-opuscar"
    ],
    "commands": [],
-   "stars": 2375,
-   "weekly_stars": 923.6,
+   "stars": 2490,
+   "weekly_stars": 917.4,
    "growth_method": "estimate",
-   "pushed_days_ago": 1,
-   "created_days_ago": 18,
+   "pushed_days_ago": 2,
+   "created_days_ago": 19,
    "license": "MIT",
    "official": false,
    "risk": {
@@ -10736,7 +11057,7 @@
     "/plugin marketplace add lemomo-ai/lemo-opuscar",
     "/plugin install lemo-opuscar@lemolab"
    ],
-   "score": 32.08,
+   "score": 32.15,
    "_info": {
     "skills": [
      "lemo-opuscar"
@@ -10748,305 +11069,6 @@
     "marketplace": "lemolab",
     "has_hooks": false,
     "has_mcp": false,
-    "has_scripts": true
-   }
-  },
-  {
-   "repo": "vitali87/code-graph-rag",
-   "url": "https://github.com/vitali87/code-graph-rag",
-   "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs",
-   "kind": "skill",
-   "stacks": [
-    "python"
-   ],
-   "categories": [
-    "review",
-    "db",
-    "mcp"
-   ],
-   "skills": [
-    "code-review"
-   ],
-   "plugins": [],
-   "commands": [],
-   "stars": 5258,
-   "weekly_stars": 75.9,
-   "growth_method": "estimate",
-   "pushed_days_ago": 0,
-   "created_days_ago": 485,
-   "license": "MIT",
-   "official": false,
-   "risk": {
-    "hooks": true,
-    "scripts": true,
-    "no_license": false,
-    "new_repo": false
-   },
-   "install": [
-    "npx skills add vitali87/code-graph-rag"
-   ],
-   "score": 32.05,
-   "_info": {
-    "skills": [
-     "code-review"
-    ],
-    "plugins": [],
-    "commands": [],
-    "marketplace": null,
-    "has_hooks": true,
-    "has_mcp": true,
-    "has_scripts": true
-   }
-  },
-  {
-   "repo": "atilaahmettaner/tradingview-mcp",
-   "url": "https://github.com/atilaahmettaner/tradingview-mcp",
-   "description": "TradingView MCP server — real-time market data, technical analysis, screeners & backtesting for Claude, ChatGPT, Cursor & any MCP client. Stocks, crypto, forex & futures across global exchanges. Hoste",
-   "kind": "skill",
-   "stacks": [],
-   "categories": [
-    "testing",
-    "mcp",
-    "memory"
-   ],
-   "skills": [
-    "openclaw"
-   ],
-   "plugins": [],
-   "commands": [],
-   "stars": 5060,
-   "weekly_stars": 82.0,
-   "growth_method": "estimate",
-   "pushed_days_ago": 0,
-   "created_days_ago": 432,
-   "license": "MIT",
-   "official": false,
-   "risk": {
-    "hooks": false,
-    "scripts": true,
-    "no_license": false,
-    "new_repo": false
-   },
-   "install": [
-    "npx skills add atilaahmettaner/tradingview-mcp"
-   ],
-   "score": 32.01,
-   "_info": {
-    "skills": [
-     "openclaw"
-    ],
-    "plugins": [],
-    "commands": [],
-    "marketplace": null,
-    "has_hooks": false,
-    "has_mcp": true,
-    "has_scripts": true
-   }
-  },
-  {
-   "repo": "breaking-brake/cc-wf-studio",
-   "url": "https://github.com/breaking-brake/cc-wf-studio",
-   "description": "CC Workflow Studio",
-   "kind": "skill",
-   "stacks": [],
-   "categories": [
-    "workflow",
-    "review",
-    "db",
-    "mcp"
-   ],
-   "skills": [
-    "cc-workflow-ai-editor",
-    "ccwf-cli",
-    "jira-driven-planning",
-    "next-idea",
-    "next-qa",
-    "next-qa-idea",
-    "next-task",
-    "pr-review-analysis",
-    "pr-to-main",
-    "pr-to-main-cleanup"
-   ],
-   "plugins": [],
-   "commands": [],
-   "stars": 5397,
-   "weekly_stars": 108.9,
-   "growth_method": "estimate",
-   "pushed_days_ago": 8,
-   "created_days_ago": 347,
-   "license": "NOASSERTION",
-   "official": false,
-   "risk": {
-    "hooks": true,
-    "scripts": true,
-    "no_license": false,
-    "new_repo": false
-   },
-   "install": [
-    "npx skills add breaking-brake/cc-wf-studio --skill <cc-workflow-ai-editor|ccwf-cli|jira-driven-planning|next-idea|next-qa>"
-   ],
-   "score": 32.01,
-   "_info": {
-    "skills": [
-     "cc-workflow-ai-editor",
-     "ccwf-cli",
-     "jira-driven-planning",
-     "next-idea",
-     "next-qa",
-     "next-qa-idea",
-     "next-task",
-     "pr-review-analysis",
-     "pr-to-main",
-     "pr-to-main-cleanup",
-     "workflow-schema-tuning"
-    ],
-    "plugins": [],
-    "commands": [],
-    "marketplace": null,
-    "has_hooks": true,
-    "has_mcp": true,
-    "has_scripts": true
-   }
-  },
-  {
-   "repo": "zenbu-labs/terminal-browser",
-   "url": "https://github.com/zenbu-labs/terminal-browser",
-   "description": "A browser inside your terminal",
-   "kind": "plugin",
-   "stacks": [
-    "rust"
-   ],
-   "categories": [],
-   "skills": [
-    "verify"
-   ],
-   "plugins": [
-    "terminal-browser"
-   ],
-   "commands": [],
-   "stars": 3873,
-   "weekly_stars": 271.1,
-   "growth_method": "estimate",
-   "pushed_days_ago": 7,
-   "created_days_ago": 100,
-   "license": "MIT",
-   "official": false,
-   "risk": {
-    "hooks": true,
-    "scripts": true,
-    "no_license": false,
-    "new_repo": false
-   },
-   "install": [
-    "/plugin marketplace add zenbu-labs/terminal-browser",
-    "/plugin install terminal-browser@terminal-browser"
-   ],
-   "score": 31.98,
-   "_info": {
-    "skills": [
-     "verify"
-    ],
-    "plugins": [
-     "terminal-browser"
-    ],
-    "commands": [],
-    "marketplace": "terminal-browser",
-    "has_hooks": true,
-    "has_mcp": false,
-    "has_scripts": true
-   }
-  },
-  {
-   "repo": "get-bb/bb",
-   "url": "https://github.com/get-bb/bb",
-   "description": "The agent IDE that builds itself",
-   "kind": "skill",
-   "stacks": [],
-   "categories": [
-    "workflow",
-    "testing",
-    "docs",
-    "security",
-    "mcp",
-    "memory"
-   ],
-   "skills": [
-    "account-pool",
-    "acp-provider",
-    "add-contributor",
-    "agent-annotations",
-    "automations",
-    "bb-account",
-    "bb-cli",
-    "bb-cloud-ai",
-    "bb-plugin-authoring",
-    "bb-theme-authoring"
-   ],
-   "plugins": [],
-   "commands": [],
-   "stars": 4310,
-   "weekly_stars": 130.0,
-   "growth_method": "estimate",
-   "pushed_days_ago": 0,
-   "created_days_ago": 232,
-   "license": "MIT",
-   "official": false,
-   "risk": {
-    "hooks": true,
-    "scripts": true,
-    "no_license": false,
-    "new_repo": false
-   },
-   "install": [
-    "npx skills add get-bb/bb --skill <account-pool|acp-provider|add-contributor|agent-annotations|automations>"
-   ],
-   "score": 31.98,
-   "_info": {
-    "skills": [
-     "account-pool",
-     "acp-provider",
-     "add-contributor",
-     "agent-annotations",
-     "automations",
-     "bb-account",
-     "bb-cli",
-     "bb-cloud-ai",
-     "bb-plugin-authoring",
-     "bb-theme-authoring",
-     "browser-automation",
-     "claude-code-provider",
-     "codex-provider",
-     "concurrency-limit",
-     "create-verification-skill",
-     "deslop",
-     "docs",
-     "inline-vis",
-     "maintain-verification-skill",
-     "mcp",
-     "memory",
-     "modal-sandboxes",
-     "pi-provider",
-     "plugin-guide-maintenance",
-     "prompt-library",
-     "provider-retry",
-     "push-notifications",
-     "repo-conventions",
-     "secrets",
-     "share-server-links",
-     "skill-creator",
-     "storage-retention",
-     "submit-a-plugin",
-     "tasks",
-     "test-audit",
-     "thread-list",
-     "verify-bb",
-     "workflows"
-    ],
-    "plugins": [],
-    "commands": [],
-    "marketplace": null,
-    "has_hooks": true,
-    "has_mcp": true,
     "has_scripts": true
    }
   },
@@ -11078,11 +11100,11 @@
     "marketing-skills"
    ],
    "commands": [],
-   "stars": 4585,
-   "weekly_stars": 120.7,
+   "stars": 4772,
+   "weekly_stars": 125.1,
    "growth_method": "estimate",
-   "pushed_days_ago": 2,
-   "created_days_ago": 266,
+   "pushed_days_ago": 3,
+   "created_days_ago": 267,
    "license": null,
    "official": false,
    "risk": {
@@ -11095,7 +11117,7 @@
     "/plugin marketplace add irinabuht12-oss/marketing-skills",
     "/plugin install marketing-skills@ryze"
    ],
-   "score": 31.96,
+   "score": 32.06,
    "_info": {
     "skills": [
      "ab-test-analyzer",
@@ -11156,6 +11178,146 @@
     "has_hooks": false,
     "has_mcp": false,
     "has_scripts": false
+   }
+  },
+  {
+   "repo": "54yyyu/zotero-mcp",
+   "url": "https://github.com/54yyyu/zotero-mcp",
+   "description": "Zotero MCP: Connects your Zotero research library with Claude and other AI assistants via the Model Context Protocol to discuss papers, get summaries, analyze citations, and more.",
+   "kind": "skill",
+   "stacks": [],
+   "categories": [
+    "mcp",
+    "memory"
+   ],
+   "skills": [
+    "annotate-paper",
+    "zotero-cli"
+   ],
+   "plugins": [],
+   "commands": [],
+   "stars": 5422,
+   "weekly_stars": 66.4,
+   "growth_method": "estimate",
+   "pushed_days_ago": 0,
+   "created_days_ago": 572,
+   "license": "MIT",
+   "official": false,
+   "risk": {
+    "hooks": false,
+    "scripts": true,
+    "no_license": false,
+    "new_repo": false
+   },
+   "install": [
+    "npx skills add 54yyyu/zotero-mcp --skill <annotate-paper|zotero-cli>"
+   ],
+   "score": 32.01,
+   "_info": {
+    "skills": [
+     "annotate-paper",
+     "zotero-cli"
+    ],
+    "plugins": [],
+    "commands": [],
+    "marketplace": null,
+    "has_hooks": false,
+    "has_mcp": false,
+    "has_scripts": true
+   }
+  },
+  {
+   "repo": "get-bb/bb",
+   "url": "https://github.com/get-bb/bb",
+   "description": "The agent IDE that builds itself",
+   "kind": "skill",
+   "stacks": [],
+   "categories": [
+    "workflow",
+    "testing",
+    "docs",
+    "security",
+    "mcp",
+    "memory"
+   ],
+   "skills": [
+    "account-pool",
+    "acp-provider",
+    "add-contributor",
+    "agent-annotations",
+    "automations",
+    "bb-account",
+    "bb-cli",
+    "bb-cloud-ai",
+    "bb-plugin-authoring",
+    "bb-theme-authoring"
+   ],
+   "plugins": [],
+   "commands": [],
+   "stars": 4326,
+   "weekly_stars": 130.0,
+   "growth_method": "estimate",
+   "pushed_days_ago": 0,
+   "created_days_ago": 233,
+   "license": "MIT",
+   "official": false,
+   "risk": {
+    "hooks": true,
+    "scripts": true,
+    "no_license": false,
+    "new_repo": false
+   },
+   "install": [
+    "npx skills add get-bb/bb --skill <account-pool|acp-provider|add-contributor|agent-annotations|automations>"
+   ],
+   "score": 31.99,
+   "_info": {
+    "skills": [
+     "account-pool",
+     "acp-provider",
+     "add-contributor",
+     "agent-annotations",
+     "automations",
+     "bb-account",
+     "bb-cli",
+     "bb-cloud-ai",
+     "bb-plugin-authoring",
+     "bb-theme-authoring",
+     "browser-automation",
+     "claude-code-provider",
+     "codex-provider",
+     "concurrency-limit",
+     "create-verification-skill",
+     "deslop",
+     "docs",
+     "inline-vis",
+     "maintain-verification-skill",
+     "mcp",
+     "memory",
+     "modal-sandboxes",
+     "pi-provider",
+     "plugin-guide-maintenance",
+     "prompt-library",
+     "provider-retry",
+     "push-notifications",
+     "repo-conventions",
+     "secrets",
+     "share-server-links",
+     "skill-creator",
+     "storage-retention",
+     "submit-a-plugin",
+     "tasks",
+     "test-audit",
+     "thread-list",
+     "verify-bb",
+     "workflows"
+    ],
+    "plugins": [],
+    "commands": [],
+    "marketplace": null,
+    "has_hooks": true,
+    "has_mcp": true,
+    "has_scripts": true
    }
   }
  ]
